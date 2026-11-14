@@ -1,0 +1,3554 @@
+# Integra Protocol — complete extracted text
+
+Vladimir Stojakovic · v1.1 · 127 PDF pages. Original wording preserved; page 1 transcribed from the image-only cover. PDF page numbers are physical file pages. Line breaks follow extraction.
+
+## PDF page 1
+
+INTEGRA PROTOCOL
+how to integrate internal conflicts
+VLADIMIR STOJAKOVIC
+
+## PDF page 2
+
+INTEGRA PROTOCOL: HOW TO INTEGRATE INTERNAL CONFLICTS
+Vladimir Stojakovic
+
+## PDF page 3
+
+Publisher: Vladimir Stojakovic
+Copyright 2015 by Vladimir Stojakovic
+All rights reserved
+This book, or parts thereof, may not be reproduced in any form without permission.
+The contents of this book are not to be construed as medical advice.
+www.vladimir-stojakovic
+vlad.stojakovic@icloud.com
+Editor: Fran Kenealy
+Cover design: Natasa Radanovic
+ISBN: 978-86-918925-3-1
+Vr 1.1
+
+## PDF page 4
+
+In Memoriam
+B. Stojakovic
+(1947-2014)
+
+## PDF page 5
+
+Limited in his nature,
+Infinite in his desire,
+Man is a fallen god
+Who remembers heaven.
+Alphonse de Lamartine
+
+## PDF page 6
+
+CONTENTS
+Introduction
+PART I - Concepts
+Defining identity in Integra Protocol
+Assuming and releasing identities
+Inability to willingly assume or release identities
+What prevents us from assuming needed identities
+What activates stuck identities
+What is stuckness and how it originates
+How decisions of defeat solve problems
+How stuckness creates problems
+Causing stuckness by affirmative decisions
+Vertical and horizontal multiplication of stuck identities
+The armature of personality
+How Integra Protocol integrates conflicts and solves problems
+Freedom and stuckness
+Internal conflicts
+Positional and oppositional sides of the conflict
+Functioning and reacting
+Blame and causality
+Activity and reactivity
+Internal conflicts and the bipolar universe
+Bipolar perception
+Identities and charge
+Identities and evolution
+
+## PDF page 7
+
+Identities and identifications
+Part II - Practice
+Introductory exercises
+Subjective and objective problems
+Situation and reaction
+Integra Protocol, step by step
+Session transcripts
+Exceptions
+Thinking, noticing, feeling
+Directing attention
+Working in the present time
+Taking notes
+Self-processing and processing others
+Progressive integration and relevant mind content
+Positive, negative, wholeness
+Working with goals
+Part III - Comments
+Four reaction types
+Repetitiveness
+Self-sabotage
+Secondary gain
+Health problems
+Dynamics of the ego
+Selecting a topic to work on
+Short-term and long-term results
+Appendix I: Guidelines for practical work
+Appendix II: Definitions
+Literature
+
+## PDF page 8
+
+Introduction
+"Be kind, for everyone you meet is fighting a hard battle", Plato said. This has always been
+the human condition, with suffering on one side and pursuit of happiness on the other. From
+our beginnings, when we fought for survival, and later, across the development of science,
+religion, and spirituality... all our activities aimed to release us from suffering and find
+something opposite to it, something we may call by different names, but deep inside, we all
+feel the same longing. Integra Protocol is my contribution to this quest.
+Integra Protocol is a simple and efficient method which enables us to:
+-liberate ourselves from suffering tied to negative experiences
+-liberate ourselves from problems
+-remove barriers that separate us from our goals
+-accelerate our spiritual evolution and liberate our consciousness from the shackles of the
+ego
+All of the above can be accomplished at the same time, using only one method.
+This book is a practical manual which teaches you to successfully apply Integra Protocol on
+yourself and others. The first part introduces the theory which Integra Protocol is based on.
+The second part gives clear technical instructions, step by step. The third part covers topics
+that become relevant once you have a complete picture of the method.
+I created Integra Protocol based on 25 years of experience with the Spiritual Technology of
+Zivorad M. Slavinski. Many principles of Spiritual Technology are incorporated in it. Also, I
+was significantly influenced by Spiritual Option and Quick Goals, systems created by Filip
+Mihajlovic.
+This manual is written to enable you to practice Integra Protocol after the first reading.
+Therefore, its style is clear and concise and the key principles are deliberately repeated.
+I did my best to empower you to practically apply the method and to make the learning
+process as smooth as possible. Included are:
+-An explanation of the theory
+-Technical instructions
+-Explanations of exceptions to the basic method
+-Numerous examples
+
+## PDF page 9
+
+-Session transcripts
+-Guidelines for practical work
+-A chapter with definitions of terms
+Finally, if needed, additional sessions and a seminar of Integra Protocol are also available.
+
+## PDF page 10
+
+Part I - Concepts
+"If you can't explain it simply, you don't understand it well enough."
+Albert Einstein
+
+## PDF page 11
+
+Defining identity in Integra Protocol
+Working with identities is the basis of Integra Protocol. An identity is a simple structure that
+does not consist of multiple elements. It is a single and indivisible entity.
+An identity is a point of view plus a goal that we want to achieve from that point of view.
+For example:
+-point of view - a withdrawn person, with the goal - to avoid humiliation
+-point of view - a person obstructed by others, with the goal - to have an excuse for giving
+up
+-point of view - a pretender, with the goal - to fulfill the expectations of others
+I’ve taken this concept of an identity from the Spiritual Technology of Zivorad M. Slavinski,
+who credits it to American researchers Mike Goldstein and John Galusha, and uses it in
+several of his methods and systems.
+Assuming and releasing identities
+A human being has an inherent ability to assume whichever identity is needed to achieve a
+goal, as well as to release the identity once the goal is achieved. In fact, without assuming an
+appropriate identity, it is difficult to accomplish any goal, or to follow through with any
+decision.
+Throughout the day, as we achieve sequences of short-term and long-term goals, we
+continually move through various identities. For most people there is no noticeable break
+between identities.
+Slavinski gives the following example: "In everyday life, most of the time, people assume or
+release identities without making a conscious decision. The process of assuming or releasing
+identities occurs unconsciously. Moving from one identity to another usually happens
+quickly and easily.
+For example, at work, one may have the identity of a medical doctor while seeing patients,
+reading professional journals, or discussing medical issues with colleagues. When entering
+his car to go home, he also enters the identity of a driver. He adheres to traffic laws and
+avoids making mistakes while driving.
+
+## PDF page 12
+
+At home, he assumes the identity of a husband; when he sees his children, he enters the
+identity of a father. Upon answering the phone to talk to his mother, he is in the identity of
+her son, and so on."
+Inability to willingly assume or release identities
+Problems appear when we are unable to assume the identity needed to accomplish a goal. If
+the person from Slavinski’s example was unable to assume the identity of a doctor or a
+driver, he wouldn’t be able to provide medical care or drive a car. At the very least,
+performing these activities would be very difficult.
+What prevents us from assuming needed identities
+There are numerous stuck identities in each of us. When we make a decision, it activates
+unconscious, stuck identities, whose goals are opposite to that particular decision. That's an
+internal conflict. Unconscious, stuck and newly active identities don't allow the person to
+exit them and enter the needed identity, which is their opposite.
+For example, if a man who is stuck in the unconscious identity of "a withdrawn person" (with
+the goal "to avoid humiliation") makes a decision to approach an attractive woman, this
+identity will actively sabotage the man's efforts to assume a new identity more suitable for
+meeting the woman. The possibility of rejection and humiliation upon approaching the
+woman is in direct opposition to the goal of the stuck identity ("a withdrawn person" - "to
+avoid humiliation"). Stuck identities are activated when their goals are threatened.
+In other words, when a person intends to assume an identity needed for accomplishment of
+a goal and there is internal resistance, the person will have difficulties entering the needed
+identity. If there is no internal resistance, the person will automatically and unconsciously
+take over the appropriate identity.
+What activates stuck identities
+Stuck identities get activated when our conscious goals or intentions are in opposition to the
+unconscious goals of those stuck identities. To make the situation worse, it's not
+predominantly one identity that becomes active, but a number of them with similar goals.
+In the same example, Slavinski goes on: "If the medical doctor from our previous example
+was stuck in the identity of a child while at work, he would constantly seek advice from
+
+## PDF page 13
+
+others, and would not be able to make independent decisions or treat patients from a
+position of authority.
+These behaviors would be a clear sign of a personality disorder. That kind of person would
+not be able to achieve goals or gain an appropriate place in society, and would experience
+hardship and suffering. He would also be an inadequate marital partner."
+Notice the internal conflict indicated by this example. On one side of the conflict is the
+identity of a child and on the other side are the intentions of an adult: "to make independent
+decisions, to treat patients from a position of authority, to gain an appropriate place in
+society", and probably additional intentions not directly stated.
+What is stuckness and how it originates
+Theory teaches us that stuckness is created in situations of defeat. We are on our way to
+achieve a goal, an intention or a decision - short-term, long-term or simply ongoing. Let's call
+it an affirmative or positive decision.
+In one moment we experience a defeat of this affirmative decision and we feel bad. To
+alleviate the situation of defeat and to prevent similar experiences in the future, we usually
+make another decision which is in opposition to the affirmative decision. This opposite
+decision we call a decision of defeat or simply a negative decision.
+For example, at the beginning of primary school, a child is happy when receiving praise from
+parents and teachers for doing well in school. Since the child likes attention and approval, he
+continues to excel. The goal of the identity from which the child operates could be "to get
+approval" and the point of view could be "a person who stands out".
+One day, the teacher gives a poem for homework, to be learned by heart. The next day, our
+child voluntarily stands in front of the class to recite it. But, he gets confused, stammers and
+cannot continue. Some students are mocking him.
+In this situation, the affirmative decision - "to get approval" - was defeated. The child
+concludes that standing out may lead to humiliation and makes a decision of defeat "to
+avoid humiliation", assuming the point of view of "a withdrawn person". Now, we have a
+conflict and consequently stuckness.
+On one side of this conflict is the identity "a person who stands out" with the goal "to get
+approval", and on the other side is the opposite identity "a withdrawn person" with the goal
+"to avoid humiliation".
+The new identity "a withdrawn person" with the goal "to avoid humiliation" (created due to
+defeat) did not cancel the previous identity "a person who stands out" with the goal "to get
+approval". Both identities are there, opposed to one another.
+
+## PDF page 14
+
+A person cannot be stuck in one identity only. The person is always stuck in between two
+conflicted identities. Stuckness is an internal conflict between two confronted identities and
+their goals, i.e. decisions those goals are based upon.
+How decisions of defeat solve problems
+When a child exposed to humiliation makes a decision to withdraw, to be "a withdrawn
+person", he feels better, because he unconsciously perceives that making this decision
+protects him from both the ongoing and any future humiliation.
+How stuckness creates problems
+Internal conflicts have an oscillatory nature. In a certain time period, one side dominates,
+and after a while, the other side takes over. For example, the child assumes the identity "a
+person who stands out" and suppresses the identity "a withdrawn person". In the course of
+time, identities change places. Now, the child suppresses "a person who stands out" and
+identifies with "a withdrawn person".
+While "a withdrawn person" dominates, its goal ("to avoid humiliation") is satisfied and it
+does not create a negative reaction. But, there is another, confronted identity - "a person
+who stands out". Its goal ("to get approval") is not satisfied, which creates a negative
+reaction. The goal of a stuck identity compulsively tends to materialize regardless of whether
+its identity currently dominates or not.
+Eventually, the child will shift again, this time from "a withdrawn person" back to "a person
+who stands out". Sometimes the shift happens gradually as a result of accumulated
+dissatisfaction (charge), due to the lack of praise, or suddenly, due to a situation which is a
+trigger. For example, parents may criticize the child for something he did or didn't do.
+Now, the identity "a person who stands out" dominates and its goal ("to get approval") is
+either satisfied or on its way to being satisfied. But the other identity ("a withdrawn person")
+and its goal ("to avoid humiliation") are still present, despite being pushed aside. And since
+the goal of this identity is now threatened, the child feels exposed; he feels fear, trepidation
+and similar emotions. Again, the goal of a stuck identity compulsively tends to materialize
+whether its identity currently dominates or not.
+Notice that there are only two sides in this conflict and whichever side the child turns to, in
+both cases the child will have a problem. If he is withdrawn, there is no praise and that
+creates dissatisfaction. If the child stands out, fear of humiliation is present. This is how an
+internal conflict works - we have two options only and in both cases we have a problem or
+negative reaction.
+
+## PDF page 15
+
+Thornton Wilder had this dilemma in mind when he said: "When you're safe at home you
+wish you were having an adventure; when you're having an adventure you wish you were
+safe at home." The following is written in the Upanishads, the ancient collection of Vedic
+texts: "Like a ball batted back and forth, a human being is batted by two forces within."
+In the course of time, our child will shift again, gradually or suddenly, and will continue
+oscillating from one to another side of this internal conflict.
+Causing stuckness by affirmative decisions
+To repeat, theory teaches us that stuckness is caused by situations of defeat. However, is
+this always true?
+Let's go back to our previous example. The child concludes that standing out may lead to
+humiliation, makes a decision of defeat "to avoid humiliation", and assumes the point of
+view of "a withdrawn person". He grows up, becomes an adult and wishes to approach a girl.
+But, every time he thinks about it, the unconscious goal "to avoid humiliation" is threatened,
+because the girl could reject him.
+What happens now? The affirmative decision "to approach the girl" causes stuckness in a
+new life situation - opposing an already existing decision of defeat "to avoid humiliation".
+Even though a defeat regarding relationships with the opposite gender has not actually
+happened - we already have stuckness. Yes, new stuckness is based on a past defeat, but
+that defeat is connected to the affirmation of the child in school, not to relationships with
+the opposite gender.
+Stuckness occurs in at least two ways:
+-By defeat of an existing affirmative decision
+-By making a new affirmative decision which is in conflict with an existing decision of defeat
+There isn't even a need to use the terms "affirmative" and "decision of defeat" because it is
+not only an affirmative decision that can conflict with a decision of defeat. On the contrary,
+every combination is possible. Two positive decisions could be in conflict, a positive and a
+negative decision could be in conflict, two negative decisions could be in conflict. When it's a
+question of perception, everything is possible. In fact, the nature of decisions, whether they
+are positive or negative, is irrelevant. It's only important whether those decisions are in
+conflict or not.
+To take it a step further - some decisions are not easy to classify as positive or negative, if
+you observe them on their own. Their current nature depends on the situation, the context
+in which they are activated, and on our perception. Furthermore, life situations and
+perception are changing all the time. The same decision will be positive in one situation and
+negative in another.
+
+## PDF page 16
+
+One decision by itself does not cause stuckness. Its conflict with another decision is what
+causes stuckness. Who can say whether two decisions are in conflict? Only their owner. It’s a
+matter of the owner's perception whether two decisions are in conflict or not.
+And finally, what causes stuckness?
+To simplify it completely - stuckness is caused by making a decision which is confronted by
+an already existing decision. In many cases, those decisions are not logically confronted by
+one another, but they are opposed in a wider context, where the realization of one would
+more or less obstruct the realization of the other.
+Vertical and horizontal multiplication of stuck identities
+The child from our example will oscillate between the identities "a withdrawn person" and
+"a person who stands out". While perceiving from the first identity he will make new
+decisions and create new identities in accordance with the first identity. Likewise, while
+perceiving from the second identity, he will make new decisions and create new identities in
+accordance with the second identity. Also, when shifting from one identity to another, the
+child will make new decisions and create new identities which are in accordance with the
+identity he is shifting into.
+As a result, instead of having two identities stuck against one another, we will have two
+groups of identities stuck against one another, which makes the problem multilayered and
+difficult to resolve. We could call this a vertical multiplication of stuck identities because they
+are all connected to the same issue, in this case personal affirmation.
+When the child grows up and decides to approach a potential partner, this will be in conflict
+with the identity "a withdrawn person" and its goal "to avoid humiliation". We could call this
+a horizontal multiplication of stuck identities, because it happens in another aspect of life -
+relationships with the opposite gender. In this new area, another problem core is created,
+and in time a new vertical multiplication of identities will occur around this second core
+(related to the relationship issue).
+Eventually, we get a fragmented and conflicted personality, stuck in many aspects of life.
+The armature of personality
+In the human being, there is a net of conflicted decisions, which is the armature or the
+skeleton of personality. All other elements of charge that exist in our unconscious (images,
+thoughts, emotions and body sensations) emanate from decisions, are kept in existence by
+decisions, and will vanish once we make decisions conscious, i.e integrate them. In order to
+have a lasting therapeutic result, we must integrate unconscious decisions.
+
+## PDF page 17
+
+How Integra Protocol integrates conflicts and solves problems
+Human consciousness accomplishes its goals by assuming the most optimal point of view for
+achieving each particular goal, i.e decision. When the goal is achieved, the identity
+automatically and unnoticeably vanishes from consciousness, and we set on another goal,
+based on another decision, and assume another optimal point of view.
+But when our goal or affirmative decision is defeated, we make a decision of defeat, to feel
+better and prevent future outcomes of the same kind. An example is an affirmative decision:
+"to be successful and prove my worth", and the decision of defeat: "to give up to avoid
+further disappointments".
+Both decisions will have accompanying identities, i.e. points of view optimal for
+accomplishing those decisions, which are now in conflict, stuck against one another. The
+person will generate charge based on both points of view (images, thoughts, emotions, body
+sensations) as well as additional identities on both sides of this conflict.
+Integra Protocol resolves problems by integrating all identities on both sides of the conflict,
+including charge we created by perceiving from those identities. What does this really
+mean?
+An identity is an unconscious psychological structure which is "cemented" and locked onto
+the achievement of its goal. It consists of a goal and a point of view. To integrate a stuck
+identity, we have to consciously assume its point of view and recognize its goal. The moment
+we recognize its goal, the identity gets "unstuck", its structure falls apart and the person is
+free from that stuck identity. In other words, the identity is integrated.
+The identity ceases to exist as a fixed energy structure in the unconscious but it continues to
+exist as a potential. We are not stuck in that identity any longer, but we can still assume it, if
+necessary. We are not only free from it, we are also free for it, to enter it and use it, if and
+when a situation requires.
+A person who has integrated the identity "an aggressive person" is not stuck in this identity
+any longer and is not compulsively aggressive. That does not mean that this person cannot
+assume the identity of "an aggressive person". The person can still behave aggressively if he
+believes that aggression is the optimal behavior in a given situation. But now, that is a
+question of free choice as opposed to a compulsive reaction.
+A person who has integrated the identity "a tolerant person" is no longer compulsively
+tolerant. Now, they have the ability to confront people, if the situation requires. However,
+they still have the option to be tolerant, if that's the optimal behavior in a given situation.
+If such freedom does not exist, then stuckness is still there, which means there are still other
+opposing identities (related to the same problem) which resist and prevent the person from
+assuming the desired identity.
+To repeat, internal conflicts consist of two groups of identities, stuck against one another.
+Integra Protocol, step by step, integrates all identities existing on both sides of the conflict
+structure.
+
+## PDF page 18
+
+Freedom and stuckness
+Imagine a woman who has a satisfying relationship with her romantic partner. To gain and
+maintain such a relationship she must be able to assume a suitable identity in the first place.
+Imagine that she had no problem with men in the past, which means that she doesn't have
+stuck identities regarding male-female relationships. She has freedom as opposed to
+stuckness. She freely enters this relationship, assumes the identities that she needs when in
+the company of her partner, and freely moves to other identities when her partner is not
+around or when she is not thinking about him.
+One day, her partner tells her that he has fallen in love with another woman and has already
+started a new relationship. She is shocked and confused, and concludes that "love can hurt".
+The next moment she realizes that she still wants love, even though it might hurt. In fact,
+now she wants it even more. When there is a perception that love is not easily accessible,
+that it is slipping through her fingers, that there is a permanent barrier (possibility of getting
+hurt), she wants love compulsively.
+Obviously, an internal conflict has occurred. Now, she has two confronted parts within, one
+that wants love and the other which is afraid of getting hurt. Notice that she has lost the
+freedom to assume a suitable identity regarding male-female relationships.
+When she is single, fear of getting hurt will not be there. No relationship, no danger. The
+stuck identity whose goal is to protect her from getting hurt is passive because its goal is not
+threatened. On the other hand, she feels the lack of love, which she now wants
+compulsively. She has lost the ability to assume an identity which would enable her to be
+single without suffering. Now the stuck identity that wants love is compulsively pushing
+towards the accomplishment of its goal, which creates suffering.
+When she is in a relationship, fear of getting hurt is present. The identity whose goal is love
+is now withdrawn, because its goal is satisfied. But, the opposite identity whose goal is to
+protect her from getting hurt is now active, because its goal is threatened. If there is a
+relationship, there is also a possibility of getting hurt, which creates suffering.
+Again, in this situation she only has two options - to be single or to be in a relationship, and
+in both cases there is a problem, i.e. negative state. "You can't be happy with someone
+unless you're happy alone", people say.
+The goal of Integra Protocol is to integrate all stuck identities on both sides of this conflict
+and to return the person to the state of freedom that existed before the conflict. In this
+example, it means the woman is able to be single without suffering, until an opportunity for
+an optimal relationship presents itself or for as long as she wants to be single, and when she
+is in a relationship, not to feel a compulsive fear of being hurt.
+This does not mean that she is not aware that she can get hurt in a relationship. She knows
+that such a possibility exists and she is able to accept it. There is a difference between an
+awareness of something and a compulsive fear of something. Each life situation has a
+wanted and unwanted outcome and we are aware of both. When there is an internal conflict
+related to a possible unwanted outcome of a situation, we have a negative reaction. When
+
+## PDF page 19
+
+there is no such conflict, we accept the possibility of an unwanted outcome without a
+compulsive negative reaction.
+When passengers enter an airplane, they know a crash is always possible. Each healthy adult
+knows that. However, regardless of this knowledge, those who don't have internal conflicts
+related to traveling by airplane are able to travel without compulsive reactions. Some people
+have a fear of flying while others don't.
+A negative reaction in a situation shows that we have an internal conflict, two groups of
+confronted identities, and that one group has goals which are opposed to what we perceive
+as the possible negative outcome of the given situation. The goals of this group are
+threatened and they resist when we find ourselves in the given situation or think about it.
+Since these goals are unconscious, we are not fully aware of them, but we feel the
+psychological reaction they generate.
+No matter how diligently we try to resolve this problem on the conscious level, we cannot. In
+fact, we will worsen the problem. By thinking about it, we will make new decisions, create
+new identities, adding more charge to what already exists.
+A successful application of Integra Protocol will result in:
+-Integration of all stuck identities on both sides of the conflict which is the cause of the
+compulsive state or reaction
+-Rehabilitation of the ability to automatically assume identities needed in the given situation
+-Elimination of the problem (compulsive state or reaction) on which we applied the process
+Internal conflicts
+The first chancellor of the united Germany, Otto von Bismarck, said: "Faust complained
+about having two souls in his breast, but I harbor a whole crowd of them and they quarrel. It
+is like being in a republic."
+Internal conflicts are the cause of human suffering. "There are always two forces warring
+against each other within us," said Paramahansa Yogananda. It is not possible to have a
+problem or an unwanted state without an internal conflict associated with that problem or
+state. That internal conflict is always in the difference between what happens and what we
+would like to happen.
+Let's consider traumatic experiences. The problem is that X happened, while I wanted Y to
+happen. And while X was happening I had a negative reaction to it, i.e. thoughts and
+emotions I did not want to feel. So I suppressed them and established permanent resistance
+towards them and made a decision to prevent such experiences from happening again.
+That's how I got stuck. Now, every time I find myself in a situation that reminds me of X, I
+will have a negative reaction, because the decision will be automatically activated to prevent
+a possible negative outcome.
+
+## PDF page 20
+
+Let's consider positive experiences. Here also internal conflicts, i.e. stuckness can occur. For
+example, in her relationship with a boyfriend, a female experiences a peak moment of love
+and intimacy. For her, it’s the most beautiful feeling she has ever had in a relationship with
+another person. That's exactly what she wants so she makes a decision "I will never settle for
+anything less".
+And that's how she gets stuck. The conflict is again between what happens and what she
+would like to happen. She unconsciously compares the current and every future relationship
+with one peak experience, and if they fall short, and in most cases they will, she is
+dissatisfied and has a negative reaction.
+Let's consider problems. A person has a fear of getting hurt in a relationship. If she thought
+"from now on I will be single for the rest of my life and that's just fine", would she have a
+fear of getting hurt? Naturally, she wouldn't. If there is no relationship, there is no possibility
+of getting hurt. But, this is not how it happens, because she still wants to have a relationship.
+The problem is again in the difference between what she wants (love) and what according to
+her perception usually happens or may happen (getting hurt).
+Let's consider goals. By nature, a goal already reflects the difference between what I would
+like to happen and what really happens. Without this difference there would be no goal. My
+goal is to have a romantic partner - because I don't have one, my goal is to have more money
+- because I don't have enough… It's important to notice that goals and problems are two
+sides of the same coin, that one does not exist without the other.
+To have a goal means that something in our reality is not the way we would like it to be. It
+also means that we have noticed an obstacle that stands between us and the goal.
+Otherwise, without the obstacle, we would achieve the goal automatically. Every day we
+achieve goals and intentions without even noticing. We register them when we face an
+obstacle and then we perceive them as goals. Obstacles can be internal and external.
+External obstacles are not a problem. They become a problem when we have a reaction
+connected to them. If there is no reaction to an external obstacle, we see options and find
+solutions.
+In fact, what are problems? Problems are our compulsive reactions which are in conflict with
+our conscious goals. More precisely, those reactions, which at one moment are perceived as
+problems, also consist of goals, only unconscious ones. On one side is what we perceive as a
+conscious goal and on the other side are the unconscious goals which are in conflict with the
+conscious goal. Goals and problems are two sides of the same entity, the same internal
+conflict. Which side we perceive as the goal, and which as the problem, depends on the side
+of the internal conflict we identify with at any given moment.
+Positional and oppositional sides of the conflict
+We said that internal conflicts have an oscillatory nature, which means that at times we
+identify with one side of the conflict, whose goals we want to accomplish, and we suppress
+
+## PDF page 21
+
+the other side. The side we are identified with is called the positional side, and the side we
+suppress is called the oppositional side.
+For example: a person does things for others and then concludes that others are ungrateful,
+that they are using her (defeat). Then, she makes a decision "to turn to myself" (a decision of
+defeat). Later, she has a child and decides to commit to the child (new affirmative decision).
+In time, this conflict (between "commit to myself" and "commit to others") will expand on
+several levels. New decisions and identities will appear to support both sides.
+Now, when she turns to some personal goal (positional side), the goals of the other side
+(oppositional) will be threatened and she will have a negative reaction. When she changes
+position and identifies with the other side of the conflict (to commit to others), the goals of
+the other side, which are now oppositional (to commit to myself) will be threatened and will
+generate a negative reaction.
+Functioning and reacting
+William Burroughs said: "Happiness is a by-product of function. You are happy when you are
+functioning." Being functional means that you are able to achieve your goals. Being reactive
+is what prevents you from functioning, from achieving your goals. If a person has many
+internal conflicts, whichever goal they direct their attention to, a reaction will appear (a
+barrier) which will prevent them from working on that goal. The majority of the population
+exists in this state. Its main characteristic is a general feeling of frustration and stuckness.
+"Happiness consists of activity - it is a running stream, not a stagnant pool," John Mason
+said. A stuck person is not active. They do only what they have to and as little as possible.
+They turn to different forms of compensation for what they really want but are unable to
+get. By nature, compensation is a replacement. When you replace what you desire with a
+surrogate, you can get the surrogate but you cannot get what you desire.
+Blame and causality
+In most cases, persons who are stuck do not accept responsibility for their own lives. They
+blame other people, circumstances, destiny, God, etc. Not accepting responsibility places us
+in the position of the effect, and vice versa, accepting responsibility places us in the position
+of the cause. "Until you accept responsibility for your life, someone else runs your life", Orrin
+Woodward said.
+To be able to successfully use Integra Protocol, we must consider the possibility that we
+created our problems. Problems are reactions and states that occur when our unconscious
+goals are threatened. When we recognize those goals, when we make them conscious, the
+
+## PDF page 22
+
+problems they cause will vanish. The only way to recognize unconscious goals is to view
+them from the same position we created them, which is the point of view of the cause. If we
+try to perceive them from the point of view of the effect, then - from the position we are not
+in, we seek something which is not there.
+As stated by Z.M. Slavinski, this is not about blame, it’s about causality. The cause of our
+current problems are identities we created in the past, to resolve a situation which was
+critical at that time.
+For example, a student is a victim of abuse, which on one occasion escalates into physical
+violence by a school bully. To deal with this problem, the student makes a decision "not to
+attract attention to avoid danger" and he assumes the identity "an inferior person".
+Later, as a marketing expert whose job is market research, he is obliged to present the
+results of his analysis on a regular basis, to the managers of the client companies. Each time,
+before the presentation, his unconscious goal "not to attract attention to avoid danger" and
+the identity "an inferior person" get activated, which results in "fear of public performance".
+Who created the problem "fear of public performance" - the bully who abused him in school,
+or the student when he made the decision "not to attract attention to avoid danger"?
+That’s the difference between blame and causality. Other people can do something bad to
+us, but only we can turn that into a problem. The cause of a problem is not a negative
+experience, but the decision we made in that experience. As stated by Mike Goldstein, "We
+don’t differentiate what happened from our response to what happened".
+Activity and reactivity
+The first step out of stuckness is the integration of internal conflicts. Making the unconscious
+conscious is the key to integrating conflicts. When we recognize unconscious goals, they lose
+their compulsiveness, i.e. reactivity. A few quotes to think about:
+"As long as we don't make the contents of unconscious conscious, they will endlessly repeat
+in our lives."
+Z.M. Slavinski
+"Every extension of knowledge arises from making the unconscious the conscious."
+Friedrich Nietzsche
+"Until you make the unconscious conscious, it will direct your life and you will call it fate."
+C.G. Jung
+"We are enslaved by anything we do not consciously see. We are freed by conscious
+perception."
+Vernon Howard
+
+## PDF page 23
+
+"Face the facts of being what you are, for that is what changes what you are."
+Søren Kierkegaard
+The second step out of stuckness is in taking action, i.e. working on the achievement of our
+goals. A balanced approach between integrating our conflicts and taking concrete action to
+accomplish our goals enables us to increase our satisfaction with ourselves and our life
+circumstances. A few more quotes to think about:
+"Personal power is the ability to take action."
+Tony Robbins
+"There is no substitute for hard work."
+Thomas Edison
+"Ideas not coupled with action never become bigger than the brain cells they occupied."
+Arnold H. Glasow
+"Let me tell you the secret that has led me to my goal. My strength lies solely in my
+tenacity."
+Louis Pasteur
+"The results you achieve will be in direct proportion to the effort you apply."
+Denis Waitley
+Internal and external are not separate. We must treat both to achieve progress. Integration
+of negative reactions combined with working on goals is an optimal approach that enables
+growth and wholeness. Otherwise, frustration and stuckness will persist. It is believed that
+Lao Tzu said: "If you do not change direction, you may end up where you are heading."
+Internal conflicts and the bipolar universe
+The universe we live in is bipolar, which means that everything that exists must have two
+poles. The same applies to our psyche, our internal universe, which is an integral part of the
+overall universe. Our thoughts and emotions exist in bipolar structures.
+Physicist and philosopher David Bohm teaches that our universe consists of two orders,
+Implicate and Explicate. Explicate order is the manifested, created universe, and its nature is
+bipolar. Implicate order is the source and the destination of the Explicate, the potential from
+which everything emanates and to which everything returns. Implicate order is not bipolar,
+but whole. It does not contain anything besides pure potential, therefore it cannot contain
+polarities either.
+
+## PDF page 24
+
+When something emerges from Implicate order, manifesting into the Explicate, polarities
+and separation are created, and vice versa. When it disappears back to the Implicate,
+polarities and separation cease and wholeness is re-established. However, the two orders
+are not separate. Implicate order is the essence of the Explicate. On the level of psyche,
+Implicate order is our consciousness, which is whole, and Explicate order is the ego, which is
+bipolar.
+We perceive a vast number of polarities: success and failure, joy and sadness, power and
+powerlessness… the list is almost limitless. The sole fact that we perceive something already
+assumes the existence of polarities: the one who perceives and that which is perceived,
+subject and object, I and Non-I, what I can perceive from this point of view and what I
+cannot perceive from this point of view.
+The poles of polarities we perceive are our values, which we try to reach or withdraw from.
+Most importantly, polarities are values we consider when making decisions. When we cause
+stuckness by making a decision, we are not stuck only on the practical level of goals, but also
+on the level of values, that is poles, of one or more polarities.
+For example, one is stuck between the need to have a romantic partner and fear of being
+hurt in a relationship. We can observe this as stuckness on the level of goals. However,
+stuckness also exists on the level of the polarities one perceived when making decisions:
+desire and fear, love and rejection, love and fear, alone and together. Many options exist
+depending on the personality and one's perceptions.
+Throughout one application of Integra Protocol, one begins with the integration of specific
+conflicts, and then, moving towards more general conflicts, one also integrates polarities.
+And polarities precede the wholeness of the Being.
+When one makes a decision "to live the way I want", certain values are taken into
+consideration and will vary depending on the personality and the moment: freedom and
+bondage, independence and dependence, fulfillment and unfulfillment, dignity and
+humiliation, my will and their will, power and powerlessness, strength and weakness,
+domination and submission…
+Applying Integra Protocol, one will integrate decisions on both sides of confronted
+intentions. In the end, one will find the decision that created the polarity which led to the
+internal conflict. Integrating this decision restores the wholeness of the Being.
+Each decision creates a polarity or separation. When I decide "to do something about it", I
+create a polarity such as active and passive. When I decide "to avoid conflict", I create a
+polarity of aggression and tolerance, or attack and defense, of fighting and giving up. Or
+maybe I just supported one pole of a polarity that already existed in me. By making
+decisions, we either create a new polarity or add charge to an already existing polarity.
+By integrating unconscious decisions, by making them conscious, we integrate internal
+conflicts, and then, by identifying the initial decision, we also integrate one or more
+polarities caused by the initial decision.
+
+## PDF page 25
+
+Physicists say that matter is kept in existence by mutual attraction and rejection of the
+fundamental forces of the universe. We can also view this as conflict. Mutual confrontation
+of these forces is the condition for the existence of matter.
+On the human level, what keeps charge and our problems in existence is mutual attraction
+and rejection of the sides of internal conflicts and poles of polarities. Mutual confrontation
+of these forces is the condition for existence of our problems, of the ego and its charge.
+Just as matter would vanish without the conflict of the fundamental forces of the universe,
+problems also vanish with the integration of the fundamental forces in the human being -
+internal conflict and polarities.
+Bipolar perception
+Poles of one polarity are not two separate entities but two sides of the same entity. Which
+entity is that? Human consciousness, of course. When I polarize based on a polarity I
+perceive, I divide myself in two.
+For example, when I polarize in relation to success and failure, I identify with both a
+successful and unsuccessful person, and want to enforce the identity "of a successful
+person" and to suppress "an unsuccessful person". If at the same time I perceive that poles
+are two separate entities (as opposed to being two sides of the same), then I suffer from an
+illusion called bipolar perception.
+Why does human consciousness polarize - why does it divide in two? This question has
+different answers, depending on the point of view from which we observe the issue. In the
+context of this chapter, this is the relevant answer: because the human being does not know
+itself.
+If the human being was aware of its true nature, it would not identify with success and
+failure or with any other polarity. It would not confuse a temporary role or situation with its
+true nature and it would not insist on remaining stuck.
+Bipolar perception says "I am either a successful or unsuccessful person". However, we are
+neither one nor the other. We are wholeness that exists behind the polarities and we have
+the potential to manifest both. Polarities are our manifestation, not our true nature. And, by
+not knowing ourselves, we confuse one for the other.
+Identities and charge
+Charge consists of suppressed thoughts and emotions. There are 4 elements of charge:
+mental images, thoughts, emotions and body sensations. Images and thoughts are mental
+
+## PDF page 26
+
+components and emotions and body sensations are emotional components. Our
+unconscious personality consists of the 4 elements and their combinations.
+According to Slavinski, all of our positive and negative experiences consist of the 4 elements,
+their combinations and nothing else. When we remove the 4 elements from a problem (all
+instances of the 4 elements), the problem does not exist any longer. Problems cannot exist
+without their building blocks.
+The most important elements of charge are decisions, which by their nature are thoughts.
+Decisions are the beginning of charge creation. The process of charge creation unfolds as
+follows: a person makes a decision and assumes an identity to accomplish the decision. For
+example:
+Decision: I don't want to feel worthless any longer
+Goal: to prove my value
+Point of view: a person focused on himself
+Then, while perceiving and acting from the point of view of "a person focused on himself",
+he generates additional charge (images, thoughts, emotions, body sensations) which is
+aligned with the point of view he perceives from.
+I said earlier that an identity is an indivisible unit. However, from that unit many other
+elements of charge emanate and stay "bundled" with it, with their source identity. We could
+say that identities are both sources and carriers of charge.
+Strictly speaking, the source of charge is not an identity but consciousness. However, as
+consciousness generates charge while perceiving from a certain point of view, the
+consciousness is identified with that point of view, and does not differentiate itself from the
+identity it perceives from. Hence, identities are not only sources but carriers of charge as
+well. For if we integrate charge generated from an identity, but fail to integrate the identity
+as well, charge will be generated again, and with it the problems it causes.
+Since the person does not differentiate himself from the identity (which remained
+unconscious), he will continue to perceive from that identity, to think and feel in accordance
+with it, and charge will be generated again. But when we integrate the identity, we also
+integrate charge created from that point of view. Since identities are both sources and
+carriers of charge and subsequently give rise to our problems, integration of stuck identities
+is a natural and efficient way to permanently resolve our problems.
+Identities and evolution
+Humans can assume and release identities and can also be stuck in identities. When one is in
+an identity, one does not differentiate oneself from the identity but perceives that the
+identity is one's true Being. But, the human being is none of the limitless possible identities,
+assumed, released or stuck. By nature, the human being is the presence behind its identities,
+
+## PDF page 27
+
+without matter and energy, and existing outside of space and time. "The self is a circle
+whose center is everywhere and whose circumference is nowhere," C.G. Jung said.
+Presence (Implicate order on the level of the human being) creates its Explicate order by
+creating identities (and thoughts and emotions emanating from them). Identities and their
+accompanying charge produce certain behavior, and the final result is specific life
+circumstances.
+Furthermore, the Implicate order of the human being is inseparable from the Implicate order
+of the universe. In other words, by nature, human beings are part of the Oneness of
+existence.
+At the beginning of its evolution, the Being exists in Oneness, but it is unconscious. In order
+to become aware, the Being initiates evolution. The main instruments for acquiring
+awareness are identities, or the process of identification, to be precise. Through perceiving
+identities, the level of awareness gradually increases. For example, the Being is whole at the
+beginning, in a state of Oneness with existence, until it separates itself in two - I and Non-I.
+Both halves are identities with their own goals: "I" with the goal "to have myself" and "Non-
+I" with the goal "to have the outside world".
+The created identities are initially abstract and later become specific. Each identity has its
+goal as well as an accompanying bundle of charge (images, thoughts, emotions, body
+sensations). Each identity has its opposing identity and both will continue to multiply both
+vertically and horizontally.
+In time, by multiplication of identities and accompanying bundles of thoughts and emotions,
+a dense mass of charge will be created, which we call the ego. Ego is the total sum of
+identities and their charges, which makes us perceive ourselves as a separate unit. Ego is the
+storage of all our problems. On the other hand, ego is also the device credited for the
+development of awareness.
+We could say that in the beginning, we have Oneness but not Aware Oneness, which is the
+goal of evolution.
+There are two directions in evolutionary development, called the downward and upward
+phases of spiritual evolution. During the downward phase, the Being amasses identities and
+accompanying charges, creating the ego, in order to gain awareness. The ego enables us to
+become aware by perceiving the self separately from the remainder of existence. Ego is the
+necessary instrument of evolution.
+However, once the goal of the downward phase of evolution is achieved (awareness), the
+vehicle that enabled us to arrive at that goal becomes a problem. We are unable to leave the
+ego because we are identified with it. The ego contains a large number of identities which
+we confused with the true self.
+Since the ego is a multilayered structure, consisting of many internal conflicts, it
+continuously provokes unwanted states and reactions, creating suffering and numerous
+problems in all aspects of life, including spiritual - it prevents us from perceiving our true
+nature or Oneness, creating the illusion that we are a separate, mortal unit.
+
+## PDF page 28
+
+At the beginning of the downward evolutionary phase, we are unable to perceive Oneness
+because we don't have awareness. At the end of the downward phase, we have awareness,
+but we still cannot perceive Oneness because we perceive the ego instead.
+And then, the upward evolutionary phase begins. Its goal is Aware Oneness. During the
+upward phase, the human being disengages from the multitude of identities gained
+throughout the downward phase. By integrating identities we also integrate the
+accompanying charge created while perceiving from those identities.
+In time, as the number of stuck identities decreases, the human being gradually gains
+wholeness and begins to perceive Presence as its true nature, moving towards the ultimate
+goal - Aware Oneness. For when there are no conflicted identities there can be no ego
+either, which consists of those identities. And when the ego is not there, there is no
+difference between the unit and the remainder, and we perceive ourselves indivisible from
+existence, this time consciously.
+Here, it is important to differentiate the concepts of consciousness and awareness.
+Consciousness is what the human being really is, its true nature and integral part of
+existence. Consciousness is part of Oneness. Awareness, however, is a property of
+consciousness, the result of the evolution of a unit. Although awareness is a consequence
+facilitated by the ego, it does not disappear when the ego disappears. Unlike consciousness,
+awareness is individual, and is not a part of Oneness. "No one can transcend their own
+individuality," said Arthur Schopenhauer.
+In other words, on the level of consciousness, two human beings are part of the same
+Oneness and there is no difference or border between them. And on the level on awareness,
+those two human beings will never meet one another.
+Identities and identifications
+In an average human being, there are many unconscious identities and identifications. The
+term identity refers to what we identify with on the level of personality, while the term
+identification refers to what we identify with on the level of the Being. That is the only
+difference between the two.
+Identities and identifications have the same structure - they consist of a goal and a point of
+view. If they are stuck, they both have their opposing identity (or identification). Most
+importantly, they are both integrated when we assume their point of view and recognize
+their goal.
+-
+Following are examples of identities:
+-point of view - inferior person, with the goal - to avoid attention and danger
+-point of view - isolated person, with the goal - to turn to myself
+
+## PDF page 29
+
+-point of view - person that has no rights, with the goal - to avoid being seen as I really am
+-point of view - suppressed person, with the goal - to avoid falling apart
+-point of view - person who does not deserve respect, with the goal - to do what I want
+without guilt
+-point of view - asexual person, with the goal - to avoid sex because I am insecure about it
+-point of view - fallen person, with the goal - to send a message to others - look what you
+did to me
+-point of view - person who lost a part of herself forever, with the goal - never to be hurt
+again
+-point of view - scarred person, with the goal - to provoke mercy and be accepted
+-point of view - person who does not stand out in any way, with the goal - to survive
+-point of view - person in conflict, with the goal - to avoid taking action
+-point of view - person who will never have what he wants, with the goal - to find
+compensation
+-point of view - person obstructed by others, with the goal - to have an excuse for giving up
+-point of view - a pretender, with the goal - to fulfill expectations of others
+-point of view - person who waits, with the goal - to one day live how I want
+-
+Examples of conflicted identities:
+Example 1.
+point of view: successful person
+goal: to prove my value
+point of view: unsuccessful person
+goal: to give up to avoid further disappointments
+-
+Example 2.
+point of view: helpless person
+goal: to do what I want
+point of view: forthcoming person
+goal: to enhance reputation by doing what is socially appreciated
+
+## PDF page 30
+
+-
+Example 3.
+point of view: person who should react
+goal: to avoid humiliation in the eyes of others
+point of view: person who must not speak up
+goal: to avoid conflict
+-
+Example of conflicted identities with accompanying mind content:
+mind content: attention of others turned away from me
+point of view: powerless person
+goal: to be proud
+mind content: I cannot stand it
+point of view: person who dismissed false dignity
+goal: to be loved
+-
+Examples of identifications:
+-point of view - consciousness, with the goal - to maintain awareness
+-point of view - I, with the goal - to exist
+-point of view - Being, with the goal - to have myself
+-point of view - nothing, with the goal - to fulfill myself
+-point of view - presence, with the goal - to be aware of myself
+-
+Throughout one application of Integra Protocol, identities usually appear in the beginning
+and in the middle of the process, and identifications appear towards the end. The most
+important reason for emphasizing the difference between identities and identifications is as
+follows: when a beginner arrives at identifications, such as "consciousness", "I", "Being",
+"presence", "emptiness", "nothing" and similar states, he may assume that he has
+completed the process, that he has reached his true Being, the state outside of identities
+and identifications. But, in many cases, that's not true. When the practitioner achieves a high
+level of identifications, they should also be integrated. They are not my true "I"; they are
+something I have identified with.
+
+## PDF page 31
+
+Part II - Practice
+"Simplicity is the ultimate sophistication."
+Leonardo da Vinci
+
+## PDF page 32
+
+Introductory exercises
+Introductory exercises can be done on your own or with another’s guidance. If you do them
+on your own, read each instruction or question, close your eyes, and follow through until
+completion.
+If you are being guided by another, work with your eyes closed the whole time. Answer the
+questions out loud or confirm that you have followed the instructions. Let the other person
+continue only when they have received your confirmation or answer to the question.
+-
+Objective of the first exercise
+To gain awareness about the 4 elements of mental and emotional charge (image, thought,
+emotion and body sensation).
+During the exercise notice the 4 elements. If any of the 4 elements do not appear, just
+continue until the end of the exercise.
+Note: Do the first exercise two times, first with a positive and then with a negative
+experience.
+-
+First do the exercise with a positive experience.
+-Remember one positive experience.
+-In your thoughts and emotions go into that experience.
+-See what you saw then, feel what you felt then.
+-As you are in that experience, do you feel an emotion?
+-As you are in that experience, do you see an image?
+-As you are in that experience, do you think something?
+-As you are in that experience, do you feel a body sensation?
+-
+Then do the exercise with a negative experience.
+-Remember one negative experience.
+-In your thoughts and emotions go into that experience.
+
+## PDF page 33
+
+-See what you saw then, feel what you felt then.
+-As you are in that experience, do you feel an emotion?
+-As you are in that experience, do you see an image?
+-As you are in that experience, do you think something?
+-As you are in that experience, do you feel a body sensation?
+-
+Objectives of the second exercise
+-To notice the difference between identities and mind content. Strictly speaking, identities
+are also mind content. However, there is a difference in perception: we are identified with
+identities (we don't differentiate ourselves from identities), while we perceive mind content
+separately from ourselves. Mind content consists of the 4 elements - images, thoughts,
+emotions and body sensations.
+-To notice that an identity consists of a point of view and its goal.
+-To notice that a goal is a facet of an identity which already exists and you just need to
+recognize it consciously. If there is a point of view, its specific goal is also present. Therefore
+it is wrong to conclude logically what the goal is, based on the point of view. Such
+conclusions are usually incorrect because there are many possibilities and other components
+of the personality interfere with the process of concluding. There is one correct answer and
+an unlimited number of incorrect ones. You only need to notice the existing goal, to
+recognize it consciously.
+Note: As with the first exercise, do the second exercise twice, once with a positive and then
+with a negative experience.
+-
+Do the second exercise with a positive experience.
+-Remember one positive experience.
+-In your thoughts and emotions go into that experience.
+-See what you saw then, feel what you felt then.
+-Notice the emotion that appears.
+-Ask yourself: am I this emotion or do I feel this emotion?
+-Now feel yourself.
+-Now feel the emotion.
+-Now feel yourself.
+-Notice - as you feel this emotion, what kind of person are you? What identity are you in?
+
+## PDF page 34
+
+-Feel that identity. Assume its point of view. Look through its eyes.
+-From the point of view of that person, that identity - what is your goal? - what do you want
+to accomplish?
+-
+Do the second exercise with a negative experience.
+-Remember one negative experience.
+-In your thoughts and emotions go into that experience.
+-See what you saw then, feel what you felt then.
+-Notice the emotion that appears.
+-Ask yourself: am I this emotion or do I feel this emotion?
+-Now feel yourself.
+-Now feel the emotion.
+-Now feel yourself.
+-Notice - as you feel this emotion, what kind of person are you? What identity are you in?
+-Feel that identity. Assume its point of view. Look through its eyes.
+-From the point of view of that person, that identity, notice - what is your goal, what do you
+want to accomplish?
+-
+Objectives of the third exercise
+-To recognize the conflicting nature of unconscious mind content
+-To notice reactivity of unconscious content
+-
+Do the exercise as follows:
+-Read the affirmation from the list
+-Feel the affirmation
+-Notice a reaction that appears
+A reaction may be positive or negative. In some cases, a reaction may not appear. Whatever
+happens during this exercise, it's all right, just continue until the end. Reactions always come
+up as the 4 elements (images, thoughts, emotions, body sensations) or their combinations.
+
+## PDF page 35
+
+The goal of the third exercise is not for you to convince yourself of something but to notice
+your reactions, which are automatic and unconscious.
+-
+Affirmations for the third exercise:
+-I am calm
+-I am upset
+-I am happy
+-I am unhappy
+-I am confident
+-I am insecure
+-I am successful
+-I am unsuccessful
+-I am loved
+-I am unloved
+-I am superior
+-I am inferior
+-I love life
+-I don't love life
+
+## PDF page 36
+
+Subjective and objective problems
+In his methodology, Z.M. Slavinski defined the difference between subjective and objective
+problems. It’s important to understand this principle. Using Integra Protocol and other
+processes of charge integration, we don’t resolve objective problems, only subjective. I will
+quote some examples from real life that Slavinski uses in his seminars.
+If a client says that his problem is a lack of money, that’s an objective issue. When we ask
+the client "How do you feel about that?" and the client responds "I feel powerless", we have
+identified a subjective problem - "I feel powerless because I don’t have enough money". A
+subjective problem is the client’s reaction or feeling about the state he is in.
+How the client feels regarding a situation is what we can change. By using Integra Protocol,
+the client integrates his negative reactions and states caused by the lack of money, until he
+doesn’t feel them any longer. That doesn’t mean that money will magically appear out of
+nowhere, which is what a surprisingly high number of clients expect.
+If after the application of the process, the client doesn’t take action and invest effort to earn
+money, nothing will change in his financial situation. We can help him to integrate his
+reactions and states regarding money, to remove internal barriers as well, but it is left up to
+the client to actually earn money.
+If the client’s problem is a relationship breakup ("my girlfriend left me"), that’s also an
+objective issue. When we ask "How do you feel about that?", and he replies "I feel
+worthless", we have a subjective problem - "I feel worthless because my girlfriend left me".
+We can change how the client feels about the relationship breakup, but we cannot promise
+that the girlfriend will return just because the client integrated some unconscious thoughts
+and emotions. People often separate and reunite, and it is possible that the girlfriend will
+change her mind, but again, we cannot promise it as the result of the application of the
+process.
+If the client states that his problem is the "bad economic situation in the country", that’s an
+objective issue. Nothing in the economic situation of any country will change no matter how
+many processes we do with a client. If we ask "How do you feel about that?", and the client
+says "I feel blocked", that’s what we can change.
+Then, instead of feeling blocked and not working on his goals, the client is able to take action
+regardless of the situation in the country, and do his best within his circumstances. As stated
+by George Bernard Shaw: "Progress is impossible without change and those who cannot
+change their minds cannot change anything."
+Objective problems are beyond the reach of processes, but they are often within reach of
+the client. When the client integrates the subjective reactions and states which are blocking
+
+## PDF page 37
+
+him, in many cases, he will be able to change objective problems as well. However, for that,
+action is necessary.
+When it’s not possible to change objective problems, the client can integrate his reactions
+and states and focus on something else. "When we can no longer change a situation, we are
+challenged to change ourselves," Viktor Frankl said. When there are no reactions and states
+related to an objective problem, there is no suffering either.
+
+## PDF page 38
+
+Situation and reaction
+At the beginning of the session, ask clients what problem they would like to work on, using
+Integra Protocol. Clients can state an active, current problem, or a problem they do not feel
+at this moment, but which arises in a certain situation or when they think about it.
+Examples of possible active problems:
+-divorce
+-loss of work
+-diagnoses of an illness
+-death of someone close
+Examples of problems that the client may not feel at this moment, but that appear in certain
+situations or when they think about them:
+-fear of flying
+-fear of public performance
+-resistance to studying a foreign language
+-anger when my father imposes his beliefs upon me
+-tension in the presence of unknown people
+-feeling insecure because I don't have enough money
+-jealousy when my wife talks to other men
+-nervousness in the presence of authority
+-guilt because of how I treat my wife
+-feeling inferior
+In most cases, the expression of a problem consists of two parts – the situation in which or
+because of which the problem occurs and the reaction caused by the situation. For example,
+a divorce is a situation and the reaction could be feelings of defeat, desperation,
+worthlessness, sadness… or all that together.
+-situation: loss of work, reaction: injustice
+-situation: diagnoses of an illness, reaction: desperation
+
+## PDF page 39
+
+-situation: death of a close person, reaction: grief
+-situation: being defrauded by a business partner, reaction: anger
+-situation: flying by airplane, reaction: fear
+-situation: public performance, reaction: trepidation
+-situation: learning a foreign language, reaction: resistance
+-situation: my father imposes his beliefs on me, reaction: revolt
+-situation: unknown people, reaction: tension
+-situation: spouse in contact with another man, reaction: jealousy
+-situation: contact with an authority, reaction: aggressiveness
+-situation: treating my wife poorly, reaction: guilt
+If the client states a situation only, without a reaction, we ask: "How do you feel about
+that?" If the client states a reaction only, without a situation, we ask "In which situation does
+that feeling occur?"
+In some cases it is not necessary to identify the situation. If the client says the problem is "I
+am a closed person" or "I feel inferior", obviously the problems appear in relationships with
+others or when the client thinks about relationships with others.
+If the problem is "a feeling of purposelessness", it is possible that the situation is the client’s
+whole life: "feeling that my life is purposeless" or "feeling that existence is purposeless".
+In some cases, the client is unable to identify a specific situation connected to the problem.
+For example, "I feel depressed… all the time." In that case we can ask: "In which situation do
+you feel it most strongly?" If the client says that there is no such situation, we accept that,
+and use "I feel depressed" as the problem definition.
+
+## PDF page 40
+
+Integra Protocol, step by step
+First, I present the procedure, followed by a detailed explanation.
+-
+Procedure
+1. When you think about (situation) what happens?
+2. As (content) what identity are you in? (What kind of person?)
+3. As (identity) what is your goal?
+4. As (goal) what happens?
+Repeat 2-4 until no more identities and identifications appear.
+Check the result: When you think about (situation) what happens?
+-Additional question No. 1: Is there anything else regarding (situation)?
+-Additional question No. 2: What would you like regarding (situation)?
+-
+First question: When you think about (situation) what happens?
+We begin the process with the first question of the procedure, combined with the situation
+that triggers the problem. For example:
+-Think about your divorce… what happens?
+-Think about losing your job… what happens?
+-Think about your hepatitis… what happens?
+-Think about your husband's death… what happens?
+-Think about flying by airplane… what happens?
+The question "what happens?" activates a negative reaction regarding the problematic
+situation. A reaction consists of the 4 elements of charge (image, thought, emotion, body
+sensation). More precisely, it consists of their combinations.
+In most cases, in the beginning of the process, the client reports emotions. Sometimes they
+report a thought that contains charge: "life is suffering", "there is no hope for me", "people
+don't like me", etc. In some cases, they report a charged body sensation: "pressure in my
+
+## PDF page 41
+
+plexus", "feeling nauseous", "shaking", "tension," "cold sweat", etc. Rarely, they report an
+image as the first content in the process.
+Clients may report one or more of the 4 elements; however, what truly happens is a
+combination of elements, whether they are aware of that or not.
+An example of the first question:
+Processor: What would you like to do in this session?
+Client: I have a problem... it's banal but chronic... I am so bothered by the building site, I am
+so nervous and stuck there… problems on the building site all the time... I cannot deal with
+the people who work there... I lose my temper immediately...
+Processor: OK. Let's call it "the building site".
+Client: That's right.
+Processor: Close your eyes... think about the building site... notice what comes up... image,
+thought, emotion, body sensation?
+Client: An image of people working and I feel charge...
+-
+Important: the first question is not an invitation to think about the problem. The client
+should not explain the problem. They should direct their attention to the problematic
+situation and register the reaction that comes up automatically and compulsively.
+-
+Second question: As (content) what identity are you in? (What kind of person?)
+In answer to the first question, the client will give us some mind content. Each element of
+the mind content (whether it's an image, thought, emotion or body sensation) was created
+while perceiving from an identity, and identities are what we primarily look for in Integra
+Protocol. We use the mind content to activate unconscious identities, relevant to the
+problem we are working on. The mind content is an object and the identity is the subject;
+one cannot exist without the other. When we direct our attention to any mind content, we
+can be sure that we have also activated an identity, just by perceiving that mind content.
+Therefore, our next step (second question) is to recognize the identity from which the client
+perceives the given content. That identity is already present, active and available, and the
+client should feel it and verbalize it.
+We use the second question as follows:
+Client: An image of people working and I feel charge...
+Processor: Feel charge... feel yourself... feel what identity you are in now... what kind of
+person?
+Client: A person who withdraws.
+
+## PDF page 42
+
+-
+How do we differentiate the mind content from identities?
+If the client reports "sadness" and we ask "do you feel sadness or are you that sadness?", we
+can get two possible answers:
+-"I feel sadness, I am not that sadness." In this case, sadness is the mind content, not an
+identity.
+-"I am that sadness". In this case, the client is identified with sadness, and possibly, they are
+in the identity of "a sad person". However, instead of assuming the client is in the identity of
+"a sad person", we should direct their attention to feel the identity they are in, and to
+verbalize it.
+To repeat, strictly speaking, identities are also the mind content, but:
+-We differentiate ourselves from the mind content; we are not identified with it.
+-We don't differentiate ourselves from identities; we are identified with them.
+The nature of identification is the illusory perception that the identity is our true self.
+-
+Important: The client should not conclude what identity he is in. The client should feel
+himself or herself and verbalize the identity they feel in that moment.
+-
+Third question: As (identity) what is your goal?
+We said that an identity consists of a point of view plus a goal that we want to accomplish
+from that point of view. We also said that a person does not differentiate themselves from
+the identity, which means they are stuck in the identity. In order to "unstick", to integrate
+the identity, from the point of view of that identity, we have to notice its goal. That goal is
+already there, we just need to perceive it.
+To recognize the goal, we feel the identity, assume its point of view as completely as
+possible, and then observing from its point of view, through the eyes of that particular
+identity, we notice its particular goal.
+It's important to understand that stuck identities are created in different situations in the
+past and they only surface during the process. They are already existing unconscious
+structures with already existing points of view and already existing goals. That's why
+concluding "what identity I am in" and "what is its goal" doesn't work. Instead, we need to
+feel the identity and verbalize it, and then, to assume its point of view and recognize its
+existing goal.
+We do that as follows:
+Client: A person who withdraws.
+
+## PDF page 43
+
+Processor: Feel the person who withdraws... from the point of view of the person who
+withdraws... what is your goal... what do you want to achieve?
+Client: To have peace.
+-
+Important: The client should feel the identity as completely as possible, and then observing
+from the point of view of that identity, they should recognize its already existing goal. In
+other words "from this point of view, what do I want to accomplish?"
+-
+Fourth question: As (goal) what happens?
+We said that problems consist of conflicted identities that exist in layers. During one process
+we want to integrate a chain of conflicts, all conflicted identities on both sides of the conflict
+structure, all its layers, beginning with the definition of the problem until we reach the state
+in which there are no identities.
+To achieve this, we activate both sides of the internal conflict. For that purpose, we use the
+fourth question. When the client reports the goal of the identity (third question), we ask the
+client to feel that goal and to notice what happens (fourth question). This way, by feeling the
+goal, the client supports one side of the internal conflict, thereby provoking the next
+reaction.
+When the client supports one side of the conflict, both sides will activate; however, in most
+cases, one side will dominate and the other will remain more or less suppressed.
+The side of the conflict that the client supports, the positional side, will activate to enforce
+the goal the client is feeling at the moment. On that side there are more identities with
+similar goals pushing in the same direction. The oppositional side of the conflict will activate
+because its goals are threatened, since the client supports the opposite side, pushing in the
+opposite direction.
+No matter which side activates, there will be a reaction (image, thought, emotion, body
+sensation). The side which is currently stronger (more identities and charge) will have a
+stronger reaction.
+If the positional side is currently dominating, the client will have a reaction in accordance
+with it. In the continuation of the process, we use that reaction to make the next identity
+conscious.
+Examples when the positional side is stronger:
+Example 1.
+Client: To dominate.
+Processor: Feel "to dominate"… what happens?
+Client: I am expanding... and everything around me is shrinking...
+
+## PDF page 44
+
+-
+Example 2.
+Client: To seek fulfilment.
+Processor: Feel "to seek fulfilment"... what comes up?
+Client: I want self-actualization.
+-
+When the positional side is weakened:
+-The other side takes over domination
+-The client shifts into the other side of the conflict
+-Unconscious goals of the other side create a stronger reaction
+Examples of reactions when the shift into the other sides of the conflict happens:
+Example 1.
+Client: To fill the emptiness.
+Processor: Feel "to fill emptiness"... what happens now?
+Client: Strange. I now feel I want to empty myself.
+-
+Example 2.
+Client: To get to some kind of peace.
+Processor: Feel "to get to some kind of peace"... what comes up?
+Client: Emotions contradicting the peace... disturbances...
+-
+Important: The client should feel the goal and notice the reaction it provokes (image,
+thought, emotion, body sensation). The client should allow the reaction to appear
+spontaneously. They should not support or suppress mind content in accordance with their
+expectations (they should not support either side of the internal conflict).
+-
+Repeat questions 2-4 until no more identities and identifications appear.
+Continue to repeat questions 2-4 until no more identities or identifications appear. For
+example:
+Client: Emotions contradicting the peace... disturbances...
+
+## PDF page 45
+
+Processor: Feel disturbances... as you feel disturbances... feel yourself... what identity are
+you in now?
+Client: Conflicted person.
+Processor: Feel conflicted person... from the point of view of the conflicted person... what is
+your goal?
+Client: To integrate peace and disturbance.
+Processor: Feel "to integrate peace and disturbance"... What happens now?
+Client: It's painful.
+Processor: Feel it's painful... what identity are you in?
+Client: A person who is waiting.
+Processor: From the point of view of the person who is waiting... what is your goal?
+Client: To be present.
+Processor: Feel "to be present"... what happens now?
+Client: Many different things and I feel them.
+Processor: Feel many different things... and as you feel them... what identity are you in
+now?
+Client: Present person.
+Processor: Feel present person... from the point of view of the present person... what is your
+goal?
+Client: To experience everything.
+Processor: Feel "to experience everything"... what comes up?
+-
+The goal of Integra Protocol is to integrate all identities, existing on both sides of the internal
+conflict, until the end of the conflict chain, and to arrive into the state of no identity. How do
+we know that we have reached the end? The client will either indicate that or state it
+specifically.
+The client who experiences Integra Protocol for the first time should be notified beforehand
+about the expected result of the process. Before the process, we should mention to clients
+that they will enter a state without identities, to expect that as a normal end phenomenon,
+and to notify us when it happens. Here are some examples from life:
+Example 1.
+Client: I have an insight... I am just experiencing life... whatever happens... and it's OK...
+
+## PDF page 46
+
+Processor: And as you have this insight... what identity are you in now?
+Client: There is nobody... just the experience exists.
+Processor: From the point of view of nobody... is there a goal?
+Client: No.
+-
+Example 2.
+Processor: Feel "running away to some other sphere"...and as you feel it, notice what
+happens... image, thought, emotion, body sensation…
+Client: Nothing happens... everything is clear.
+Processor: Feel yourself... what identity are you in now?
+Client: Emptiness.
+Processor: Feel emptiness... from the point of view of emptiness... do you have a goal or
+not?
+Client: No.
+-
+Example 3.
+Processor: Feel that everything is clear to you... that you see one in everything... feel
+yourself... what identity are you in now?
+Client: There isn't anything. A clearing.
+Processor: From the point of view of the clearing... do you have a goal or not?
+Client: No. I am the clearing and the clearing is me.
+-
+Example 4.
+Processor: Feel the "conflict between control and surrender"... feel yourself... what identity
+are you in now?
+Client: It vanished...
+Processor: Feel that it has vanished... feel yourself... what identity are you in now?
+Client: Nothing.
+Processor: Are you that "Nothing" or do you feel that "Nothing"?
+Client: I am Nothing and I feel it.
+
+## PDF page 47
+
+Processor: From the point of view of that "Nothing"... do you have a goal or not?
+Client: No.
+-
+Example 5.
+Processor: Feel joy and excitement... feel yourself... what identity are you in now?
+Client: Presence.
+Processor: Feel presence... from the point of view of presence... do you have a goal or not?
+Client: No.
+-
+Example 6.
+Client: I am the person who enjoys this nice sensation of freedom.
+Processor: Feel yourself... is there an identity?
+Client: Now... I am not even sure what an identity is... It's like there is no me... nobody.
+Processor: Feel nobody... from the point of view of the nobody... is there a goal or not?
+Client: No.
+-
+Example 7.
+Processor: From the point of view of absolute perfection... do you have a goal?
+Client: To just be.
+Processor: Feel "to just be"... what happens now?
+Client: Some images...
+Processor: Look at those images... feel yourself... what identity are you in?
+Client: I don't sense an identity...
+-
+Example 8.
+Client: I see a star... perfection...
+Processor: See the star... feel perfection... feel yourself... what identity are you in now?
+Client: God in me.
+
+## PDF page 48
+
+Processor: Feel God in you... from the point of view of God in you... what is your goal?
+Client: To exist.
+Processor: Feel "to exist"... What's happening?
+Client: Some nice images... I can have an identity but I don't have it...
+-
+Example 9.
+Client: Empty.
+Processor: Feel empty... then feel yourself... what identity are you in now?
+Client: Emptiness.
+Processor: Are you that emptiness or do you feel that emptiness?
+Client: I am emptiness.
+Processor: From the point of view of emptiness... do you have a goal... or not?
+Client: No goal.
+-
+Example 10.
+Client: Peace.
+Processor: Feel peace… what happens now?
+Client: Nothing.
+Processor: Feel nothing… feel yourself… what identity are you in now?
+Client: Just me.
+Processor: From the point of view of "just me"… is there a goal?
+Client: Not really.
+-
+Important: As I mentioned earlier, identifications are identities on a higher level. Examples
+of identifications are "I", "emptiness", "Being", "consciousness" and similar terms.
+At the end of the process, before entering the state of no identities, the client usually
+reports identifications. It is important to understand that identifications are the same as
+identities, something consciousness identified with on a higher level, not our true nature.
+
+## PDF page 49
+
+Identifications have the same structure as identities, consisting of a goal and a point of view.
+They exist in the sense of matter, energy, space and time, in the sense of a false self. When
+we enter the state of no identity, there is nothing in it except our presence.
+This might be regarded as the only true miracle: I don't exist, but I am present more than
+ever before. I have no identity, but I have my complete self, because there isn't anything
+now to cover me and prevent me from completely perceiving myself as I really am.
+Since identifications are also identities, and our goal is to integrate all identities on the chain
+we are working with, and to arrive into the state of no identity, we don't stop the process
+when a client reports identifications.
+How do we continue when an identification comes up? Exactly the same as before. We
+instruct the client to assume the point of view of the identification they reported and to
+recognize its goal.
+However, sometimes an identification does not exist, the client has truly reached the end of
+the process, but they feel a need to somehow verbalize the state they are in, and they tell us
+something that indicates an identification even though there is none.
+How do we know whether the client is really in the state of no identity? Simply, we ask the
+client to assume the point of view of the identification they reported and to recognize its
+goal. If the goal exists, that's an identification, and if there is no goal, that's the end of the
+process.
+For example:
+Processor: What identity are you in?
+Client: Consciousness.
+Processor: Feel consciousness… from the point of view of consciousness… what is your goal?
+Client: To maintain awareness.
+This is an identification. The point of view is "consciousness" and the goal is "to maintain
+awareness". In this example, if the client had reported that there was no goal,
+"consciousness" would not have been an identification, but a way for an inexperienced client
+to verbalize the state of no identity.
+We should also be cautious when at the end of the process the client uses terms that point
+towards the state of no identity, such as "emptiness", "presence", "nothing", "nobody" and
+similar descriptions. In practice, it's often the case that these are identifications as well, even
+though at first sight they don't appear as such.
+For example:
+Processor: What identity are you in?
+Client: Nothing.
+Processor: Feel nothing… from the point of view of nothing… what is your goal?
+
+## PDF page 50
+
+Client: To fulfill myself.
+In this case, "nothing" was an identification. If we had stopped when the client reported
+"nothing", assuming that he had reached the state of no identity, the client would not have
+integrated the whole chain of identities and a part of the problem structure would continue
+to exist.
+The correct action is always the same. Instruct the client to assume the point of view he
+reported and to notice if there is a goal from that point of view or not.
+-
+Check the result: When you think about (situation) what happens?
+As I mentioned earlier, in most cases a workable verbalization of a problem consists of a
+reaction and a situation. An example is "feeling desperate because of the divorce". The goal
+of Integra Protocol is not to remove the initial reaction only, in this case "feeling desperate".
+Our goal is to remove all negative reactions the client might have regarding the given
+situation. For that purpose, at the end of the process, we check the result using the same
+question we started the process with:
+Think about the divorce… what happens?
+Again, our reactions are automatic and compulsive. They consist of the 4 elements (image,
+thought, emotion and body sensation) or their combinations. By asking the above question
+again and in the same way, we check not only if the initial reaction is still there, but whether
+there is any other negative reaction.
+If the client says that neither the initial nor any other negative reaction is there, we have
+achieved the result we wanted. If the client reports some other negative reaction, we do the
+next process on it.
+In most cases, it takes one to three processes to achieve the desired result, which is no
+reaction when thinking about the given situation. This result is usually achieved in one
+session, lasting up to one hour.
+When the client reaches the state in which they cannot feel any negative reaction regarding
+the problematic situation, we have achieved all that is possible in one meeting. The client
+cannot continue to work on a problem they cannot feel.
+This is an outstanding result, in my opinion. In psychotherapy, a client undergoes treatment
+for the same problem for weeks, months or longer. In the beginning of the session the client
+feels the problem and at the end of the session the client still feels the problem. In many
+cases, no improvement is noticeable in one meeting.
+With Integra Protocol, we make a noticeable improvement in each session, which reflects on
+all aspects of life, practical as well as spiritual.
+Important: When checking the result of the process the client should think about the
+problematic situation and notice if there is an automatic and compulsive negative reaction.
+
+## PDF page 51
+
+Or the client can imagine they are in the problematic situation now, and pay attention to
+whether that activates a negative reaction.
+-
+Additional questions
+The purpose of the additional questions is to identify more unconscious charge (if it exists)
+regarding the situation you are working on.
+Additional question No. 1 "Is there anything else regarding (situation)?" directs the client's
+attention to the oppositional side of the conflict. For example, a client reports the problem
+"fear of doctors". We have done a process and now we are checking the result:
+Processor: Think about going to a doctor… what happens?
+Client: Nothing. No reaction.
+Processor: Is there anything else regarding going to a doctor?
+Client: I just remembered a situation that happened many years ago. Doctors gave a wrong
+diagnosis to my friend… they gave him the wrong medication and he got much worse…
+Processor: How do you feel about that?
+Client: I feel angry.
+The processor now begins a new process: Feel anger… feel yourself… what identity are you
+in now?
+We repeat additional question No. 1 until the client confirms there is nothing else regarding
+the initial problem. Its purpose is to activate charge related to the initial problem, i.e.
+situation. However, sometimes, in answer to this question, the client reports an entirely new
+problem.
+For example, the initial problem is "fear of losing my job". After doing the process, the client
+says that he cannot feel the fear of losing his job any more. The processor asks "is there
+anything else regarding losing your job?", and the client answers "I am an insecure person".
+In this case, the client has reported a new problem. You could immediately apply the process
+on the new problem; however, it is important to point out to the client that this is a new
+problem, not the initial one from which you started the session. Also, you could leave the
+new problem for the next session.
+Then, we move to additional question No. 2: What would you like regarding (situation)? It
+directs the client's attention to the positional side of the conflict.
+Processor: Regarding going to a doctor… what would you like?
+Client: I would like to go to a doctor without resistance and in peace.
+The processor begins a new process: Feel that you want to go to a doctor without
+resistance… in peace… feel yourself… what identity are you in?
+
+## PDF page 52
+
+Additional question No. 2 is important when we feel that the client is compulsively holding
+for the positional side of the conflict. For example, the client reports the problem "anger for
+being verbally bullied at school". The processor asks "what would you like regarding that
+situation?", and the client emotionally responds "I want to win against them!" The client
+believes that a verbal victory is the solution to his problem.
+However, integration of the internal conflict is the solution to his problem. When in a given
+situation there are no compulsive reactions, we have the freedom and capability to behave
+optimally. If you maintain the positional side of the conflict, you simultaneously maintain the
+oppositional side too. One cannot exist without the other.
+In each internal conflict there is "for" and "against". I believe that these are essential
+tendencies of the human being, from which all other elements of the personality emanate.
+"For" emanates from the positional side of the conflict; it's what we gravitate towards.
+"Against" emanates from the oppositional side; it's what we resist.
+Additional questions are designed to enable the client to integrate and make conscious all
+aspects of an internal conflict.
+
+## PDF page 53
+
+Session Transcripts
+Transcript 1
+Processor: What would you like to do in this session?
+Client: I am not social... I feel I am a closed person... and that makes me sad...
+Processor: Feel closed person... from the point of view of this closed person... through the
+eyes of the closed person... what is your goal?
+Client: To feel valuable.
+Processor: Feel "to feel valuable"... and notice... what happens now?
+Client: Sadness and longing for something.
+Processor: Feel "sadness and longing"... and as you feel "sadness and longing"... feel
+yourself... what identity are you in... what kind of person are you?
+Client: Weak person.
+Processor: Feel the weak person... from the point of view of the weak person... what is your
+goal?
+Client: To be protected.
+Processor: Feel "to be protected"... what happens now?
+Client: Sadness that I am not getting it.
+Processor: Feel sadness... as you feel sadness... feel yourself too... what identity are you in...
+what kind of person are you?
+Client: Frozen person.
+Processor: Feel frozen person... from the eyes of this frozen person... what is your goal?
+Client: To avoid being hurt.
+Processor: Feel "to avoid being hurt"... what comes up now?
+Client: Outside things flying past me and I am still.
+
+## PDF page 54
+
+Processor: And as "things are flying past you"... what is your identity?
+Client: Separate person.
+Processor: Feel separate person... from the point of view of this separate person, what is
+your goal?
+Client: To observe.
+Processor: Feel "to observe"... what happens now?
+Client: I want to get closer to something.
+Processor: Feel "I want to get closer"... now feel yourself... what kind of person are you
+now?
+Client: Lustful person.
+Processor: From the point of view of the lustful person... what is your goal?
+Client: To grab something beautiful... another person... and make it mine.
+Processor: Feel "to grab another person and make it mine"... what happens now?
+Client: Sensation that I want to run after something.
+Processor: Feel "I want to run after something"... and feel yourself... what identity are you in
+now... as you "want to run after something?"
+Client: Person chasing after something.
+Processor: Feel person chasing after something... from the point of view of this person, what
+is your goal?
+Client: To get it!
+Processor: Feel "to get it"... and as you feel "to get it"... what happens?
+Client: Sadness because I cannot get it.
+Processor: Feel sadness and "I cannot get it"... As you feel this... what identity are you in
+now?
+Client: Empty person.
+Processor: From the point of view of the empty person... what is your goal?
+Client: To fill the emptiness.
+Processor: Feel "to fill emptiness"... what happens now?
+Client: Strange. I now feel I want to empty myself.
+Processor: And as you feel you want to empty yourself... what kind of person are you now?
+
+## PDF page 55
+
+Client: Avoiding person... person who avoids...
+Processor: From the point of view of the person who avoids... what is your goal?
+Client: Freedom.
+Processor: Feel freedom... what comes up?
+Client: I am going away to some kind of freedom...
+Processor: And as "you are going away to some kind of freedom"... feel yourself... what
+identity are you in now?
+Client: Seeker.
+Processor: Feel seeker... from the point of view of the seeker... what is your goal?
+Client: To get to some kind of peace.
+Processor: Feel "to get to some kind of peace"... what comes up?
+Client: Emotions contradicting peace... disturbances...
+Processor: Feel disturbances... as you feel disturbances... feel yourself... what identity are
+you in now?
+Client: Conflicted person.
+Processor: Feel conflicted person... from the point of view of the conflicted person... what is
+your goal?
+Client: To integrate peace and disturbance.
+Processor: Feel "to integrate peace and disturbance"... What happens now?
+Client: It's painful.
+Processor: Feel it's painful... what identity are you in?
+Client: A person who is waiting.
+Processor: From the point of view of the person who is waiting... what is your goal?
+Client: To be present.
+Processor: Feel "to be present"... what happens now?
+Client: Many different things and I feel them.
+Processor: Feel many different things... and as you feel them... what identity are you in
+now?
+Client: Present person.
+
+## PDF page 56
+
+Processor: Feel present person... from the point of view of the present person... what is your
+goal?
+Client: To experience everything.
+Processor: Feel "to experience everything"... what comes up?
+Client: It's OK to just experience everything.
+Processor: Feel "it's OK to just experience everything"... what identity are you in now?
+Client: A person who is OK with whatever happens.
+Processor: From the point of view of the person who is OK with whatever happens... what is
+your goal?
+Client: To be alive.
+Processor: Feel "to be alive"... what happens?
+Client: I have an insight... I am just experiencing life... whatever happens... and it's OK...
+Processor: And as you have this insight... what identity are you in now?
+Client: There is nobody... just the experience exists.
+Processor: From the point of view of nobody... is there a goal?
+Client: No.
+Processor: Let's go back to what we started from. In the beginning of the process you said: "I
+am a closed person". What about now?
+Client: That sounds silly now...
+
+## PDF page 57
+
+Transcript 2
+Processor: What would you like to do in this session?
+Client: I have a problem... it's banal but chronic... I am so bothered by the building site, I am
+so nervous and stuck there… problems on the building site all the time... I cannot deal with
+the people who work there... I lose my temper immediately...
+Processor: OK. Let's call it "the building site".
+Client: That's right.
+Processor: Close your eyes... think about the building site... notice what comes up... image,
+thought, emotion, body sensation?
+Client: An image of people working and I feel charge...
+Processor: Feel charge... feel yourself... feel what identity you are in now... what kind of
+person?
+Client: A person who withdraws.
+Processor: Feel the person who withdraws... from the point of view of the person who
+withdraws... what is your goal... what do you want to achieve?
+Client: To have peace.
+Processor: Feel "to have peace"... what happens?
+Client: Relief.
+Processor: Feel relief... feel it as completely as possible... now feel yourself… feel what
+identity you are in now... what kind of person?
+Client: Happy person.
+Processor: Feel happy person... through the eyes of the happy person... from the point of
+view of the happy person... what is your goal?
+Client: To have happiness.
+Processor: Feel "to have happiness"... and notice... what happens now?
+Client: I see a wonderful image.
+Processor: Look at that wonderful image... feel everything that follows it... and feel yourself
+now... what identity are you in as you observe this image?
+
+## PDF page 58
+
+Client: Little me... little happy me...
+Processor: Feel little happy me... from the point of view of the little me... what is your goal?
+Client: To be cherished.
+Processor: Feel "to be cherished"... what happens?
+Client: I am a little child now... I need love... parental love...
+Processor: Feel "I need parental love"... as you feel "I need parental love"... what identity are
+you in?
+Client: There is no identity. Only me. Everything fell apart... the problem fell apart when I
+became aware of this goal about parental love...
+Processor: Feel "only me"... assume the point of view of "only me"... looking through the
+eyes of "only me"... is there a goal that you want to achieve or not?
+Client: There is. Running away to some other sphere.
+Processor: Feel "running away to some other sphere"...and as you feel it, notice what
+happens... image, thought, emotion, body sensation…
+Client: Nothing happens... everything is clear.
+Processor: Feel yourself... what identity are you in now?
+Client: Emptiness.
+Processor: Feel emptiness... from the point of view of emptiness... do you have a goal or
+not?
+Client: No.
+Processor: Going back to the beginning... think about the building site... what comes up
+now?
+Client: I don't have a negative reaction in the sense of running away... but I don't feel nice
+when I think about the building site.
+Processor: You don't feel nice when you think about the building site. What would you like
+instead of that?
+Client: I would like to be indifferent regarding the behavior of those people... who work for
+me at the building site...
+Processor: Feel "I would like to be indifferent regarding their behavior"... and as you feel
+that... what identity are you in?
+Client: Awakened person... who accepts everything as it is.
+Processor: From the point of view of awakened person... what is your goal?
+
+## PDF page 59
+
+Client: I don't have a goal... I feel as if I am playing with those people… mocking them…
+Processor: Feel you are playing and mocking those people... and as you feel that... what
+identity are you in?
+Client: Superior person.
+Processor: Take the point of view of the superior person... from that point of view... what is
+your goal?
+Client: To dominate.
+Processor: Feel "to dominate"… what happens?
+Client: I am expanding... and everything around me is shrinking...
+Processor: Feel that you are expanding and everything around you is shrinking... feel
+yourself... what identity are you in now?
+Client: Just me.
+Processor: Feel "just me"... and from that point of view... do you have a goal or not?
+Client: Everything is clear to me... I see one in everything...
+Processor: Feel that everything is clear to you... that you see one in everything... feel
+yourself... what identity are you in now?
+Client: There isn't anything. A clearing.
+Processor: From the point of view of the clearing... do you have a goal or not?
+Client: No. I am the clearing and the clearing is me.
+Processor: Think about the building site… what comes up?
+Client: I don't have a reaction... none at all...
+
+## PDF page 60
+
+Transcript 3
+Processor: What would you like to do in this session?
+Client: Regarding money.
+Processor: When you think about money... what happens?
+Client: I feel powerless.
+Processor: Feel powerless... feel yourself... what identity are you in... what kind of person?
+Client: Person who suffers.
+Processor: Feel the person who suffers... from the point of view of the person who suffers...
+what is your goal?
+Client: To seek fulfillment.
+Processor: Feel "to seek fulfillment"... what comes up?
+Client: I want self-actualization.
+Processor: Feel "I want self-actualization"... feel yourself... what identity are you in?
+Client: I feel resistance to accept responsibility.
+Processor: Feel resistance to accept responsibility... feel yourself... what identity are you in?
+Client: Person who blames others for my own problems.
+Processor: Feel that identity... the person who blames others for her problems... from that
+point of view... what is your goal?
+Client: To confirm something important.
+Processor: Feel "to confirm something important"... what happens?
+Client: I don't know how to behave...
+Processor: Feel "I don't know how to behave"... feel yourself now... what identity are you in?
+Client: Victim.
+Processor: Feel the victim identity... through the eyes of the victim... what is your goal?
+Client: To manipulate.
+Processor: Feel "to manipulate"... what comes up?
+
+## PDF page 61
+
+Client: A question comes up... how to create my life?
+Processor: Feel "how to create my life?"... feel yourself... what identity are you in now?
+Client: Person who is waiting.
+Processor: Feel the person who is waiting... from that point of view... what is your goal?
+Client: I want somebody else to tell me what to do.
+Processor: Feel "I want somebody else to tell me what to do"... what happens?
+Client: Self-pity... I want to know... and I don't know...
+Processor: Feel all that... then feel yourself... what identity are you in now?
+Client: Person in conflict.
+Processor: Feel the person in conflict... from that point of view... what is your goal?
+Client: To be certain that I'm doing the right thing.
+Processor: Feel "to be certain that I'm doing the right thing"... what happens?
+Client: Joy.
+Processor: Feel joy... feel yourself... what identity are you in?
+Client: The observer.
+Processor: From the point of view of the observer... what is your goal?
+Client: Just to observe... I feel so nice...
+Processor: Feel "just to observe"... what comes up?
+Client: I hear a voice telling me: "No, you cannot!"
+Processor: Listen to that voice... feel yourself... what identity are you in?
+Client: Hurt person.
+Processor: Feel hurt person... from the point of view of the hurt person... what is your goal?
+Client: To feel suffering.
+Processor: Feel "to feel suffering"... what happens?
+Client: I despise myself.
+Processor: Feel that you despise yourself... now feel yourself... what identity are you in...
+what kind of person?
+Client: Person who always repeats the same mistakes.
+
+## PDF page 62
+
+Processor: Feel the person who always repeats the same mistakes... from that point of
+view... what is your goal?
+Client: To give up... to avoid disappointment.
+Processor: Feel: "to give up... to avoid disappointment"... what comes up?
+Client: I feel insecure.
+Processor: Feel insecure... feel yourself... what identity are you in now... what kind of
+person?
+Client: Person who compares herself with others.
+Processor: From the point of view of the person who compares herself with others... what is
+your goal?
+Client: To be someone else.
+Processor: Feel "to be someone else"... what comes up?
+Client: I feel like daydreaming.
+Processor: Feel like daydreaming... what identity are you in now?
+Client: Passive person.
+Processor: From the point of view of the passive person... what is your goal?
+Client: To resist.
+Processor: Feel "to resist"... what happens?
+Client: Anger.
+Processor: Feel anger... feel yourself... what identity are you in now?
+Client: Person who rejects everything.
+Processor: From the point of view of the person who rejects everything... what is your goal?
+Client: To reject what others force upon me.
+Processor: Feel "to reject what others force upon me"... what happens now?
+Client: I feel some kind of contraction.
+Processor: Feel contraction... feel yourself... what identity are you in now?
+Client: Person who wants to control everything.
+Processor: From the point of view of the person who wants to control everything... what is
+your goal?
+Client: To know when it's OK to surrender.
+
+## PDF page 63
+
+Processor: Feel "to know when it's OK to surrender"… what happens?
+Client: A conflict between control and surrender.
+Processor: Feel the "conflict between control and surrender"... feel yourself... what identity
+are you in now?
+Client: It vanished...
+Processor: Feel that it vanished... feel yourself... what identity are you in now?
+Client: Nothing.
+Processor: Are you that "nothing" or do you feel that "nothing?"
+Client: I am nothing and I feel it.
+Processor: From the point of view of that "nothing"... do you have a goal or not?
+Client: No.
+Processor: Let's go back to the beginning. Think about money... what happens?
+Client: Nothing.
+Processor: Is there a negative reaction when you think about money?
+Client: No.
+Processor: And positive?
+Client: Now I don't have any reaction.
+
+## PDF page 64
+
+Transcript 4
+Processor: What would you like to do in this session?
+Client: I feel some kind of sadness...
+Processor: Can you connect that sadness to something?
+Client: It's not connected to anything... however... it's a very specific kind of sadness...
+Processor: OK, let's do the feeling of specific sadness. Feel specific sadness... feel yourself...
+what identity are you in, what kind of person?
+Client: Sad person.
+Processor: Feel sad person... from the point of view of the sad person... what is your goal?
+Client: To protect myself.
+Processor: Feel "to protect myself"... what happens now?
+Client: A picture... like some strong mother... a combative feeling...
+Processor: Feel combative feeling... what identity are you in now... what kind of person?
+Client: Person who doesn't want to throw in the towel.
+Processor: Feel the person who doesn't want to throw in the towel... from the point of view
+of this person... what is your goal?
+Client: To survive.
+Processor: Feel "to survive"... what happens?
+Client: A picture of a man on the street... feeling of estrangement...
+Processor: Feel estrangement... feel yourself... now, what identity are you in?
+Client: Disappointed person.
+Processor: From the point of view of the disappointed person... what is your goal?
+Client: To free myself from delusion.
+Processor: Feel "to free myself from delusion"… what comes up?
+Client: An image of a barn in the field... a feeling of serenity.
+
+## PDF page 65
+
+Processor: Observe that image... feel serenity... then feel yourself... what identity are you in
+now?
+Client: Non-accomplished person.
+Processor: Feel non-accomplished person... from that point of view, what is your goal?
+Client: The goal is not to have a goal... to be goalless...
+Processor: Feel "to be goalless"... what happens now?
+Client: A picture of a bus station...
+Processor: Observe that picture... feel yourself... what identity are you in now?
+Client: No identity... just me.
+Processor: Feel "just me"... from that point of view... what is your goal?
+Client: I don't have a goal but there is some very unpleasant feeling.
+Processor: Feel that very unpleasant feeling... and feel yourself... what identity are you in
+now?
+Client: Still just me.
+Processor: Feel "just me"... from the point of view of "just me"... what is your goal?
+Client: Absolutely nothing.
+Processor: What happens now?
+Client: I feel myself... I... but when I say "I"… as if that center is behind my forehead...
+Processor: Are you that center or do you feel that center?
+Client: I am not that center.
+Processor: Feel that center... then feel yourself... what identity are you in now?
+Client: I am like condensed dough.
+Processor: Feel condensed dough... from the point of view of condensed dough... do you
+have a goal?
+Client: No.
+Processor: Are you condensed dough or do you feel condensed dough?
+Client: I feel it.
+Processor: Feel condensed dough... then feel yourself... what identity are you in now?
+Client: I am consciousness.
+Processor: Feel consciousness... from the point of view of consciousness... what is your goal?
+
+## PDF page 66
+
+Client: To live.
+Processor: Feel "to live"... what comes up?
+Client: Joy and excitement.
+Processor: Feel joy and excitement... feel yourself... what identity are you in now?
+Client: Presence.
+Processor: Feel presence... from the point of view of presence... do you have a goal or not?
+Client: No.
+Processor: Let's go back to the beginning. What about the feeling of specific sadness?
+Client: I don't feel anything... I feel present here and now...
+
+## PDF page 67
+
+Transcript 5
+Processor: What would you like to do in this session?
+Client: I feel stuck in my head...
+Processor: Feel stuck in your head... feel yourself... what identity are you in... what kind of
+person are you?
+Client: Stuck person.
+Processor: Feel stuck person... from the point of view of stuck person... what is your goal?
+Client: To be free.
+Processor: Feel "to be free"... what happens?
+Client: Sadness.
+Processor: Feel sadness... feel yourself... what kind of person are you?
+Client: Desperate person.
+Processor: From the point of view of desperate person... what is your goal?
+Client: To fight through all these blocks.
+Processor: Feel "to fight through all these blocks"... what happens?
+Client: I feel energy in my arms.
+Processor: Feel energy in your arms... feel yourself... what identity are you in...what kind of
+person are you?
+Client: Fighting person.
+Processor: Feel fighting person... from the point of view of this fighting person... what is your
+goal?
+Client: To get rid of all these outside enemies... to hit them...
+Processor: Feel "to get rid of all these outside enemies"... what happens?
+Client: It feels really good to hit them.
+Processor: Feel "it feels really good to hit them"... feel yourself... what identity are you in?
+Client: Gladiator.
+
+## PDF page 68
+
+Processor: Feel gladiator... from the point of view of gladiator... what is your goal?
+Client: To be victorious.
+Processor: Feel "to be victorious"... what happens?
+Client: I see myself... I stand on top of everybody else.
+Processor: See that image... and feel yourself... what identity are you in now?
+Client: Winner.
+Processor: Feel winner... from the point of view of this winner... what is your goal?
+Client: To remain the winner.
+Processor: Feel "to remain the winner"... what happens?
+Client: I feel strong and I feel a threat from other people.
+Processor: Feel the threat from other people... feel yourself... what identity are you in...
+what kind of person are you?
+Client: Tense person.
+Processor: From the point of view of this tense person... what is your goal?
+Client: To protect myself.
+Processor: Think "to protect myself"... what happens?
+Client: Tension.
+Processor: Feel tension... feel yourself... what kind of person are you now?
+Client: Stuck person again.
+Processor: Feel stuck person... from the point of view of this stuck person... what is your
+goal?
+Client: Strange... my goal is to not move.
+Processor: Feel "not to move"... what happens?
+Client: I am frozen.
+Processor: Feel frozen... what kind of person are you now?
+Client: Scared person.
+Processor: Feel scared person... from the point of view of the scared person... what is your
+goal?
+Client: To disappear.
+Processor: Feel "to disappear"... what happens now?
+
+## PDF page 69
+
+Client: It is a relief to disappear...
+Processor: Feel "it is a relief to disappear"... feel yourself... what is your identity now?
+Client: Person that does not exist.
+Processor: From the point of view of the person that does not exist... what is your goal?
+Client: Freedom.
+Processor: Feel freedom... what happens now?
+Client: I am able to escape from everything to some kind of invisible space...
+Processor: Feel all that... feel yourself... what kind of person are you now?
+Client: I am the person who enjoys this nice sensation of freedom.
+Processor: Feel yourself... is there an identity?
+Client: Now... I am not even sure what an identity is... It's like there is no me... nobody.
+Processor: Feel nobody... from the point of view of the nobody... is there a goal or not?
+Client: No.
+Processor: What about the problem we started from - stuck in your head?
+Client: I don't feel it now.
+
+## PDF page 70
+
+Transcript 6
+Processor: What would you like to do in this session?
+Client: I am always overeating.
+Processor: Think about overeating... what happens?
+Client: Sensation in my mouth.
+Processor: Feel this sensation in your mouth... feel yourself... what identity are you in?
+Client: Person who is seeking pleasure.
+Processor: Feel the person who is seeking pleasure... from the point of view of this person...
+what is your goal?
+Client: To be happy.
+Processor: Feel "to be happy"... what happens?
+Client: I feel lightness.
+Processor: Feel lightness... feel yourself... what kind of person are you now?
+Client: Person at peace.
+Processor: From the point of view of the person at peace... what is your goal?
+Client: To be integrated with everything... Oneness...
+Processor: Feel "to be integrated with everything"... what comes up now?
+Client: Peace.
+Processor: Feel peace... feel yourself... what identity are you in now?
+Client: I don't sense a person. I sense an energy field.
+Processor: Are you that energy field or do you feel that energy field?
+Client: I am this energy field.
+Processor: Feel this energy field... from the point of view of this energy field... is there a goal
+that you want to achieve?
+Client: Integration with other energy fields around.
+Processor: Feel "integration with other energy fields around"... what comes up now?
+
+## PDF page 71
+
+Client: Sense of not being able to find other energy fields.
+Processor: Feel "not being able to find other energy fields"... feel yourself now... what
+identity are you in?
+Client: Lost entity.
+Processor: Feel lost entity... from the point of view of lost entity... is there a goal?
+Client: To be in contact with something other than me.
+Processor: Feel "to be in contact with something other than me"... what happens now?
+Client: Sense of trying really hard but nothing is making itself available to me.
+Processor: Feel "trying really hard but nothing is making itself available"... what identity are
+you in now?
+Client: Not being good enough... inadequate person.
+Processor: Feel inadequate person... from the point of view of the inadequate person... what
+is your goal?
+Client: To be accepted.
+Processor: Feel "to be accepted"... what comes up now?
+Client: An image of me as a child in one situation, I was angry, frustrated...
+Processor: Look at this image... feel anger and frustration... feel yourself... what identity are
+you in now?
+Client: Person not good enough to get attention from others.
+Processor: Feel person not good enough to get attention from others... through the eyes of
+this person... what is your goal?
+Client: To be understood.
+Processor: Feel "to be understood"... what happens now?
+Client: I have a goal to be accepted in a group.
+Processor: Feel "to be accepted in a group"... what happens?
+Client: Ease and pleasure.
+Processor: Feel ease and pleasure... feel yourself... what identity are you in now?
+Client: Energy.
+Processor: Feel energy... from the point of view of energy... is there a goal?
+Client: No.
+
+## PDF page 72
+
+Processor: When you think about overeating... what happens now?
+Client: Nothing.
+Processor: Is there anything else about overeating?
+Client: I have a thought now... I don't want to overeat.
+Processor: Think "I don't want to overeat"... feel yourself... what identity are you in now?
+Client: Person who wants to change.
+Processor: Feel "person who wants to change"... from the point of view of the person who is
+trying to change... what is your goal?
+Client: To elevate to more than what I am.
+Processor: Feel "to elevate to more than what I am"... what comes up now?
+Client: It's very hard to do that.
+Processor: Feel "it's very hard to do that"... feel yourself... what kind of person are you now?
+Client: Lazy person.
+Processor: From the point of view of the lazy person... what is your goal?
+Client: To be comfortable.
+Processor: Feel "to be comfortable"... what comes up now?
+Client: Relief.
+Processor: Feel relief... feel yourself... what identity are you in now?
+Client: Free person.
+Processor: Feel free person... from the point of view of the free person... what is your goal?
+Client: To experience and enjoy everything.
+Processor: Feel "to experience and enjoy everything"... what comes up now?
+Client: Happy.
+Processor: Feel happy... feel yourself... what identity are you in now?
+Client: Energy field.
+Processor: Are you this energy field or do you feel this energy field?
+Client: I am this energy field.
+Processor: From the point of view of this energy field... what is your goal?
+Client: No goal.
+
+## PDF page 73
+
+Processor: When you now think about overeating... what happens?
+Client: Nothing...
+Processor: And what would you like regarding food and eating?
+Client: I would like to enjoy appropriate amounts of food.
+Processor: Feel "I would like to enjoy appropriate amounts of food"... feel yourself... what
+identity are you in now?
+Client: Centered person.
+Processor: From the point of view of the centered person... what is your goal?
+Client: To open new doorways...
+Processor: Feel "to open new doorways"... what comes up?
+Client: Empty space...
+Processor: Feel empty space... feel yourself... what identity are you in now?
+Client: I am... just I am...
+Processor: Feel "I am"... from that point of view, is there a goal?
+Client: No.
+Processor: When you think about food what happens?
+Client: Nothing...
+
+## PDF page 74
+
+Transcript 7
+Processor: What would you like to do in this session?
+Client: I am not financially independent.
+Processor: When you think about independence... what happens?
+Client: I need and deserve it.
+Processor: Feel "I need and deserve it"... feel yourself... what identity are you in now?
+Client: Person who depends on others.
+Processor: Feel the person who depends on others... look through the eyes of this person...
+and notice... what is your goal?
+Client: To feel desperation.
+Processor: Feel "to feel desperation"... what comes up?
+Client: Bleak images.
+Processor: Look at bleak images... feel yourself... what identity are you in now?
+Client: Person who buries others and himself.
+Processor: From the point of view of the person who buries others and himself... what is
+your goal?
+Client: To kill everybody and everything.
+Process: Feel "to kill everybody and everything"... what happens now?
+Client: Rage.
+Processor: Feel rage... feel yourself... what identity are you in now?
+Client: The ultimate exterminator.
+Processor: From the point of view of the ultimate exterminator... what is your goal?
+Client: To neutralize everything.
+Processor: Feel "to neutralize everything"... what happens?
+Client: Peace.
+Processor: Feel peace... feel yourself... what identity are you in now?
+
+## PDF page 75
+
+Client: Peaceful person.
+Processor: Feel peaceful person... from the point of view of the peaceful person... what is
+your goal?
+Client: Ultimate justice.
+Processor: Feel ultimate justice... what happens now?
+Client: White perfect star.
+Processor: Look at the white perfect star... feel yourself... what identity are you in now?
+Client: Absolute perfection.
+Processor: Are you absolute perfection or do you feel absolute perfection?
+Client: I am the absolute perfection.
+Processor: From the point of view of the absolute perfection... do you have a goal?
+Client: To just be.
+Processor: Feel "to just be"... what happens now?
+Client: Some images...
+Processor: Look at those images... feel yourself... what identity are you in?
+Client: I don't sense an identity...
+Processor: Is there anything else about independence... any reaction?
+Client: I feel betrayed by my family.
+Processor: Feel betrayed by your family... feel yourself... what identity are you in now?
+Client: Broken person.
+Processor: Feel broken person... from the point of view of the broken person... what is your
+goal?
+Client: To stop suffering.
+Processor: Feel "to stop suffering"... what happens now?
+Client: Anxiety.
+Processor: Feel anxiety... feel yourself... what identity are you in now?
+Client: Incomplete person.
+Processor: Feel incomplete person... from the point of view of the incomplete person... what
+is your goal?
+Client: To get back what I'm missing.
+
+## PDF page 76
+
+Processor: Feel "to get back what I'm missing"... what happens now?
+Client: Relief.
+Processor: Feel relief... feel yourself... what identity are you in now?
+Client: Person who is waiting.
+Processor: Feel the person who is waiting... from the eyes of the person who is waiting...
+what is your goal?
+Client: Joy.
+Processor: Feel joy... what happens now?
+Client: Satisfaction.
+Processor: Feel satisfaction... feel yourself... what identity are you in now?
+Client: Integrated person.
+Processor: Feel integrated person... from the point of view of the integrated person... what
+is your goal?
+Client: To live my life in full.
+Processor: Feel "to live my life in full"... what happens now?
+Client: Power.
+Processor: Feel power... feel yourself... what identity are you in now?
+Client: I see a star... perfection...
+Processor: See the star... feel perfection... feel yourself... what identity are you in now?
+Client: God in me.
+Processor: Feel God in you... from the point of view of God in you... what is your goal?
+Client: To exist.
+Processor: Feel "to exist"... What’s happening?
+Client: Some nice images... I can have an identity but I don't have it...
+Processor: Is there anything else about independence?
+Client: I feel independent... and at the same time I feel a part in me which is not
+independent... I feel limitation...
+Processor: Feel limitation... feel yourself... what identity are you in now?
+Client: Suffering person.
+
+## PDF page 77
+
+Processor: Feel suffering person... from the point of view of the suffering person... what is
+your goal?
+Client: To reach love.
+Processor: Feel "to reach love"... what happens now?
+Client: Relief.
+Processor: Feel relief... feel yourself... what identity are you in now?
+Client: Shipwrecked person.
+Processor: From the point of view of the shipwrecked person... what is your goal?
+Client: Silence.
+Processor: Feel silence... what happens now?
+Client: Peace.
+Processor: Feel peace... feel yourself... what identity are you in now?
+Client: Being.
+Processor: From the point of view of the Being... what is your goal?
+Client: To fully melt with the light...
+Processor: Feel "to fully melt with the light"... what happens now?
+Client: I am light.
+Processor: From the point of view of light... what is your goal?
+Client: There is no goal.
+Processor: Is there anything else about independence?
+Client: There is a hole in my plexus.
+Processor: Feel this hole in your plexus... feel yourself... what identity are you in?
+Client: Loser.
+Processor: Feel the loser... from the point of view of the loser...what is your goal?
+Client: To stop suffering.
+Processor: Feel "to stop suffering"... what comes up?
+Client: Some relief.
+Processor: Feel some relief... feel yourself... what identity are you in now?
+Client: Uncertain person.
+
+## PDF page 78
+
+Processor: From the point of view of the uncertain person... what is your goal?
+Client: To find safety.
+Processor: Feel "to find safety"... what comes up now?
+Client: I feel strong.
+Processor: Feel strong... feel yourself... what identity are you in now?
+Client: I feel the identity of a survivor.
+Processor: From the point of view of the survivor... what is your goal?
+Client: To evolve.
+Processor: Feel "to evolve"... what happens now?
+Client: I feel perfection.
+Processor: Feel perfection... feel yourself... what is your identity now?
+Client: Evolved being.
+Processor: From the point of view of evolved being... what is your goal?
+Client: To be one with everything.
+Processor: Feel "to be one with everything"... what happens now?
+Client: Nice images...
+Processor: Look at those images... feel yourself... what is your identity now?
+Client: All and everything.
+Processor: From the point of view of all and everything... what is your goal?
+Client: No goal... I am beyond goals now...
+Processor: When you think about independence now... what happens... any reaction...?
+Client: Joy.
+Processor: Feel joy... what identity are you in?
+Client: My true self.
+Processor: Feel your true self... from the point of view of your true self... what is your goal?
+Client: To have full satisfaction.
+Processor: Feel "to have full satisfaction"... what comes up now?
+Client: Ecstasy.
+
+## PDF page 79
+
+Processor: Feel ecstasy... feel yourself... what identity are you in now?
+Client: I am everything.
+Processor: Are you everything or do you feel everything?
+Client: I am everything.
+Processor: Feel everything... from the point of view of everything... what is your goal?
+Client: To be.
+Processor: Feel "to be"... what happens now?
+Client: I am... It’s just I am...
+Processor: From the point of view of "I am"... is there a goal?
+Client: No.
+Processor: When you think about independence now... what happens... any reaction...?
+Client: No.
+
+## PDF page 80
+
+Transcript 8
+Processor: What would you like to do in this session?
+Client: My problem is studying German.
+Processor: Think about studying German... what happens?
+Client: Tension and anger because I cannot do it.
+Processor: Feel tension and anger... and feel yourself... what identity are you in?
+Client: Incapable person.
+Processor: Feel incapable person... through the eyes of the incapable person... what is your
+goal?
+Client: To succeed but to avoid risk.
+Processor: Feel "to succeed but to avoid risk"... what comes up?
+Client: Anger.
+Processor: Feel anger... feel yourself... what identity are you in now?
+Client: Weak person.
+Processor: Feel weak person... from the point of view of the weak person... what is your
+goal?
+Client: Not to be bothered by others.
+Processor: Feel "not to be bothered by others"... what comes up?
+Client: Peace.
+Processor: Feel peace... feel yourself... what identity are you in now?
+Client: Person who wants to be isolated.
+Processor: Feel the person who wants to be isolated... from the point of view of this
+person... what is your goal?
+Client: Not to be hurt by anybody.
+Processor: Feel "not to be hurt by anybody"... what comes up?
+Client: Emptiness.
+
+## PDF page 81
+
+Processor: Feel emptiness... feel yourself... what identity are you in?
+Client: Separated person.
+Processor: Feel separated person... from the point of view of the separated person... what is
+your goal?
+Client: To communicate as little as possible.
+Processor: Feel "to communicate as little as possible"... what comes up?
+Client: Fear that somebody will hurt me.
+Processor: Feel "fear that somebody will hurt me"... feel yourself... what identity are you in?
+Client: Person who is afraid of being hurt.
+Processor: Through the eyes of that person... what is your goal?
+Client: To be protected.
+Processor: Feel "to be protected"... what happens?
+Client: My life is passing by because of that.
+Processor: Feel that your life is passing by because of that... what's your identity now?
+Client: I am angry at myself for living like that.
+Processor: Feel that you are angry at yourself... then feel yourself... what is your identity
+now?
+Client: Powerless person.
+Processor: Feel the powerless person... through the eyes of the powerless person... what is
+your goal?
+Client: Not to be hurt by anybody.
+Processor: Feel "not to be hurt by anybody"... what comes up?
+Client: I am isolated again.
+Processor: Feel isolation... then feel yourself... what kind of person are you now… what
+identity are you in?
+Client: Empty.
+Processor: Feel empty... then feel yourself... feel yourself... what identity are you in now?
+Client: Emptiness.
+Processor: Are you that emptiness or do you feel that emptiness?
+Client: I am emptiness.
+
+## PDF page 82
+
+Processor: From the point of view of emptiness... do you have a goal... or not?
+Client: No goal.
+Processor: Think about studying German... what happens?
+Client: A feeling that everyone can and only I cannot.
+Processor: Feel "everyone can and only I cannot"... feel yourself... what identity are you in
+now?
+Client: Sad person.
+Processor: From the point of view of the sad person... what is your goal?
+Client: To be happy.
+Processor: Feel "to be happy"... what comes up?
+Client: I feel good regarding that.
+Processor: Feel that you feel good... feel yourself... what identity are you in?
+Client: Person who wants to be happy.
+Processor: From the point of view of the person who wants to be happy... what is your goal?
+Client: To establish new life.
+Processor: Feel "to establish new life"... what comes up?
+Client: To have the kind of life I want.
+Processor: Feel "to have the kind of life I want"... feel yourself... what identity are you in
+now?
+Client: Satisfied person.
+Processor: Through the eyes of the satisfied person... notice... what is your goal?
+Client: To be confident.
+Processor: Feel "to be confident"... what comes up?
+Client: I feel good.
+Processor: Feel that you feel good... then feel yourself... what identity are you in now?
+Client: Satisfied person.
+Processor: From the point of view of the satisfied person... what is your goal?
+Client: To retain happiness.
+Processor: Feel "to retain happiness"... what comes up?
+
+## PDF page 83
+
+Client: A question appears… what to do next?
+Processor: Feel "what to do next"... then feel yourself... what identity are you in now?
+Client: Unfulfilled person.
+Processor: Feel unfulfilled person... from that point of view... what is your goal?
+Client: To do something that fulfills me.
+Processor: Feel "to do something that fulfills me"... what comes up?
+Client: As if I cannot have that.
+Processor: Feel "as if I cannot have that"... feel yourself... what identity are you in now?
+Client: Stuck person.
+Processor: Feel stuck person... from the point of view of the stuck person... what is your
+goal?
+Client: To choose what I do.
+Processor: Feel "to choose what I do"... what comes up now?
+Client: To do something that fulfills me.
+Processor: Feel "to do something that fulfills me"... feel yourself... what identity are you in
+now?
+Client: Person who does not know what he wants.
+Processor: From the point of view of the person who does not know what he wants… what is
+your goal?
+Client: To find purpose.
+Processor: Feel "to find purpose"... what comes up?
+Client: I feel good.
+Processor: Feel that you feel good... feel yourself... what identity are you in now?
+Client: No identity.
+Processor: Think about studying German... what happens?
+Client: Resistance.
+Processor: Feel resistance... feel yourself... what identity are you in?
+Client: Person who cannot do an easy thing.
+Processor: From that point of view... what is your goal?
+Client: To avoid obligations.
+
+## PDF page 84
+
+Processor: Feel "to avoid obligations"... what happens?
+Client: Emptiness.
+Processor: Feel emptiness... feel yourself... what identity are you in?
+Client: Person who does not know what he wants.
+Processor: From that point of view... what is your goal?
+Client: To find purpose.
+Processor: Feel "to find purpose"... what happens?
+Client: I feel good.
+Processor: Feel that you feel good... feel yourself... what identity are you in?
+Client: Person who wants to find himself.
+Processor: From the point of view of the person who wants to find himself... what is your
+goal?
+Client: To be attracted by something, to feel passion.
+Processor: Feel "to feel passion"... what comes up?
+Client: Emptiness.
+Processor: Feel emptiness... feel yourself... what identity are you in now?
+Client: Peaceful person.
+Processor: Feel peaceful person... through the eyes of the peaceful person... what is your
+goal?
+Client: No goal.
+Processor: What comes up now?
+Client: Nothing.
+Processor: Feel nothing... feel yourself... what identity are you in now?
+Client: Now I am a zero... presence without identity.
+Processor: From the point of view of the presence without identity... do you have a goal or
+not?
+Client: No.
+Processor: Think about studying German... what happens?
+Client: No reaction.
+Processor: Imagine that you have to study German now.
+
+## PDF page 85
+
+Client: I am indifferent.
+Processor: And what would you like regarding studying German?
+Client: To feel passion.
+Processor: Feel "to feel passion"... feel yourself... what identity are you in now?
+Client: Happy person.
+Processor: Feel happy person... from the point of view of the happy person... what is your
+goal?
+Client: Progress.
+Processor: Feel progress... what comes up?
+Client: I feel good.
+Processor: Feel that you feel good... feel yourself... what identity are you in now?
+Client: Fulfilled person.
+Processor: Feel fulfilled person... from the point of view of the fulfilled person... what is your
+goal?
+Client: No goal.
+Processor: What comes up now?
+Client: Fulfilled emptiness.
+Processor: Feel fulfilled emptiness... feel yourself... are you now in an identity or not?
+Client: Confident person.
+Processor: Feel confident person... from the point of view of the confident person... what is
+your goal?
+Client: To stay confident.
+Processor: Feel "to stay confident"... what happens?
+Client: I feel good.
+Processor: Feel that you feel good... feel yourself... what identity are you in now?
+Client: Peace.
+Processor: Do you feel peace or are you that peace?
+Client: I am peace.
+Processor: From the point of view of peace... and only from that point of view... do you have
+a goal?
+
+## PDF page 86
+
+Client: To have peace forever.
+Processor: Feel "to have peace forever"... what comes up?
+Client: I feel comfort.
+Processor: Feel comfort... feel yourself... what identity are you in now?
+Client: No identity.
+Processor: Think about studying German... what happens?
+Client: Peace.
+Processor: And what would you like to feel regarding studying German?
+Client: Nothing besides peace.
+
+## PDF page 87
+
+Transcript 9
+Processor: What would you like to do in this session?
+Client: My problem is anxiety.
+Processor: In which situations?
+Client: What affects my life the most is probably fear of traveling.
+Processor: Think about traveling… what happens?
+Client: I am scared.
+Processor: Feel scared… as you feel scared… feel yourself… what identity are you in?
+Client: Helpless person.
+Processor: Feel helpless person… through the eyes of this helpless person… what is your
+goal?
+Client: To get help.
+Processor: Feel "to get help"… what comes up?
+Client: Feels comforting.
+Processor: Feel comforting… shift your attention and feel yourself… what identity are you in
+now?
+Client: Contented person.
+Processor: Feel contented person… from the point of view of contented person… what is
+your goal?
+Client: To relax.
+Processor: Feel "to relax"… what comes up now?
+Client: Relaxation.
+Processor: Feel relaxation… feel yourself… what identity are you in now?
+Client: Passive person.
+Processor: Feel passive person… through the eyes of the passive person… what is your goal?
+Client: To avoid conflict.
+
+## PDF page 88
+
+Processor: Feel "to avoid conflict"… what comes up?
+Client: Uncomfortable feeling.
+Processor: Feel uncomfortable feeling… feel yourself… what identity are you in?
+Client: Quiet identity.
+Processor: Feel quiet identity… from the point of view of the quiet identity… what's your
+goal?
+Client: Peace.
+Processor: Feel peace… what happens now?
+Client: Nothing.
+Processor: Feel nothing… feel yourself… what identity are you in now?
+Client: Just me.
+Processor: From the point of view of "just me"… is there a goal?
+Client: Not really.
+Processor: Think about traveling… what happens?
+Client: Nothing… just peace.
+Processor: If somebody knocked on your door now… and said let's go, we have to travel…
+what's your reaction to that?
+Client: Only a slight fear.
+Processor: Feel slight fear… feel yourself… what identity are you in now, what kind of
+person?
+Client: Sad person.
+Processor: Feel sad person… through the eyes of the sad person… what is your goal?
+Client: To be loved.
+Processor: Feel "to be loved"… what happens?
+Client: Feels good.
+Processor: Feel good feeling… feel yourself… what identity are you in now?
+Client: Seeker.
+Processor: Feel the seeker… from the point of view of the seeker… what is your goal?
+Client: To find the truth.
+Processor: Feel "to find the truth"… what happens?
+
+## PDF page 89
+
+Client: It's quiet.
+Processor: Feel quiet… feel yourself… is there an identity?
+Client: Lost person.
+Processor: Feel lost person… from the point of view of this person… what is your goal?
+Client: To find peace.
+Processor: Feel "to find peace"… what comes up?
+Client: Quiet.
+Processor: Feel quiet… feel yourself… what identity are you in now?
+Client: Confused person.
+Processor: From the point of view of the confused person… what is your goal?
+Client: To find answers.
+Processor: Feel "to find answers"… what happens now?
+Client: Quiet.
+Processor: Feel quiet… feel yourself… what identity are you in now?
+Client: Poor me.
+Processor: Feel "poor me" identity… from the point of view of "poor me"… what is your
+goal?
+Client: To get help.
+Processor: Feel "to get help"… what comes up?
+Client: Frustration.
+Processor: Feel frustration… feel yourself… what identity are you in now?
+Client: Confused person.
+Processor: From the point of view of the confused person… what is your goal?
+Client: Clarity.
+Processor: Feel clarity… what happens?
+Client: Searching.
+Processor: Feel searching… feel yourself… what identity are you in now?
+Client: Lost person.
+Processor: Feel lost person… from the point of view of the lost person… what is your goal?
+
+## PDF page 90
+
+Client: To find answers.
+Processor: Feel "to find answers"… what comes up now?
+Client: Peace and quiet.
+Processor: Feel peace and quiet… feel yourself… what identity are you in now?
+Client: Presence.
+Processor: Feel presence… from the point of view of presence, is there a goal?
+Client: No.
+Processor: When you think about traveling, what happens?
+Client: Nothing.
+Processor: If somebody knocked on your door now and said "let's go"… what would your
+reaction be?
+Client: Only a very small sensation in the body.
+Processor: Feel a very small sensation in the body… feel yourself… what identity are you in
+now?
+Client: Victim.
+Processor: Feel victim… from the point of view of the victim… what is your goal?
+Client: To get healthy.
+Processor: Feel "to get healthy"… what comes up now?
+Client: Content.
+Processor: Feel content… feel yourself… what kind of person are you now, what identity?
+Client: Quiet.
+Processor: Feel quiet… feel yourself now… what identity are you in now?
+Client: Nobody.
+Processor: From the point of view of nobody… is there a goal?
+Client: No.
+Processor: When you think about traveling, what happens?
+Client: It's cool.
+Processor: If you had to travel now… what comes up?
+Client: Some kind of small body sensation in my liver area?
+
+## PDF page 91
+
+Processor: Feel that sensation… feel yourself… what identity are you in now?
+Client: Angry person.
+Processor: Feel angry person… through the eyes of the angry person… what is your goal?
+Client: To release.
+Processor: Feel to release… and notice… what happens?
+Client: Quiet.
+Processor: Feel quiet… as you feel quiet… feel yourself… what identity are you in now?
+Client: No identity.
+Processor: Imagine you had to travel now… what happens?
+Client: Just peace.
+
+## PDF page 92
+
+Exceptions
+First question: When you think about (situation) what happens?
+1. Situation: Client is unable to begin the process from the question "what happens now?"
+Integra Protocol consists of 3 questions:
+-What happens now? (What comes up?)
+-What identity are you in? (What kind of person?)
+-What is the goal of that identity? (From that point of view, what do you want to
+accomplish?)
+These three questions make one iteration. The standard flow of the process consists of a
+sequence of iterations, until the state of no identity is achieved. Usually, one iteration begins
+with the question "what happens now?" However, if necessary, you can begin from any
+question.
+Begin the process from either the identity or goal question if for any reason the client is
+unable to begin from the question "what happens now?", or if you find that in a particular
+case it is more optimal to begin from other questions.
+Client: I lost my job.
+Beginning the process with the question "what happens now?": Think about losing your
+job... what happens now?
+Beginning the process with the question "what identity are you in?": Think about losing your
+job... feel yourself... what identity are you in?
+Beginning the process with the question "what is the goal of the identity?": Think about
+losing your job... feel yourself... what is your goal?
+Standard flow of the process:
+-What happens now?
+-What identity are you in?
+-What is the goal of that identity?
+-Repeat until the state of no identities is achieved.
+-
+
+## PDF page 93
+
+2. Situation: In the beginning of the process, the client reports a positive reaction.
+(Read more about the causes of this phenomenon in the chapter "Four reaction types", in
+the third part of this book.)
+In the beginning of the process applied to a problem or goal, if the client reports a positive
+reaction in answer to the first question, we ask: "When you think about (problem or goal),
+do you have a negative reaction?"
+For example:
+Client: My goal is to finally complete my book.
+Processor: Think about writing your book... what happens?
+Client: I feel fulfillment.
+Processor: When you think about writing your book... do you have a negative reaction?
+Client: I feel that writing is futile... who will read my book?
+In the first process we prefer to integrate a negative reaction the client has when thinking
+about the problem or goal. However, it is not a mistake even if you do the first process from
+a positive reaction, though it is more optimal to begin from a negative reaction. We use
+Integra Protocol to integrate not only negative reactions, but also positive ones, if they are
+compulsive.
+From the second process for the problem or goal, we accept a compulsive positive reaction
+at the start, without any further questions. Ideally, our goal would be to bring the client into
+the desired state without compulsive reactions, neither positive nor negative, regarding the
+problem or goal we are working on.
+-
+Second question: As (content) what identity are you in? (What kind of person?)
+1. Situation: Client reports two identities simultaneously.
+Correct action: Take only one identity and continue the process. If the other identity is still
+relevant, it will come up again in the continuation of the process, and you will then have an
+opportunity to integrate it.
+Processor: What identity are you in?
+Client: I feel that I am a free and stuck person at the same time.
+Processor: Feel stuck person... from the point of view of the stuck person... what is your
+goal?
+-
+2. Situation: Client reports content instead of an identity.
+
+## PDF page 94
+
+When you instruct the client to give you an identity but he gives you content instead (image,
+thought, emotion, body sensation), accept the content and ask for identity again.
+For example:
+Client: I feel sadness.
+Processor: Feel sadness... feel yourself... what identity are you in?
+Client: I see a picture of myself shattered, walking the street...
+Processor: Look at the image of yourself shattered, walking... feel yourself now... what
+identity are you in now... while looking at that image?
+Client: A thought comes up... there is no hope for me.
+Processor: Feel there is no hope for you... what identity are you in?
+Client: Defeated person.
+-
+3. Situation: You are uncertain whether the client has reported a content or an identity.
+Example:
+Processor: What identity are you in?
+Client: Condensed mass.
+Processor: Do you feel condensed mass or are you condensed mass?
+If the client reports "I feel condensed mass.", we repeat the questions for identities: "Feel
+condensed mass... feel yourself... what identity are you in now?"
+If the client responds: "I am condensed mass.", we ask for the goal of this identity, i.e.
+identification: "Feel that you are condensed mass... from the point of view of condensed
+mass... what is your goal?"
+The question that enables us to differentiate mind content from identities is "Do you feel (...)
+or are you (...)?"
+This is shown in the previous example: Do you feel condensed mass or are you condensed
+mass?
+-
+4. Situation: Client is unable to verbalize the identity.
+Example:
+Client: I feel an identity but I cannot put it into words.
+
+## PDF page 95
+
+Processor: That's all right. Feel that identity even though you cannot verbalize it... looking
+from the point of view of that identity... through the eyes of that identity... what is your
+goal?
+-
+Third question: As (identity) what is your goal?
+1. Situation: Client is unable to verbalize the goal
+Client: I have a goal but I cannot verbalize it.
+Processor: That's all right. Feel the goal and tell me something about it.
+Accept any verbalization the client gives you and continue the process. If the goal is not
+made conscious and verbalized correctly, it will come back later in the process, repeatedly,
+until it is correctly verbalized.
+-
+2. Situation: Client reports there is no goal.
+Processor: Looking through the eyes of that identity... what is your goal?
+Client: No goal.
+Processor: Looking through the eyes of that identity... do you have an intention?
+If the client reports an intention, that's the goal we are looking for.
+If the client says there is no intention either, we ask: Looking through the eyes of that
+identity... are you sending a message?
+If the client reports a message, that's the goal we are looking for.
+If the client says there is no message either, we ask: "What happens now?", and continue
+the process with the next mind content, following the standard flow of the process.
+In short:
+-If there is no goal: Do you have an intention?
+-If there is no intention: Are you sending a message?
+-If there is no message: What happens now?
+-
+Fourth question: As (goal) what happens?
+1. Situation: Client simultaneously reports two opposite elements of mind content.
+Correct action: Take both at the same time and continue the process.
+Client: I feel freedom and stuckness at the same time.
+
+## PDF page 96
+
+Processor: Feel freedom and stuckness at the same time... feel yourself... what identity are
+you in now?
+-
+2. Situation: Client is unable to verbalize the mind content.
+Client: I feel something but I cannot verbalize it.
+Processor: That's OK. Feel it the best you can... feel yourself... what identity are you in now?
+-
+3. Situation: Client reports that nothing happens.
+Correct action: We treat nothing as any other mind content and continue the process with it.
+Processor: What happens now?
+Client: Nothing.
+Processor: Feel that nothing... feel yourself... what identity are you in?
+Or
+Processor: What comes up?
+Client: Emptiness.
+Processor: Feel emptiness... feel yourself... what identity are you in?
+-
+Repeat steps 2-4 until no more identities and identifications appear.
+1. Situation: Client is stuck in a high identity or identification.
+Our goal is to bring the client to the state of no identity. Sometimes, at the end of the
+process, the client is stuck in some high identity or identification. In that case, we ask the
+client to assume the point of view which is beyond the stuck identification.
+Example:
+Processor: What identity are you in?
+Client: I, just me.
+Processor: From the point of view of "just me"... what is your goal?
+Client: To exist.
+Processor: Feel "to exist"... what happens now?
+Client: Nothing.
+Processor: Feel "nothing"... feel yourself... what identity are you in now?
+
+## PDF page 97
+
+Client: Again, just me.
+Processor: From the point of view of "just me"... what is your goal?
+Client: Again, to exist.
+Processor: Feel the "just me" identity... and now withdraw backwards in your thoughts and
+emotions... and assume the point of view behind the "just me" identity... feel yourself...
+what identity are you in now?
+Client: Nothing. No identity.
+Note: The client withdraws backwards in their thoughts and emotions, not physically.
+-
+2. Situation: You are uncertain whether you have reached the end of the process or if
+there is still some high identity or identification.
+Processor: What identity are you in?
+Client: There is no person.
+Processor: Feel yourself... and tell me something about it.
+If the client indicates an identification, we continue the process with it.
+If the client indicates that there is no identification, we check the result by going back to the
+initial issue.
+The instruction "Feel yourself... and tell me something about it" helps to detect unconscious
+identifications, if they exist, or to confirm that they are not there.
+-
+3. Situation: You got lost and you don't know what to ask and how to continue.
+If you get lost during the process, simply ask: "What happens now?" Take the content and
+continue with the standard flow of the process (content, identity, goal).
+If this still doesn't help, return to the beginning, to the initial issue: "Think about (situation),
+what comes up?", and continue with the standard flow.
+
+## PDF page 98
+
+Thinking, noticing, feeling
+When beginners attempt to resolve their psychological problems, their first impulse is to
+think, analyze, conclude, explain, and search for causes or solutions. Thinking does not
+resolve psychological problems. On the contrary, it increases problems by creating new
+thoughts, emotions, and identities, adding them to the already existing charge which is
+connected to the problem we want to resolve.
+What we want to occur is the opposite - to deconstruct the problem. We do it by recognizing
+the already existing building blocks of the problem, piece by piece, instead of thinking about
+them as a whole. We engage in inspection and detection.
+By directing our attention, we provoke a reaction, and then we notice it, feel it and verbalize
+it. Provoking a reaction will cause existing unconscious elements of the mind content to
+surface. Feeling will clear them of charge and verbalization will make them conscious and
+integrate them.
+Since we work with charge, it is important to feel the mind content and identities that
+surface during the process. Let me remind you, when attempting to recognize the goal of the
+active identity, that the goal is already there. Therefore, instead of attempting to determine
+the goal by thinking, you should focus on noticing the particular goal which is already
+present. The easiest way to do that is to feel the goal first.
+The same applies to identities. When you feel an identity first, it is easier to recognize and
+verbalize it. Use the same approach on all elements of the mind content. Emotions and body
+sensation we naturally feel, and if thoughts and images have charge, we should feel them
+too, as they appear during the process.
+In short:
+-Direct attention to provoke a reaction.
+-Notice the reaction.
+-Feel the reaction.
+-Verbalize the reaction.
+
+## PDF page 99
+
+Directing attention
+The unconscious element of personality consists of a considerable amount of charge, i.e.
+suppressed thoughts and emotions. The greater part of that charge is passive. Directing
+attention to an object activates the passive charge associated with the object. The term
+"object" is used here in the broadest possible sense so that it represents any aspect of the
+human being or life in general.
+Generally, procedures of charge integration direct the client's attention to unconscious
+elements of charge, to unconscious components, in order to make them conscious, i.e.
+integrate them. Specifically, the processor directs the client's attention to relevant elements
+of charge, those that the client's problem consists of. We can achieve this result using very
+simple procedures. For example:
+Processor: Feel the problem XYZ and tell me something about it.
+Client reports mind content.
+Processor: Thank you. Feel the problem XYZ again and tell me something else about it.
+Client feels the problem again and reports further mind content.
+Processor: Thank you. Feel the problem XYZ again and tell me something else about it.
+The procedure is continued until the disappearance of the problem.
+If it is possible to get results with such a simple procedure, what is the point of other
+procedures? The answer, among others, is to be able to achieve as much as possible in the
+shortest amount of time possible.
+Other procedures produce results, but take a long time and require inspection of every
+individual element of the problem structure. Integra Protocol integrates much more charge
+in a given time frame, because it is focused on the foundation or the key elements of the
+problem structure.
+If you want to demolish some physical construct, such as a building, you could do it by
+several methods. You could position explosive devices on the critical support points, and
+quickly and efficiently collapse the building, avoiding dangerous side effects as much as
+possible.
+Similarly, efficient procedures of charge integration direct the client's attention to the key
+elements or critical support points of the problem structure, such as identities, allowing the
+whole structure to integrate and fall apart in a short time, without unwanted side effects.
+Directing attention in Integra Protocol:
+
+## PDF page 100
+
+-Recognize content (image, thought, emotion, body sensation).
+-Recognize the identity from which you perceive that content.
+-Recognize the goal of the identity.
+-Feel the goal to activate the next content (which can be on the same or on the opposite side
+of the conflict).
+During the Integra Protocol process, you should shift your attention without effort. For
+example, you are sitting in a room and someone tells you:
+"Look at the wall on the right... what do you see there? Now look at the wall on the left...
+what do you see there?"
+We should do the same in Integra Protocol, relaxed and without effort. The difference is only
+that the objects we direct our attention to are on the inside, not on the outside. Investing
+effort is not necessary and often counterproductive.
+
+## PDF page 101
+
+Working in the present time
+Throughout Integra Protocol, images of past situations often appear. The situations were in
+the past, but the images are now. Don't confuse images of situations with the situations
+themselves. Also, all other charge that the client feels regarding a situation from the past is
+also in the present.
+Most importantly, the identity from which the client perceives that image is always here and
+now. Since the client is here and now, what the client identified with must also be here and
+now; it cannot be otherwise.
+If an image from the past appears throughout Integra Protocol, the correct response is as
+follows: "Observe that image... feel yourself... what identity are you in?" If the client asks
+"then or now?" he is confusing the image of the situation with the situation itself. There is
+no "then". The client should observe the image, which will activate the relevant identity,
+after which he should consciously recognize the identity (now, of course).
+If throughout Integra Protocol the client sees an image of an imaginary situation or a symbol,
+for example "I see myself on top of a mountain", the correct action is the same as in the
+previous case: "Observe the image... feel yourself... what identity are you in?" If the client
+asks "there or here?", again, he is confusing an image with a situation that never happened
+and probably never will. There is no "there". Again, the client should observe the image to
+activate the relevant identity (which is always here and now), and then he should recognize
+the identity.
+Mental images are here and now, the client is here and now and identities are here and
+now. Everything is here and now. Directing attention on images will activate relevant
+identities. Identities (and charge in general) can be active or passive but cannot be "then"
+and "there", only here and now. Absolutely everything is here and now and nothing can exist
+outside of here and now.
+"The distinction between the past, present and future is only a stubbornly persistent
+illusion", said Albert Einstein.
+"Yesterday is but today's memory; tomorrow is today's dream", said Kahlil Gibran.
+We perceive that the past, present and future exist because our attention moves through
+the impressions of the past, present and future. But, even those impressions are in the here
+and now. We activate impressions when we focus our attention on them.
+When clients want to integrate traumatic experiences and we ask them "how do you feel
+about that experience?", they can answer in three ways:
+
+## PDF page 102
+
+-Without feeling it now, they can recall how they felt when the experience was happening
+and tell us that.
+-They can feel how they now feel about the experience and tell us that.
+-Partially from memory and partially from the current reaction, the client gives their answer
+(a combination of the previous two).
+We are interested in the second option - how they feel about the traumatic experience now.
+The same applies to problems. We said that problems could be active or passive. The client
+already feels active problems in the present time. When we ask the client how they feel
+about a problem which is not active, they should think about the problematic situation or
+imagine that they are now in that situation, and notice how they feel about it.
+Note: All questions of Integra Protocol are always asked in the present tense.
+
+## PDF page 103
+
+Taking notes
+In Integra Protocol we write down the problem definition only. This applies to both self-
+processing and processing others. We don't write down the mind content that comes up -
+images, thoughts, emotions, body sensations, identities, etc., or anything else. We write
+down the client’s verbalization of the problem (situation and reaction) to be able to check
+the result of the process at the end.
+
+## PDF page 104
+
+Self-processing and processing others
+There is no technical difference between self-processing and processing others. You could
+use the "Guidelines for practical work" included at the end of this book to guide you in the
+beginning. However, since Integra Protocol consists of only 3 questions, soon you will not
+need the guidelines either. In self-application, in the beginning you will verbalize the
+questions inwardly, and soon, instead of verbalization, you will only use intention, i.e.
+directing attention in the desired direction.
+
+## PDF page 105
+
+Progressive integration and relevant mind content
+Negative reactions and states are complex and multilayered structures consisting of
+unconscious elements created in different life situations, at all ages. No matter when the
+elements of problematic states or reactions were created, they exist here and now, although
+the surface layer covers deeper elements. Our consciousness perceives only what is on the
+surface.
+Even though it seems paradoxical, the best way to reach the deeper relevant mind content
+created in the past is to focus your attention on the content which is on the surface. When
+you integrate the surface content, the next relevant content will appear by itself, without
+any effort.
+During the process, you don't have to invest effort to remember anything, or strain to
+penetrate the depths of the unconscious in order to locate the key elements of the problem.
+On the contrary, just do the procedure, working with what is on the surface at the present
+moment and everything relevant will appear by itself.
+That's how methods of progressive integration work. They pull to the surface all elements of
+the mind content relevant for the problem we are working on, one at a time, regardless of
+when they were created.
+
+## PDF page 106
+
+Positive, negative, wholeness
+Within one process, both positive and negative identities will appear. We ourselves created
+our identities to reach certain goals, which is why we sometimes have a tendency to
+unconsciously hold onto a positive or negative identity. Recognize this tendency if it appears.
+Note that by integrating identities we don't lose the ability to assume identities. We only
+free ourselves from compulsive stuckness in identities. The human being is neither a positive
+nor negative identity, but the wholeness that exists beyond them. Only from the wholeness
+can we willingly assume both positive and negative identities.
+Don't hold onto any identity or mind content. The only way to really have that identity or
+content is to release it. For if there is a stuck identity, there also must be an opposing
+identity as well, and by maintaining one you also maintain the other.
+
+## PDF page 107
+
+Working with goals
+Working on goals is technically the same as working on problems. Remember that a problem
+consists of two parts: a situation and a reaction.
+Client: I have a problem with authority figures.
+Processor: When you think about authority figures... what happens?
+Client: Anxiety.
+In this case, the problem is "anxiety in the presence of authority figures." The reaction is
+"anxiety" and the situation is "presence of authority figures". With goals, we work the same
+way.
+Processor: What goal do you want to work on?
+Client: I need to complete a project for my graduation exam.
+Processor: Think about your graduation exam project... what happens?
+Client: I feel aversion.
+In this case, the definition is "aversion towards working on my graduation exam project".
+The situation is "working on the graduation exam project" and the reaction is "aversion". As
+you can see, working on goals and working on problems are inseparable. Each time you work
+on a problem, you work on a goal too, and vice versa. Goals and problems are two sides of
+the same internal conflict.
+When completing the process, check the result:
+Think about your graduation exam project... what happens?
+If the client reports another negative reaction, do another process. If the client gives a
+positive compulsive reaction, we apply the process on it too. When there are no more
+compulsive reactions, the client acquires freedom to take action. Also, the client acquires
+freedom to revise, redefine or replace the goal with a more appropriate one, if that's what
+he wants.
+
+## PDF page 108
+
+Part III - Comments
+"The more simple we are, the more complete we become."
+August Rodin
+
+## PDF page 109
+
+Four reaction types
+When we direct our attention onto something, we can have four reaction types:
+-Positive
+-Negative
+-Positive and negative simultaneously
+-No reaction
+All four types are valid at any stage of the process.
+A reaction is an automatic activation of unconscious content caused by directing attention
+onto an object. Since our internal world is conflicted or bipolar, in each reaction there are
+positive and negative sides.
+If the positive side dominates in a given moment, we will notice a positive reaction, while its
+negative part may remain unnoticed, i.e. unconscious. If the negative side dominates in a
+given moment, we will notice a negative reaction, while its positive part may remain
+unnoticed. If both sides of the conflict are of relatively equal intensity, we may have both
+positive and negative reactions at the same time.
+When the client reports that there is no reaction, there are two possibilities:
+-They truly have no reaction; no content or identity came up.
+-Content or identity appear and the client perceives it as "nothing" or "emptiness."
+From the point of view of positional and oppositional sides of the conflict, we could interpret
+four reaction types as follows:
+-Positional side reacts
+-Oppositional side reacts
+-Both sides react at the same time.
+-No reaction
+
+## PDF page 110
+
+Repetitiveness
+A reader might complain about the repetitiveness of Integra Protocol. However,
+repetitiveness is the key to integration of suppressed thoughts and emotions. And
+integration of suppressed thoughts and emotions is the key to resolving psychological
+problems, achieving goals and effective spiritual development.
+Suppressed thoughts and emotions, as well as identities, exist in layers. We are able to
+perceive the surface layer, but the surface layer covers the layers below. To effectively
+resolve a problem, we need to make all of these layers conscious, one at a time, beginning
+with the available, surface layer. This is what we call progressive integration.
+If you did not make all layers of a problem conscious, if you did not go all the way, part of
+the problem structure will remain in the unconscious. The problem will be weakened but not
+eliminated. Hence, the best methods of charge integration, problem solving, goal
+achievement and spiritual development use repetitiveness within one process. Some
+examples of those methods are Deep Peat and Aspectics by Z. M. Slavinski, Spiritual Option
+and Quick Goals by Filip Mihajlovic and Positive by Ivana Tomanovic.
+Although repetitive, these methods are not boring. Even though they repeat the same
+instruction many times, unconscious material that appears in one process differs, and
+practitioners become explorers of unknown territories, who discover new aspects of life in
+others and in themselves.
+Simplicity and repetitiveness are principles which enable almost anyone to learn Integra
+Protocol, to eliminate suffering, improve the quality of life, accelerate spiritual evolution and
+help others.
+
+## PDF page 111
+
+Self-sabotage
+Self-sabotage is our unconscious obstruction, disruption or undermining of our own goals. If
+you understand internal conflict, you will understand self-sabotage. Self-sabotage happens
+when a person joins forces with one side of the internal conflict, the side we call positional,
+and decisively and persistently pushes towards the goals of that side. At the same time, the
+person suppresses all thoughts and emotions created by the goals of the oppositional side,
+which is now threatened and activated. Suppression adds more and more charge to the
+oppositional side.
+Due to the increased amount of charge, the oppositional side grows stronger, but it does not
+have an opportunity to express itself through the conscious personality, because the person
+stubbornly suppresses it, and pushes towards the goals of the positional site. Therefore, the
+stronger and stronger oppositional side finds a way to protect its interest through the
+unconscious behavior of the person, which will be manifested as some form of sabotage of
+the goals of the positional side.
+Self-sabotage is sometimes subtle (the person focuses on the trivial aspects of their goal),
+and sometimes destructive (the person self-inflicts an injury). A solution for self-sabotage is
+to apply Integra Protocol on your goal as well as on the negative reaction provoked by the
+goal.
+
+## PDF page 112
+
+Secondary gain
+Secondary gain is a term commonly used to describe the psychological benefits derived from
+our problems. Reading various works on the subject of secondary gain, we could get the
+impression that it only exists in some problems. However, secondary gain exists in every
+psychological problem.
+Again, we cannot have a problem without an internal conflict. Internal conflicts consist of
+two groups of confronted goals, and by nature, goals are already a gain, something that we
+want to accomplish or avoid. Therefore, we could say that both sides of the internal conflict
+work for our benefit.
+What we perceive as a problem is the reaction that gets activated when the goals of one side
+of the conflict are threatened. The purpose of the reaction is to prevent the defeat of the
+threatened goals, which want to accomplish something beneficial for us.
+This is an example of self-sabotage: a lonely person wants to lose weight to be more
+attractive and find a partner. However, she has an unconscious fear of emotional
+relationships. Hence, her compulsive overeating increases, to avoid an emotional
+relationship. On one side, she truly wants to reduce her weight but on the other side, she
+has an unconscious benefit from being overweight since she does not have to face possible
+rejection or hurt.
+What we perceive as secondary gain from any problem is created by the goals of the
+oppositional side. They are the cause not only of the problematic reaction but also of the
+benefit that we gain from that reaction. If we ask ourselves "What is good about my
+problem?" the goals of the oppositional side will appear.
+If the person shifts into the other side of the internal conflict, secondary gain will still exist,
+only this time it will emanate from the goals of the other side. If we have a problem, we
+benefit from it, one way or the other.
+
+## PDF page 113
+
+Health problems
+We approach health problems the same as any other problems, by asking "How do you feel
+about...?" We want to identify and integrate the reaction or state the client has regarding
+the health problem. Integra Protocol does not cure health problems and illnesses. The
+exceptions are health problems of psychosomatic origin.
+What do we get by using Integra Protocol on health issues? If the cause of the health issue is
+psychosomatic, the most direct path leading to that cause is to identify the reactions and
+states that we have in relation to the health issue. We do this by asking "How do you feel
+about (health issue)?", and then, one at a time, we integrate them by applying the process.
+Health issues of psychosomatic origin are eliminated when their unconscious causes are
+made conscious.
+Even when health problems are not of psychosomatic origin, we almost always add a certain
+amount of mental and emotional charge to them, worsening not just the health problem
+itself, but our overall condition. By integrating added psychological charge, our general state
+improves, and often, the health problem itself reduces in intensity, even if it's not fully
+eliminated. We become proactive in searching for ways to help ourselves and become more
+aware of the possibilities and options available, which earlier we were either unable to see
+or did not want to see.
+Our health problems are often the result of a long-term unhealthy lifestyle. If a person has
+high blood pressure, smokes for years, eats unhealthy food and doesn’t exercise, there is no
+psychological method which, like a magic wand, will regulate blood pressure if the person
+continues with the same unhealthy habits.
+In short, when we integrate charge related to health problems:
+-Health problems of psychosomatic origin disappear.
+-If the problem is not psychosomatic, we will integrate its psychological component and
+accept the problem as it is. In other words, we will no longer suffer emotionally in relation to
+the problem. This is usually a bigger relief than it appears, if you haven't experienced it. If
+there is no reaction regarding the health issue, there is no suffering either.
+-We will constructively and creatively search for possibilities to resolve or reduce the health
+issue.
+-We will consider changes in our lifestyle, to remove behaviors which worsen or cause the
+problem or we will introduce additions to our lifestyle that could reduce or eliminate the
+problem.
+
+## PDF page 114
+
+-We will shift our attention to other aspects of life and live in the best possible way in the
+given situation.
+
+## PDF page 115
+
+Dynamics of the ego
+Throughout the downward phase of evolution and formation of personality, the human
+being creates a considerable amount of stuck identities and identifications. Perceiving from
+stuck identities, additional charge is generated. When we apply the process, we integrate a
+part of charge and dis-identify from some identities, and we feel better. But, in time, older
+identities, deeper layers of the ego will surface and get activated.
+Such are the dynamics of the ego. Since we are identified with many identities, when we
+integrate those that are reachable and close to the surface, their places will eventually be
+taken by deeper identities emerging from the depths of the ego. This is inevitable. Now we
+apply another process to integrate the next layer of the ego. That's progress. Otherwise,
+suffering and stuckness will continue.
+"The mind is like an iceberg, it floats with one-seventh of its bulk above water." Sigmund
+Freud said.
+The average human being carries a great burden. When I do a process, I invest both in the
+present and in the future. Firstly, I no longer feel the negative state that bothered me before
+the process. Secondly, my burden, the total weight I carry, will be lighter tomorrow for the
+amount of charge I integrated today.
+
+## PDF page 116
+
+Selecting a topic to work on
+Topics we apply Integra Protocol on could be classified into four categories:
+-Significant experiences
+-Problems
+-Goals
+-Current states
+Therapists say that the personality of an average person has formed from ten to twenty key
+experiences. Integration of charge tied into those experiences introduces fundamental
+changes in one's life. Integra Protocol is applied to experiences in the usual manner - think
+about that experience... what happens? Then we continue with the standard flow.
+Some significant experiences you will remember immediately, and some will surface later, as
+you apply Integra Protocol on different topics. Those you are aware of now, you can
+integrate immediately. The rest you will integrate when they emerge. Remember, by their
+nature, significant experiences are not just negative, but could also be positive.
+The second big topic is problems. The procedure is as usual - think about (problem
+situation)... what happens? If it seems to you in any moment that you have no problems to
+work on, move onto the third topic - goals. The procedure with goals is the same - think
+about (goal)... what happens? Then continue with the standard flow.
+The last big topic is "my current state". It's how I feel at the moment. When you notice that
+you don't feel optimal, feel it and notice "what happens?" - that is the standard first
+question. Identify the content, and move onto the second question "what identity am I in?",
+and follow the procedure.
+Keep in mind that whatever we perceive, we perceive it from an identity. That's why it is
+possible to apply this process on anything. An experience or state doesn't have to be
+negative. You could use the process on positive experiences or states, as well.
+Internal conflicts always have two sides. The criteria is compulsion. If we don't have freedom
+from something and freedom for something, then we have a conflict.
+
+## PDF page 117
+
+Short-term and long-term results
+We covered everything that exists in the human being by these four topics. Whichever topic
+you focus on, your aim is actually always the same – to integrate charge, i.e. internal
+conflicts.
+Internal conflicts originated in experiences (the first topic), and later manifested as
+problems, goals and non-optimal states (second, third and fourth topics).
+In fact, when you do internal conflicts, you do all four topics at once: you free yourself from
+past experiences that bother and define you, from problems or barriers that separate you
+from your goals, and from non-optimal current states.
+Short term, you don't have to suffer negative states, whether they are connected to
+experiences, problems or goals. Long term, by regular application of Integra Protocol, you
+will have fewer and fewer negative states, problems and barriers. You will feel better and
+your ability to accomplish goals will increase. All this will result in a better quality of life and
+the gradual liberation of consciousness from the shackles of the ego, what is commonly
+called "spiritual development".
+Our erroneous perception that identities are our true Being creates suffering. At the end of
+each process, one experiences oneself without identities, becomes more aware of one's true
+nature and regains wholeness, while the number of stuck identities is reduced. Dis-
+identifying from stuck identities will result in gradual recognition of the self as a non-
+material and immortal being, inseparable from the rest of existence.
+
+## PDF page 118
+
+Appendix I: Guidelines for practical work
+Important concepts
+-Objective and subjective problems
+-Situation and reaction
+-Four elements of the mind content (image, thought, emotion, body sensation)
+-All questions of Integra Protocol are always asked in the present tense.
+-An identity consists of a point of view and the goal we want to accomplish from that point
+of view.
+-We perceive the mind content separately from ourselves; we are identified with identities.
+-Internal conflicts consist of two groups of identities with confronted goals.
+-Expect that you will enter a state of no identity at the end of the process. Notice that state
+(and report it if you are guided by another).
+-Do not hold for the initial problem.
+-Do not hold for any content or identity in any stage of the process.
+-Everything relevant will appear by itself.
+-Problems and goals are two sides of the same entity.
+-Do not analyze but rather direct your attention to cause a reaction, notice the reaction, feel
+it and verbalize it.
+-
+Procedure
+1. When you think about (situation) what happens?
+2. As (content) what identity are you in? What kind of person?
+3. As (identity) what is your goal?
+4. As (goal) what happens?
+Repeat steps 2-4 until no more identities and identifications appear.
+Check the result: When you think about (situation) what happens?
+
+## PDF page 119
+
+-Additional question No. 1: Is there anything else regarding (situation)?
+-Additional question No. 2: What would you like regarding (situation)?
+
+## PDF page 120
+
+Appendix II: Definitions
+Activation: reaction or state caused by activation of suppressed goals, decisions, identities
+and their accompanying charge. It happens when unconscious goals are threatened.
+Active charge: suppressed and unconscious thoughts and emotions which are currently
+active.
+Active identity: identity from which the client perceives in the present moment, activated by
+directing attention to an object.
+Assuming identities: ability of consciousness to assume the point of view needed to achieve
+a goal.
+Automatism: see Reactivity.
+Aware Oneness: goal of evolution. In the beginning of the evolution, the Being has Oneness
+but it cannot perceive it because it does not have awareness. At the end of the downward
+evolutionary phase, the Being gains awareness but it still cannot perceive Oneness, because
+it now perceives the ego. At the end of the upward evolutionary phase, when identities are
+integrated and the ego disassembled, the Being enters Aware Oneness, and for the first
+time, it has both Oneness and awareness.
+Awareness: property of consciousness. The result of evolution. Awareness is individual, as
+opposed to consciousness which is a part of Oneness.
+Barrier: when we direct attention to a goal, unconscious goals (confronted by the goal we
+directed attention to) become active. Unconscious goals generate a negative reaction which
+we perceive as a barrier that separates us from the goal we directed our attention to.
+Bipolar perception: false perception caused by charge. When we perceive that two states of
+the same entity are separate, that they exist or can exist separately.
+Charge: suppressed and unconscious thoughts and emotions (mental images, thoughts,
+emotions and body sensations).
+Compulsiveness: see Reactivity.
+Consciousness: nature of the human being. Integral part of Oneness.
+Defeat: collapse of an intention, goal or decision.
+Directing attention: we direct the client’s intention in order to provoke a reaction, i.e.
+charge relevant to the problem we are working on.
+Downward evolutionary phase: first stage of evolution directed towards gaining awareness.
+
+## PDF page 121
+
+Ego: total sum of all suppressed thoughts and emotions that make us perceive ourselves as
+separate units. Total sum of identities and charge we generated perceiving from identities.
+The storage for our problems. The instrument for achieving awareness.
+Fragmentation: multitude of internal conflicts. Multitude of conflicted identities or groups of
+identities. Multitude of confronted intentions.
+Functionality: ability to achieve goals.
+Horizontal multiplication of identities: when a stuck identity from one aspect of life gets
+activated in another aspect of life and creates new stuckness.
+Identification: an abstract identity. What we identify with on the level of the Being:
+consciousness, "I", nothing, emptiness, presence, etc.
+Identity: point of view plus a goal we want to accomplish from that point of view. An
+identity does not consist of two separate parts. The point of view is the other side of the goal
+- where we perceive the goal from. The goal we can think of as an object and the point of
+view as the subject. One cannot exist without the other.
+Inspection: to notice, recognize, or detect a phenomenon in the unconscious, as opposed to
+drawing conclusions about the phenomenon based on information about it.
+Integration: process of bringing goals, decisions and accompanying charge into
+consciousness. By integration they (goals, decisions, charge) lose their compulsive tendency
+to materialize. Reconciliation of internal conflicts. Rehabilitation of the wholeness of the
+Being.
+Integrity: wholeness of the Being as opposed to fragmentation. Non-existence of internal
+conflict. Ability to perceive a possible negative outcome of a situation without resistance.
+Internal conflict: two confronted intentions. Two identities with confronted goals. Two
+groups of identities with confronted goals. Intention and counter intention are not
+necessarily one positive and the other negative, although they could be. They are two
+confronted intentions.
+Iteration: mind content, identity, goal (one iteration in Integra Protocol).
+Oneness: source, destination and the true nature of overall existence. In its essence,
+everything that exists is an integral part of the same entity.
+Oppositional side of the conflict: side of the conflict that the person suppresses, opposed to
+the current conscious goal of the person. Goals of the oppositional side are threatened and
+create negative reactions, states, or problems.
+Oscillations: alternate identification of consciousness with the opposite sides of an internal
+conflict.
+Passive charge: suppressed and unconscious thoughts and emotions which are currently
+passive.
+Point of view: the point from which we perceive.
+
+## PDF page 122
+
+Polarities: two sides of the same entity. Two states of the same: strength and weakness,
+success and failure, active and passive. When human consciousness divides into two
+opposites.
+Positional side of the conflict: the side of the conflict that is currently dominant, with which
+the person is currently identified, whose goals the person wants to achieve.
+Presence: nature of the human being. When the Being perceives itself even though there are
+no identities or identifications.
+Problems: reactions and states we perceive as unwanted.
+Process: defined sequence of steps leading to a particular result.
+Processing: application of processes on psychological states and reactions.
+Processor: one guiding another person or oneself through processes.
+Progressive integration: integration is noticing and making conscious unconscious mind
+content. Progressive integration is making conscious a sequence of unconscious layers within
+one process, connected to the same unwanted reaction or state. It usually begins from the
+definition of the unwanted state and continues until emptiness is achieved, i.e. the
+disappearance of the mind content from which the unwanted reaction or state originated.
+Reaction: activation of charge. State or behavior opposite to some conscious intention
+(which belongs to the positional side of the internal conflict). A reaction gets activated when
+our unconscious goals are threatened (which belong to the oppositional side of the internal
+conflict). The purpose of a reaction is to prevent the defeat of the unconscious goals.
+Reactivity: compulsive tendency of suppressed goals or decisions to materialize.
+Repetitiveness: repeating the same instruction within one process in order to make
+conscious all building blocks, i.e. layers of an unwanted reaction or state.
+Secondary gain: unconscious psychological benefits we gain from our problems.
+Self-sabotage: unconscious obstruction, disruption or undermining of our own goals.
+Shift: a switch from one identity into another, a switch from an identity whose goal is
+defeated into an identity which resolves the problematic situation, a switch from one side of
+the internal conflict into the other side. One oscillation.
+Standard flow of the process: a sequence of iterations (mind content, identity, goal) until
+we reach the state of no identity or identification.
+Stuckness: inability to assume the point of view needed to accomplish a goal. The result of
+an internal conflict.
+Upward evolutionary phase: the second phase of evolution, directed towards gaining Aware
+Oneness.
+Vertical multiplication of identities: multiplication of identities on both sides of one internal
+conflict.
+
+## PDF page 123
+
+Literature
+David Bohm, "Wholeness and the Implicate Order"
+Filip Mihajlovic, "Quick Goals", Seminar handouts
+Filip Mihajlovic, "Spiritual Option"
+Ivana Tomanovic, "Positive", Seminar handouts
+Mike Goldstein, "Idenics, An Alternative To Therapy"
+Vladimir Stojakovic, "Spiritual Technology: A Journey into Oneself"
+Zivorad M. Slavinski, "Aspectics, Gnosis of the Fourth Dimension"
+Zivorad M. Slavinski, "Escape from the Matrix, Pathways to Liberation"
+Zivorad M. Slavinski, "Gnostic Intensive with the Alternative Technique"
+Zivorad M. Slavinski, "Integral Excalibur, New Pathways"
+Zivorad M. Slavinski, "PEAT, New Pathways"
+Zivorad M. Slavinski, "The Return to Oneness"
+Zivorad M. Slavinski, "Transcendence"
+
+## PDF page 124
+
+INTEGRA PROTOCOL SESSIONS AND SEMINARS
+www.vladimir-stojakovic.com
+vlad.stojakovic@icloud.com
++381 65 3582 195
+
+## PDF page 125
+
+Also by Vladimir Stojakovic
+SPIRITUAL TECHNOLOGY: A Journey Into Oneself
+Oneness, enlightenment... is it available to everyone?
+This honest and inspiring memoir is by an ordinary person, Vladimir Stojakovic, who
+achieved dramatic spiritual growth in a short time, by using Spiritual Technology.
+Spiritual Technology is a revolutionary collection of methods developed by Zivorad M.
+Slavinski, who managed to turn rapid spiritual development, which is often a tedious and
+fruitless activity, into an effortless and even pleasurable adventure. And the results he
+achieved are available to everyone.
+"Spiritual Technology: A Journey into Oneself", based on the personal experience of
+Stojakovic, is an authentic and captivating narrative that reads like a novel.
+In clear language, it describes many remarkable experiences and various phenomena,
+clarifies spiritual concepts and higher states of evolution, reviews the most significant
+methods in Spiritual Technology, and much more.
+Most importantly, "Spiritual Technology: A Journey into Oneself" it shows that the times of
+the "spiritually privileged" are behind us, and that anyone can achieve enlightenment.
+Z.M. Slavinski about the book
+"I'm glad to inform members of our group that after a long time of waiting Vladimir's book
+"SPIRITUAL TECHNOLOGY: A Journey Into Oneself" is published and ready for the
+distribution. At the same time there are two versions, both English and Serbian edition.
+I have started this presentation with a bit of hesitation. Vladimir described his whole
+Spiritual adventure in the light of my systems of Spiritual Technology, mentioning my name
+very often so that I felt like reading some paid advertisement for my systems. But perhaps it
+must be like that - he put in practice everything I have been doing, thus his book is the
+recapitulation of my life's work.
+
+## PDF page 126
+
+Another bit of hesitation comes from awkward situation when you read the book of the
+friend. Sometimes you must tell one, "Your book is good, but you know..." With Vladimir's
+book I did not have to do that.
+The book is very good one, better say excellent - honest, well written, highly interesting and
+good source of precious information. His life story is touchy, his examples are well chosen,
+his metaphors fresh and original.
+One can find in it some elements one can't find at any other place - for example, his
+encounters with materialized mass of his ego which he was able to see and feel. Perhaps
+some other practitioners will be able to report the same lately, but such ones will have to do
+the same enormous number of processing as Vladimir did.
+To make a long story short, Vladimir's book "SPIRITUAL TECHNOLOGY: A Journey Into
+Oneself" reads at the same time as exciting novel and the fascinating manual, the golden
+mine of information.
+Good luck, Vladimir,
+Zivorad
+Contents of the book SPIRITUAL TECHNOLOGY: A Journey Into Oneself
+INTRODUCTION
+SPIRITUAL DEVELOPMENT AND PROBLEM SOLVING
+A MOMENT OF PURE BEING
+True Being, as it really is
+New encounters outside of time and space
+PAST LIVES, COSMIC ADVENTURES OF THE BEING
+Aspectics and past lives
+My conclusions
+Major benefits
+Memento
+A QUESTION THAT STARTED THE UNIVERSE
+Enlightenment Intensive
+Gnostic Intensive
+
+## PDF page 127
+
+Alternating technique
+The stable state of Self
+Individual Gnostic Intensive
+A JOURNEY INTO ONESELF
+Dark night of the soul
+A new game
+Ground zero
+Nature of everything
+Point of no return
+Along the fourth dimension
+Crossing the abyss
+Beyond Pleroma
+The thinker himself
+The source of my universe
+Mechanics of the ego
+FROM DISSONANCE OF CROWD TO HARMONY OF ONE
+Understanding the Aspectics Process
+The current condition of the human being
+A future less ordinary
+The last aspect
+PORTALS TO ONENESS
+Deep PEAT and Primordial Polarities
+DP4 and spiritual engineering
+Unification Process and the breaking of time
+SPIRITUAL DEVELOPMENT AND GOAL ACHIEVEMENT
+SPIRITUAL DEVELOPMENT AND NEW AGE
+Appendix I: Complete list of books written by Zivorad M. Slavinski as of April 2012
+Appendix II: Complete list of systems created by Zivorad M. Slavinski as of April 2012

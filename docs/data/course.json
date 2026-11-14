@@ -1,0 +1,1000 @@
+{
+  "title": "Integra Practice",
+  "author": "Vladimir Stojakovic",
+  "edition": "Integra Protocol v1.1",
+  "modules": [
+    {
+      "id": "begin",
+      "number": 1,
+      "title": "Start with one real situation",
+      "subtitle": "Separate what is happening from what happens in you.",
+      "pages": [
+        8,
+        9,
+        36,
+        37,
+        38,
+        39,
+        116
+      ],
+      "concepts": [
+        {
+          "title": "What this book is about",
+          "body": "Vladimir Stojakovic presents Integra Protocol as a way of exploring internal conflicts through present experience. Its recurring sequence is content → identity → goal → new content. In the book, an identity means a point of view with a goal, rather than your name, your diagnosis or a permanent description of your character."
+        },
+        {
+          "title": "Two parts of a workable topic",
+          "body": "Name the situation in a few ordinary words, then name your current reaction to it. “Opening my project document” is a situation. “Tension and the thought that I will fail” is a reaction. If you only have a situation, ask how you feel about it. If you only have a reaction, ask when it occurs. The book also permits a current state when no specific situation is apparent."
+        },
+        {
+          "title": "Internal work and external action",
+          "body": "The distinction between objective and subjective problems is central. Reflecting on a reaction does not earn money, change another person or complete a task. The book explicitly separates the internal process from the practical action that may still be needed. Use a specific, manageable topic for learning; you do not need to begin with your hardest experience."
+        },
+        {
+          "title": "How this companion works",
+          "body": "Learn the terms, try the three introductory exercises, then use the guided protocol. You can work quietly in the app, or copy a source-grounded handoff into ChatGPT. The app offers a study adaptation, not a clinical assessment or a promise that a problem will disappear."
+        }
+      ],
+      "cheat": [
+        "Situation = the circumstance or topic.",
+        "Reaction = what you notice now when you bring it to mind.",
+        "Begin with a manageable example.",
+        "Keep practical action separate from internal reflection."
+      ],
+      "activity": {
+        "title": "Define a small topic",
+        "prompt": "Write one sentence: “When I think about ___, I notice ___.” Keep the circumstance and the reaction distinct.",
+        "mode": "protocol"
+      },
+      "quiz": {
+        "question": "Which is a subjective reaction?",
+        "options": [
+          "A deadline is tomorrow.",
+          "I notice tension when I think about the deadline.",
+          "The deadline has been moved."
+        ],
+        "answer": 1,
+        "explanation": "The deadline is a circumstance; the tension is the present reaction you can explore."
+      },
+      "story": {
+        "title": "The money example",
+        "body": "The book distinguishes a shortage of money from feeling powerless about that shortage. Even if the feeling changes, money does not appear by itself; earning it still calls for action. This is the author’s example of the limits of internal work.",
+        "pages": [
+          36,
+          37
+        ]
+      },
+      "diagram": "split"
+    },
+    {
+      "id": "elements",
+      "number": 2,
+      "title": "Notice the four elements",
+      "subtitle": "An image, a thought, an emotion, a body sensation.",
+      "pages": [
+        25,
+        26,
+        32,
+        33
+      ],
+      "concepts": [
+        {
+          "title": "A vocabulary for noticing",
+          "body": "The book groups the material of experience into four elements: mental images, thoughts, emotions and body sensations. They may appear together. You do not need all four, and the first exercise explicitly tells you to continue if one is absent."
+        },
+        {
+          "title": "Keep the description concrete",
+          "body": "An image might be a picture of your desk. A thought might be “there is too much to do.” An emotion might be frustration. A sensation might be tightness around the shoulders. These are teaching examples, not suggestions about what you should discover in yourself."
+        },
+        {
+          "title": "The first introductory exercise",
+          "body": "The source asks you to recall a positive experience, enter its remembered perspective and notice emotion, image, thought and body sensation in turn. It then repeats the exercise with a negative experience. The app uses the same order, with a choice to skip or pause, and suggests a mild unpleasant example while learning."
+        },
+        {
+          "title": "Missing is an answer",
+          "body": "Do not manufacture an image or sensation to complete a checklist. “Nothing noticeable” or “I’m not sure” is useful information. A memory image is something you are experiencing now; it is not proof that every detail of the past is accurate."
+        }
+      ],
+      "cheat": [
+        "Notice before explaining.",
+        "More than one element can appear.",
+        "No need to produce all four.",
+        "Use your own words, even if they are simple."
+      ],
+      "activity": {
+        "title": "Try the four-element exercise",
+        "prompt": "Practice noticing the four elements with a pleasant memory, then a manageable unpleasant one.",
+        "mode": "elements"
+      },
+      "quiz": {
+        "question": "You do not notice an image. What follows the source?",
+        "options": [
+          "Invent one to complete the exercise.",
+          "Stop because the exercise failed.",
+          "Continue and notice what is present."
+        ],
+        "answer": 2,
+        "explanation": "The introductory instructions say to continue if an element does not appear."
+      },
+      "story": null,
+      "diagram": "elements"
+    },
+    {
+      "id": "identity",
+      "number": 3,
+      "title": "A point of view with a goal",
+      "subtitle": "Recognize a current perspective without turning it into a label.",
+      "pages": [
+        11,
+        12,
+        17,
+        33,
+        34,
+        42,
+        43
+      ],
+      "concepts": [
+        {
+          "title": "The book’s definition",
+          "body": "An identity is a point of view together with what is wanted from that point of view. The author treats these as two facets of one structure. A goal may be an aim toward something or an intention to avoid something. This is vocabulary within the method, not a psychological diagnosis."
+        },
+        {
+          "title": "Content versus identity",
+          "body": "The book distinguishes what you feel from the perspective from which you feel it. “I feel sadness” names content. A phrase such as “a person who wants to withdraw” may name a point of view, if it is what you actually notice. The clarifying question is whether you feel something or feel identified with it."
+        },
+        {
+          "title": "Do not infer the goal",
+          "body": "The source repeatedly says not to deduce a goal from the identity’s name. Two people using the same phrase may notice different aims. Even for one person, the aim may differ in a later moment. The app and its ChatGPT prompt leave that discovery to you; examples are never answer keys."
+        },
+        {
+          "title": "The second introductory exercise",
+          "body": "Work with a positive and then a negative experience. Notice the emotion, distinguish feeling it from being identified with it, move attention between the emotion and yourself, then notice the current point of view and its goal. Words are optional if you can feel the perspective but cannot name it."
+        }
+      ],
+      "cheat": [
+        "Identity = point of view + goal, in this method.",
+        "A passing perspective is not a permanent self-description.",
+        "Notice the goal; do not assign one.",
+        "An unclear answer is not a failure."
+      ],
+      "activity": {
+        "title": "Try the identity exercise",
+        "prompt": "Use the second introductory exercise to distinguish a feeling from the viewpoint noticing it.",
+        "mode": "identity"
+      },
+      "quiz": {
+        "question": "Someone says “a withdrawn person.” What should a guide do?",
+        "options": [
+          "Tell them their goal is avoiding rejection.",
+          "Ask what goal they notice from that point of view.",
+          "Diagnose their personality."
+        ],
+        "answer": 1,
+        "explanation": "The book asks the person to recognize their own goal. A guide should not supply it."
+      },
+      "story": {
+        "title": "The doctor’s changing roles",
+        "body": "The book describes a doctor moving into the roles of driver, partner, parent and child-of-a-parent during a day. The example illustrates flexible shifts in point of view to suit different activities. It is a model of roles, not a test of someone’s mental health.",
+        "pages": [
+          11,
+          12
+        ]
+      },
+      "diagram": "identity"
+    },
+    {
+      "id": "conflict",
+      "number": 4,
+      "title": "Understand the two-sided conflict",
+      "subtitle": "What one perspective wants can threaten another aim.",
+      "pages": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        29,
+        30,
+        111,
+        112
+      ],
+      "concepts": [
+        {
+          "title": "Two aims, not one bad part",
+          "body": "In the author’s model, stuckness involves opposing intentions. One may seek recognition while another seeks protection from humiliation. Neither must be labeled “bad.” The point is to notice the actual tension rather than to decide in advance which side should win."
+        },
+        {
+          "title": "Positional and oppositional",
+          "body": "The positional side is the side you currently identify with or support. The oppositional side is the conflicting side. The labels are relative: they can change as your experience changes. A next reaction can come from either side, so the protocol does not force an alternation."
+        },
+        {
+          "title": "How conflicts spread in the model",
+          "body": "The author calls more layers around the same issue vertical multiplication, and the appearance of a similar conflict in another area horizontal multiplication. These are explanatory concepts in the book. They are not grounds for inventing forgotten events or deciding what “must” have caused your reaction."
+        },
+        {
+          "title": "Agency without blame",
+          "body": "The book makes broad claims about reactions, responsibility, self-sabotage and secondary gain. This companion does not turn them into accusations. Having a reaction does not mean you caused mistreatment or chose an illness. Explore what you can notice and do now while preserving practical boundaries and accountability."
+        }
+      ],
+      "cheat": [
+        "Look for tension between aims, not a defective self.",
+        "Both positive and negative reactions can appear.",
+        "Do not prescribe the next side of a conflict.",
+        "Agency does not require self-blame."
+      ],
+      "activity": {
+        "title": "Map a mild tension",
+        "prompt": "As a study exercise, name two ordinary wishes that pull in different directions. Treat this as a concept sketch, not a diagnosis or a required discovery during the protocol.",
+        "mode": "protocol"
+      },
+      "quiz": {
+        "question": "Must the two sides be one positive and one negative?",
+        "options": [
+          "Yes, every conflict has a good and bad side.",
+          "No; the book says different kinds of intentions may conflict.",
+          "Only negative intentions matter."
+        ],
+        "answer": 1,
+        "explanation": "The text explicitly allows two positive, two negative, or mixed intentions. What matters in its model is the conflict."
+      },
+      "story": {
+        "title": "The child who wanted to stand out",
+        "body": "A child enjoys praise for schoolwork, then is mocked after stumbling during a recital. The author describes a tension between seeking approval and avoiding humiliation. Later, similar aims can appear in another situation. This is the book’s teaching story; it does not establish the cause of any reader’s experience.",
+        "pages": [
+          13,
+          14,
+          15,
+          16
+        ]
+      },
+      "diagram": "conflict"
+    },
+    {
+      "id": "affirmations",
+      "number": 5,
+      "title": "Observe a statement’s effect",
+      "subtitle": "An affirmation here is a stimulus, not a belief to install.",
+      "pages": [
+        34,
+        35,
+        109
+      ],
+      "concepts": [
+        {
+          "title": "A different use of affirmations",
+          "body": "The third introductory exercise asks you to read a statement, feel its effect and notice a reaction. The author explicitly says its aim is not to convince yourself that the statement is true. Opposite statements are included so that you can observe what each brings up."
+        },
+        {
+          "title": "Four possible reaction types",
+          "body": "The comments chapter lists positive, negative, both at once and no reaction. All are accepted. Your reaction is not a verdict on the statement or on your worth. Do not replace an uncomfortable answer with one that seems more spiritually correct."
+        },
+        {
+          "title": "The fourteen statements",
+          "body": "The source pairs calm/upset, happy/unhappy, confident/insecure, successful/unsuccessful, loved/unloved and superior/inferior, then uses “I love life” and “I don’t love life.” Read them as exercise material. Skip a statement or stop if it is not useful for you today."
+        },
+        {
+          "title": "Keep the observation short",
+          "body": "Notice any image, thought, feeling or sensation, then move on. The optional text box in this companion is a learning aid; filling it is not required by the original exercise."
+        }
+      ],
+      "cheat": [
+        "Read → feel → notice.",
+        "You are observing, not persuading yourself.",
+        "All four reaction types are permitted.",
+        "A statement is not a diagnosis or identity assignment."
+      ],
+      "activity": {
+        "title": "Try the affirmation exercise",
+        "prompt": "Move through the fourteen source statements one at a time, noticing rather than agreeing.",
+        "mode": "affirmations"
+      },
+      "quiz": {
+        "question": "What is the aim of the third exercise?",
+        "options": [
+          "To believe every positive statement.",
+          "To prove the negative statements false.",
+          "To notice the reaction each statement brings up."
+        ],
+        "answer": 2,
+        "explanation": "Page 35 explicitly separates noticing reactions from convincing yourself."
+      },
+      "story": null,
+      "diagram": "elements"
+    },
+    {
+      "id": "attention",
+      "number": 6,
+      "title": "Let attention do the work",
+      "subtitle": "Stay with present noticing; you do not need a theory of yourself.",
+      "pages": [
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106
+      ],
+      "concepts": [
+        {
+          "title": "The task during a practice loop",
+          "body": "The book contrasts noticing with explaining, analyzing or constructing a logical answer. During a loop, attend to what is present, notice it, feel what is manageable and name it if you can. That is a task-specific instruction; it does not mean thinking and problem-solving are generally harmful."
+        },
+        {
+          "title": "A past image is a present experience",
+          "body": "When a memory or imagined scene appears, the process concerns the response you are having now. You do not have to relive an event in detail or recover missing memories. The source emphasizes present-tense questions and the current perspective noticing an image."
+        },
+        {
+          "title": "Work with the surface",
+          "body": "The chapter on progressive integration says to use the content that is available now rather than search for a deeper answer. The app does not rank responses by depth, reward intense feelings or require a particular insight."
+        },
+        {
+          "title": "The important note-taking difference",
+          "body": "Page 103 says to write only the initial problem definition and not the content, identities or goals during the process. Quiet mode follows that preference. Optional written responses, post-session journaling and a typed ChatGPT conversation are clearly labeled adaptations. You can leave the optional fields blank."
+        }
+      ],
+      "cheat": [
+        "Ask in the present tense.",
+        "Use what is available now.",
+        "Do not excavate memories or force intensity.",
+        "Quiet mode needs no typed answers."
+      ],
+      "activity": {
+        "title": "Practice a light shift of attention",
+        "prompt": "Notice something in the room, then a present feeling, then the room again. This brief orientation drill is an app adaptation illustrating an easy shift of attention.",
+        "mode": "protocol"
+      },
+      "quiz": {
+        "question": "The book’s note-taking instruction is to…",
+        "options": [
+          "Record every identity during the loop.",
+          "Keep the initial problem definition for the final check.",
+          "Write a theory of the hidden cause."
+        ],
+        "answer": 1,
+        "explanation": "The source reserves notes for the problem definition. This app labels any additional journaling as an adaptation."
+      },
+      "story": {
+        "title": "Looking from one wall to the other",
+        "body": "To illustrate effortless attention, the author imagines someone asking you to look at the right wall, then the left. The intended parallel is a relaxed shift of attention between aspects of experience, rather than straining to uncover an answer.",
+        "pages": [
+          99,
+          100
+        ]
+      },
+      "diagram": "loop"
+    },
+    {
+      "id": "loop",
+      "number": 7,
+      "title": "Learn the core loop",
+      "subtitle": "Content → point of view → goal → what happens next.",
+      "pages": [
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        118,
+        119
+      ],
+      "concepts": [
+        {
+          "title": "Begin with the original situation",
+          "body": "The first question directs attention to the topic: “When you think about (situation) what happens?” The source asks for the current reaction, rather than an explanation of the whole history. Keep the original wording available for a later comparison."
+        },
+        {
+          "title": "Notice the point of view",
+          "body": "With the reported content in attention, notice yourself and the perspective you are experiencing. The source’s second question is “As (content) what identity are you in? (What kind of person?)” Use your own phrasing; a label offered by a guide is not a discovery."
+        },
+        {
+          "title": "Notice the aim from that point of view",
+          "body": "The third question asks for the identity’s goal. The book emphasizes noticing the aim from within that point of view rather than guessing it intellectually. The aim might be to approach, avoid, preserve or communicate something; those categories are possibilities, not answers."
+        },
+        {
+          "title": "Observe what follows and repeat",
+          "body": "The fourth question asks what happens as you feel the goal. The resulting content becomes the starting point of another identity–goal–content loop. It may support the same side or a different side of the conflict. Let the answer lead; do not force a positive ending. You can pause before any next question."
+        }
+      ],
+      "cheat": [
+        "Start with the situation.",
+        "Notice current content.",
+        "Notice the point of view and its goal.",
+        "Feel the goal, then notice the next content.",
+        "Repeat only while you choose to continue."
+      ],
+      "activity": {
+        "title": "Walk through a practice",
+        "prompt": "Use a manageable situation. Let the app display one question at a time or copy the handoff for a conversational guide.",
+        "mode": "protocol"
+      },
+      "quiz": {
+        "question": "After noticing the goal, what does the source ask next?",
+        "options": [
+          "Why are you like this?",
+          "What happens as you feel that goal?",
+          "What positive belief should replace it?"
+        ],
+        "answer": 1,
+        "explanation": "The next reaction supplies the next content. Interpretation and belief replacement are not the core loop."
+      },
+      "story": null,
+      "diagram": "loop"
+    },
+    {
+      "id": "check",
+      "number": 8,
+      "title": "Know how to check and close",
+      "subtitle": "A reassuring word is not the same as a completed check.",
+      "pages": [
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        96,
+        97
+      ],
+      "concepts": [
+        {
+          "title": "The book’s endpoint language",
+          "body": "The author calls the endpoint a state of “no identity.” Treat this as the source’s terminology, not an experience to manufacture or a demand to lose your ordinary sense of self. The app never declares that you reached it and never requires it before you may stop."
+        },
+        {
+          "title": "Clarify rather than conclude",
+          "body": "Words such as “nothing,” “peace” or “presence” are not automatic proof of completion in the book. A gentle clarification asks whether the word describes something felt, a point of view, or no further content. If an actual point of view remains, the book asks whether it has a goal. Do not insist that one must exist."
+        },
+        {
+          "title": "Return to the same situation",
+          "body": "The result check repeats the opening question about the original situation. Notice what is present now. If a reaction remains, another loop is an option; if not, move to the additional questions. A present report is not proof of permanent resolution or a prediction about every future situation."
+        },
+        {
+          "title": "The two additional questions",
+          "body": "The source asks whether there is anything else regarding the situation, then what you would like regarding it. Related reactions can be explored if you choose. A genuinely new issue should be named as new and can wait for another session. Finish with your own observation and, where useful, one practical next action."
+        }
+      ],
+      "cheat": [
+        "“Nothing” can mean several things; clarify gently.",
+        "Do not force a no-identity state.",
+        "Revisit the original topic.",
+        "Ask “anything else?” and “what would you like?”",
+        "Ending a session is not certifying a cure."
+      ],
+      "activity": {
+        "title": "Practice an honest ending",
+        "prompt": "What do you notice when you revisit the same topic now? “Unchanged,” “unclear” and “enough for today” are valid observations.",
+        "mode": "protocol"
+      },
+      "quiz": {
+        "question": "Someone reports “peace.” What is the best response?",
+        "options": [
+          "Declare the issue permanently resolved.",
+          "Insist it is a hidden identity.",
+          "Clarify their experience and revisit the original situation."
+        ],
+        "answer": 2,
+        "explanation": "Neither automatic success nor automatic doubt follows from a word. The source uses clarification and a return to the original topic."
+      },
+      "story": {
+        "title": "The building-site session",
+        "body": "In transcript 2, the person reports a state described as “only me,” but then notices another goal. Later the facilitator returns to the building site and hears that a reaction remains. The teaching point is to check rather than equate a pleasant or abstract description with an endpoint.",
+        "pages": [
+          57,
+          58,
+          59
+        ]
+      },
+      "diagram": "check"
+    },
+    {
+      "id": "exceptions",
+      "number": 9,
+      "title": "Find your way when you get stuck",
+      "subtitle": "Use a clarification, not a forced answer.",
+      "pages": [
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        109
+      ],
+      "concepts": [
+        {
+          "title": "Two different kinds of “two”",
+          "body": "If two identities are reported, the source takes one at a time. If two opposite pieces of content are reported together, it permits noticing both before asking about the point of view. Do not confuse selecting one identity with suppressing an emotion."
+        },
+        {
+          "title": "Content instead of a point of view",
+          "body": "When the response is another image, thought, feeling or sensation, accept it as the new content and ask about the point of view again. If the distinction is unclear, ask whether the person feels the reported thing or is identified with it. Their answer determines the next question."
+        },
+        {
+          "title": "No words, no goal or no reaction",
+          "body": "The book permits continuing with a felt identity that cannot be named. If a goal is unclear, it asks about an intention, then a message, then what happens now. Those are clarifications, not a reason to pressure someone to invent a hidden motive. If “nothing” is reported, first find out what the person means."
+        },
+        {
+          "title": "When the guide loses the thread",
+          "body": "Page 97 returns to “What happens now?” or to the original topic. That is the app’s reset option too. The source also describes a technique of taking a viewpoint behind an identification; it remains available for reading, but the app does not automatically lead an unsupervised user into an identity-dissolving exercise."
+        }
+      ],
+      "cheat": [
+        "Two identities: one at a time.",
+        "Two pieces of content: both can be noticed.",
+        "No goal: intention → message → what happens now.",
+        "Lost: return to current experience or the starting topic.",
+        "You may pause instead of solving an ambiguity."
+      ],
+      "activity": {
+        "title": "Try a navigation check",
+        "prompt": "Choose one exception and explain, in your own words, which question would come next and why.",
+        "mode": "protocol"
+      },
+      "quiz": {
+        "question": "An identity is felt but cannot be put into words. Must a guide name it?",
+        "options": [
+          "Yes, use a label from a transcript.",
+          "No, the person can notice its goal without naming it.",
+          "Yes, choose a diagnosis."
+        ],
+        "answer": 1,
+        "explanation": "The source accepts a felt but unnamed point of view. The guide does not invent a label."
+      },
+      "story": null,
+      "diagram": "loop"
+    },
+    {
+      "id": "examples",
+      "number": 10,
+      "title": "Read a session like a guide",
+      "subtitle": "Follow the question choices, not someone else’s answers.",
+      "pages": [
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91
+      ],
+      "concepts": [
+        {
+          "title": "Nine complete source transcripts",
+          "body": "The book includes sessions about social withdrawal, a building site, money, sadness, feeling stuck in one’s head, overeating, financial independence, studying German and travel anxiety. Every transcript is available in the Examples view and in the complete source reader."
+        },
+        {
+          "title": "Look for the moves",
+          "body": "For each exchange, identify whether the facilitator is asking for content, a point of view, a goal, clarification or a result check. Notice where the person gives content in response to an identity question and how the facilitator returns to the sequence."
+        },
+        {
+          "title": "Answers are individual",
+          "body": "A transcript’s identity or goal is not a suggestion for you. Some examples contain strong language, violent imagery or metaphysical descriptions. They are preserved as the author’s reported examples, not prescriptions, diagnoses or evidence that a similar response will occur for a reader."
+        },
+        {
+          "title": "Read the ending critically",
+          "body": "These are selected examples reported by the author, not controlled studies or long-term follow-up. Notice what the person actually reports at the end and what the transcript does not establish. A changed report within a session does not establish the permanent disappearance of a problem."
+        }
+      ],
+      "cheat": [
+        "Classify the facilitator’s move.",
+        "Do not borrow a client’s identity or goal.",
+        "Distinguish a reported outcome from a guarantee.",
+        "Use a transcript to understand the sequence."
+      ],
+      "activity": {
+        "title": "Annotate one exchange",
+        "prompt": "Read the building-site or German-study transcript. Pick an exchange and identify content, point of view, goal and next reaction.",
+        "mode": "protocol"
+      },
+      "quiz": {
+        "question": "What can a transcript reliably show?",
+        "options": [
+          "The exact outcome every reader will get.",
+          "An example of how the author applies the sequence.",
+          "That the method outperforms clinical treatment."
+        ],
+        "answer": 1,
+        "explanation": "The examples demonstrate the author’s process. They do not establish comparative effectiveness or guaranteed outcomes."
+      },
+      "story": null,
+      "diagram": "loop"
+    },
+    {
+      "id": "action",
+      "number": 11,
+      "title": "Bring the learning into daily life",
+      "subtitle": "A useful reflection can be followed by a small, concrete action.",
+      "pages": [
+        23,
+        36,
+        37,
+        107,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117
+      ],
+      "concepts": [
+        {
+          "title": "Four starting categories",
+          "body": "The book groups topics as significant experiences, problems, goals and current states. The procedure remains similar: bring the topic to mind and notice the current reaction. For learning, a small present-day task can be more manageable than a major life event."
+        },
+        {
+          "title": "Working with a goal",
+          "body": "The author’s example is a graduation project that evokes aversion. The project is the situation and aversion the reaction. After reflection, the person may act on the goal, revise it or choose a different goal. Removing a feeling is not a prerequisite for taking every useful action."
+        },
+        {
+          "title": "A practical follow-up",
+          "body": "Choose one action you actually endorse, such as opening the document and writing a heading, asking a clear question, or setting a boundary. This action-planning field is an app adaptation that supports the book’s distinction between internal reflection and external action."
+        },
+        {
+          "title": "Keep claims proportionate",
+          "body": "The source makes strong claims about durable results, ego dynamics and psychosomatic illness. This app does not verify or adopt those claims. It does not diagnose, treat illness, or recommend changing care. Record what you notice today and revisit it later without treating recurrence as personal failure."
+        }
+      ],
+      "cheat": [
+        "The same loop can begin from a goal.",
+        "Reflection does not replace external action.",
+        "A next step should be specific and freely chosen.",
+        "Revisit your own observations; do not assume permanence."
+      ],
+      "activity": {
+        "title": "Choose one next step",
+        "prompt": "After a practice, write one action and a question you would like to revisit. The app stores them; it does not send reminders.",
+        "mode": "protocol"
+      },
+      "quiz": {
+        "question": "After exploring aversion to a project, what can still be needed?",
+        "options": [
+          "Actually working on or revising the project.",
+          "Waiting for the project to complete itself.",
+          "Proving all resistance is gone before any action."
+        ],
+        "answer": 0,
+        "explanation": "The book distinguishes reactions from objective tasks. Practical work remains a separate part of the process."
+      },
+      "story": {
+        "title": "The graduation project",
+        "body": "The source uses a student’s aversion toward a graduation project to show that a goal can be the entry point. The session concerns the reaction to the goal; completing the project still requires real-world choices and work.",
+        "pages": [
+          107
+        ]
+      },
+      "diagram": "split"
+    },
+    {
+      "id": "framework",
+      "number": 12,
+      "title": "Read the larger framework carefully",
+      "subtitle": "Understand the author’s worldview without having to adopt it.",
+      "pages": [
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        115,
+        117,
+        120,
+        121,
+        122,
+        123
+      ],
+      "concepts": [
+        {
+          "title": "The spiritual model",
+          "body": "The book connects conflicts, identities and “charge” to a spiritual account of consciousness, ego, polarities and Oneness. It distinguishes ordinary identities from more abstract identifications such as “consciousness” or “presence.” These are the author’s conceptual and metaphysical claims."
+        },
+        {
+          "title": "A vocabulary, not a scientific conclusion",
+          "body": "The author draws analogies with David Bohm’s implicate and explicate orders and with opposing physical forces. An analogy is not evidence that a psychological mechanism has been demonstrated. Learning the terminology does not require accepting it as established physics or medicine."
+        },
+        {
+          "title": "Freedom in the author’s terms",
+          "body": "The book describes integration as becoming less compulsively tied to a point of view while retaining the ability to use a role when appropriate. The practical reading is an interest in flexibility, rather than a requirement to erase personality or ordinary functioning."
+        },
+        {
+          "title": "Use the source and your own judgment",
+          "body": "The full glossary, bibliography, front matter, quotations and promotional pages are retained in the source library. Attributed quotations have not been independently authenticated. You can study the sequence, question its premises and record disagreement; agreement and dramatic experiences are not completion requirements."
+        }
+      ],
+      "cheat": [
+        "Learn a term before agreeing with its claim.",
+        "Metaphor does not establish a mechanism.",
+        "Do not force unusual states or loss of self.",
+        "Questioning the framework is part of study."
+      ],
+      "activity": {
+        "title": "Separate observation from interpretation",
+        "prompt": "Write one thing you directly noticed and one explanation the author would give. Keep the two distinct.",
+        "mode": "protocol"
+      },
+      "quiz": {
+        "question": "How should the app treat “Oneness” and ego-dissolution claims?",
+        "options": [
+          "As facts you must affirm.",
+          "As the author’s framework, open to examination.",
+          "As a medical diagnosis."
+        ],
+        "answer": 1,
+        "explanation": "The source’s spiritual language is preserved and attributed, without being imposed as fact."
+      },
+      "story": null,
+      "diagram": "identity"
+    }
+  ],
+  "examples": [
+    {
+      "id": "1",
+      "title": "Feeling closed off",
+      "start": 53,
+      "end": 56,
+      "lesson": "Notice the move from a self-description directly to a goal, then into the ordinary loop.",
+      "note": "The author’s report ends by returning to the initial phrase about being a closed person."
+    },
+    {
+      "id": "2",
+      "title": "The building site",
+      "start": 57,
+      "end": 59,
+      "lesson": "A pleasant reaction does not stop the inquiry; the original situation is checked again.",
+      "note": "Notice the follow-up after the person reports relief but still does not feel good about the building site."
+    },
+    {
+      "id": "3",
+      "title": "Powerlessness about money",
+      "start": 60,
+      "end": 63,
+      "lesson": "Several answers are new content rather than identities; the facilitator accepts them and asks again.",
+      "note": "The statements about blame and manipulation are this client’s words, not labels to apply to yourself."
+    },
+    {
+      "id": "4",
+      "title": "A particular sadness",
+      "start": 64,
+      "end": 66,
+      "lesson": "Watch the distinction between a sensation or image and the perspective noticing it.",
+      "note": "The facilitator checks ambiguous terms rather than assuming every abstract word is an endpoint."
+    },
+    {
+      "id": "5",
+      "title": "Feeling stuck in the head",
+      "start": 67,
+      "end": 69,
+      "lesson": "The same identity name can return with a different goal.",
+      "note": "Contains aggressive imagery and language about disappearing. Read as a reported example, not a direction to act or to seek dissociation."
+    },
+    {
+      "id": "6",
+      "title": "A reaction around overeating",
+      "start": 70,
+      "end": 73,
+      "lesson": "Both additional questions appear after the first return to the topic.",
+      "note": "This is a source transcript, not nutritional advice or treatment for an eating disorder."
+    },
+    {
+      "id": "7",
+      "title": "Financial independence",
+      "start": 74,
+      "end": 79,
+      "lesson": "Several passes and result checks occur within one session.",
+      "note": "Contains violent imagery and metaphysical language. This companion does not use those phrases as suggested responses or actions."
+    },
+    {
+      "id": "8",
+      "title": "Resistance to studying German",
+      "start": 80,
+      "end": 86,
+      "lesson": "A no-reaction report is followed by a concrete check and the question of what the person would like.",
+      "note": "Watch how the facilitator keeps returning to the same goal instead of assuming an early shift settles the entire topic."
+    },
+    {
+      "id": "9",
+      "title": "Fear of traveling",
+      "start": 87,
+      "end": 91,
+      "lesson": "The result check includes imagining a concrete present situation, then noticing any remaining response.",
+      "note": "These are the author’s reported observations within a session; no long-term outcome is shown."
+    }
+  ],
+  "affirmations": [
+    "I am calm",
+    "I am upset",
+    "I am happy",
+    "I am unhappy",
+    "I am confident",
+    "I am insecure",
+    "I am successful",
+    "I am unsuccessful",
+    "I am loved",
+    "I am unloved",
+    "I am superior",
+    "I am inferior",
+    "I love life",
+    "I don't love life"
+  ],
+  "sections": [
+    {
+      "title": "Front matter and introduction",
+      "start": 1,
+      "end": 10
+    },
+    {
+      "title": "Identities and internal conflict",
+      "start": 11,
+      "end": 23
+    },
+    {
+      "title": "Polarities, charge and spiritual framework",
+      "start": 24,
+      "end": 30
+    },
+    {
+      "title": "Introductory exercises",
+      "start": 31,
+      "end": 35
+    },
+    {
+      "title": "Situation and reaction",
+      "start": 36,
+      "end": 39
+    },
+    {
+      "title": "Protocol and result checks",
+      "start": 40,
+      "end": 52
+    },
+    {
+      "title": "Nine session transcripts",
+      "start": 53,
+      "end": 91
+    },
+    {
+      "title": "Exceptions",
+      "start": 92,
+      "end": 97
+    },
+    {
+      "title": "Attention, present time and notes",
+      "start": 98,
+      "end": 106
+    },
+    {
+      "title": "Working with goals",
+      "start": 107,
+      "end": 107
+    },
+    {
+      "title": "Comments and applications",
+      "start": 108,
+      "end": 117
+    },
+    {
+      "title": "Practical reference",
+      "start": 118,
+      "end": 119
+    },
+    {
+      "title": "Definitions",
+      "start": 120,
+      "end": 122
+    },
+    {
+      "title": "Literature and back matter",
+      "start": 123,
+      "end": 127
+    }
+  ],
+  "protocolPages": [
+    11,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    116,
+    118,
+    119
+  ],
+  "introPages": [
+    11,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    98,
+    100,
+    101,
+    102,
+    103,
+    104,
+    109
+  ],
+  "editorialNote": "Learning explanations, diagrams, quizzes, navigation, optional notes and ChatGPT handoffs are adaptations made for this companion. The source reader preserves the supplied book separately."
+}

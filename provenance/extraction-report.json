@@ -1,0 +1,1670 @@
+{
+  "filename": "Vladimir Stojakovic - Integra Protocol v1.1.pdf",
+  "sha256": "65d55c5a1d5462c0719dc5955e56f0252338dc3150daafc1b72076d023d4670c",
+  "pages": 127,
+  "words": 31009,
+  "textlessPages": [],
+  "method": "pdfplumber page-by-page text extraction; x_tolerance=2, y_tolerance=3",
+  "pageStats": [
+    {
+      "page": 1,
+      "characters": 72,
+      "words": 9,
+      "images": 1,
+      "method": "Manual transcription of image-only cover, verified against rendered page"
+    },
+    {
+      "page": 2,
+      "characters": 73,
+      "words": 9,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 3,
+      "characters": 374,
+      "words": 51,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 4,
+      "characters": 37,
+      "words": 5,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 5,
+      "characters": 110,
+      "words": 19,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 6,
+      "characters": 816,
+      "words": 109,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 7,
+      "characters": 677,
+      "words": 89,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 8,
+      "characters": 2013,
+      "words": 320,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 9,
+      "characters": 182,
+      "words": 26,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 10,
+      "characters": 104,
+      "words": 18,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 11,
+      "characters": 1906,
+      "words": 317,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 12,
+      "characters": 2290,
+      "words": 376,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 13,
+      "characters": 2651,
+      "words": 452,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 14,
+      "characters": 2628,
+      "words": 431,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 15,
+      "characters": 2678,
+      "words": 447,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 16,
+      "characters": 2668,
+      "words": 427,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 17,
+      "characters": 3113,
+      "words": 509,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 18,
+      "characters": 3363,
+      "words": 587,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 19,
+      "characters": 2703,
+      "words": 448,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 20,
+      "characters": 3130,
+      "words": 547,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 21,
+      "characters": 2678,
+      "words": 444,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 22,
+      "characters": 2395,
+      "words": 406,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 23,
+      "characters": 1986,
+      "words": 322,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 24,
+      "characters": 3131,
+      "words": 504,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 25,
+      "characters": 2396,
+      "words": 401,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 26,
+      "characters": 2771,
+      "words": 445,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 27,
+      "characters": 3072,
+      "words": 497,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 28,
+      "characters": 2626,
+      "words": 426,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 29,
+      "characters": 1515,
+      "words": 299,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 30,
+      "characters": 1525,
+      "words": 257,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 31,
+      "characters": 81,
+      "words": 12,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 32,
+      "characters": 1416,
+      "words": 242,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 33,
+      "characters": 1912,
+      "words": 326,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 34,
+      "characters": 1347,
+      "words": 230,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 35,
+      "characters": 389,
+      "words": 74,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 36,
+      "characters": 2871,
+      "words": 480,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 37,
+      "characters": 450,
+      "words": 75,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 38,
+      "characters": 1329,
+      "words": 220,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 39,
+      "characters": 1579,
+      "words": 246,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 40,
+      "characters": 1497,
+      "words": 232,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 41,
+      "characters": 2303,
+      "words": 384,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 42,
+      "characters": 2279,
+      "words": 394,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 43,
+      "characters": 2338,
+      "words": 386,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 44,
+      "characters": 1308,
+      "words": 202,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 45,
+      "characters": 1746,
+      "words": 283,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 46,
+      "characters": 1259,
+      "words": 209,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 47,
+      "characters": 1103,
+      "words": 191,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 48,
+      "characters": 1252,
+      "words": 202,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 49,
+      "characters": 2484,
+      "words": 429,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 50,
+      "characters": 2700,
+      "words": 460,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 51,
+      "characters": 2356,
+      "words": 399,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 52,
+      "characters": 1230,
+      "words": 195,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 53,
+      "characters": 1232,
+      "words": 205,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 54,
+      "characters": 1571,
+      "words": 264,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 55,
+      "characters": 1410,
+      "words": 225,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 56,
+      "characters": 1015,
+      "words": 169,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 57,
+      "characters": 1528,
+      "words": 252,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 58,
+      "characters": 1829,
+      "words": 307,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 59,
+      "characters": 1174,
+      "words": 202,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 60,
+      "characters": 1370,
+      "words": 206,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 61,
+      "characters": 1576,
+      "words": 263,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 62,
+      "characters": 1508,
+      "words": 241,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 63,
+      "characters": 784,
+      "words": 126,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 64,
+      "characters": 1436,
+      "words": 232,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 65,
+      "characters": 1607,
+      "words": 262,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 66,
+      "characters": 447,
+      "words": 73,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 67,
+      "characters": 1272,
+      "words": 209,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 68,
+      "characters": 1439,
+      "words": 233,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 69,
+      "characters": 889,
+      "words": 155,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 70,
+      "characters": 1340,
+      "words": 217,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 71,
+      "characters": 1635,
+      "words": 271,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 72,
+      "characters": 1509,
+      "words": 253,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 73,
+      "characters": 794,
+      "words": 127,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 74,
+      "characters": 1287,
+      "words": 198,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 75,
+      "characters": 1428,
+      "words": 219,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 76,
+      "characters": 1425,
+      "words": 229,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 77,
+      "characters": 1317,
+      "words": 210,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 78,
+      "characters": 1370,
+      "words": 220,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 79,
+      "characters": 536,
+      "words": 87,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 80,
+      "characters": 1188,
+      "words": 195,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 81,
+      "characters": 1512,
+      "words": 243,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 82,
+      "characters": 1435,
+      "words": 241,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 83,
+      "characters": 1466,
+      "words": 243,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 84,
+      "characters": 1323,
+      "words": 208,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 85,
+      "characters": 1286,
+      "words": 206,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 86,
+      "characters": 379,
+      "words": 56,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 87,
+      "characters": 1085,
+      "words": 170,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 88,
+      "characters": 1287,
+      "words": 208,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 89,
+      "characters": 1236,
+      "words": 200,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 90,
+      "characters": 1252,
+      "words": 209,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 91,
+      "characters": 458,
+      "words": 73,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 92,
+      "characters": 1493,
+      "words": 252,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 93,
+      "characters": 2043,
+      "words": 349,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 94,
+      "characters": 1576,
+      "words": 264,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 95,
+      "characters": 1710,
+      "words": 294,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 96,
+      "characters": 1400,
+      "words": 230,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 97,
+      "characters": 1462,
+      "words": 243,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 98,
+      "characters": 1819,
+      "words": 298,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 99,
+      "characters": 2304,
+      "words": 363,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 100,
+      "characters": 776,
+      "words": 133,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 101,
+      "characters": 2532,
+      "words": 423,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 102,
+      "characters": 828,
+      "words": 144,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 103,
+      "characters": 409,
+      "words": 67,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 104,
+      "characters": 536,
+      "words": 80,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 105,
+      "characters": 1231,
+      "words": 201,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 106,
+      "characters": 892,
+      "words": 144,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 107,
+      "characters": 1548,
+      "words": 255,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 108,
+      "characters": 87,
+      "words": 16,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 109,
+      "characters": 1304,
+      "words": 210,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 110,
+      "characters": 1670,
+      "words": 253,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 111,
+      "characters": 1356,
+      "words": 210,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 112,
+      "characters": 1852,
+      "words": 317,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 113,
+      "characters": 2462,
+      "words": 402,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 114,
+      "characters": 111,
+      "words": 21,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 115,
+      "characters": 1270,
+      "words": 210,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 116,
+      "characters": 1910,
+      "words": 316,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 117,
+      "characters": 1537,
+      "words": 241,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 118,
+      "characters": 1330,
+      "words": 221,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 119,
+      "characters": 144,
+      "words": 20,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 120,
+      "characters": 2109,
+      "words": 317,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 121,
+      "characters": 2671,
+      "words": 396,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 122,
+      "characters": 2664,
+      "words": 393,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 123,
+      "characters": 706,
+      "words": 90,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 124,
+      "characters": 110,
+      "words": 11,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 125,
+      "characters": 1843,
+      "words": 283,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 126,
+      "characters": 1372,
+      "words": 230,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    },
+    {
+      "page": 127,
+      "characters": 849,
+      "words": 137,
+      "images": 0,
+      "method": "pdfplumber text layer"
+    }
+  ],
+  "coverNote": "Manual transcription of image-only cover, verified against rendered page",
+  "crossExtractorChecks": [
+    {
+      "page": 1,
+      "pdfplumberCharacters": 0,
+      "pypdfCharacters": 0,
+      "match": true
+    },
+    {
+      "page": 2,
+      "pdfplumberCharacters": 65,
+      "pypdfCharacters": 65,
+      "match": true
+    },
+    {
+      "page": 3,
+      "pdfplumberCharacters": 324,
+      "pypdfCharacters": 324,
+      "match": true
+    },
+    {
+      "page": 4,
+      "pdfplumberCharacters": 33,
+      "pypdfCharacters": 33,
+      "match": true
+    },
+    {
+      "page": 5,
+      "pdfplumberCharacters": 92,
+      "pypdfCharacters": 92,
+      "match": true
+    },
+    {
+      "page": 6,
+      "pdfplumberCharacters": 708,
+      "pypdfCharacters": 708,
+      "match": true
+    },
+    {
+      "page": 7,
+      "pdfplumberCharacters": 589,
+      "pypdfCharacters": 589,
+      "match": true
+    },
+    {
+      "page": 8,
+      "pdfplumberCharacters": 1694,
+      "pypdfCharacters": 1694,
+      "match": true
+    },
+    {
+      "page": 9,
+      "pdfplumberCharacters": 157,
+      "pypdfCharacters": 157,
+      "match": true
+    },
+    {
+      "page": 10,
+      "pdfplumberCharacters": 87,
+      "pypdfCharacters": 87,
+      "match": true
+    },
+    {
+      "page": 11,
+      "pdfplumberCharacters": 1590,
+      "pypdfCharacters": 1590,
+      "match": true
+    },
+    {
+      "page": 12,
+      "pdfplumberCharacters": 1915,
+      "pypdfCharacters": 1915,
+      "match": true
+    },
+    {
+      "page": 13,
+      "pdfplumberCharacters": 2200,
+      "pypdfCharacters": 2200,
+      "match": true
+    },
+    {
+      "page": 14,
+      "pdfplumberCharacters": 2198,
+      "pypdfCharacters": 2198,
+      "match": true
+    },
+    {
+      "page": 15,
+      "pdfplumberCharacters": 2232,
+      "pypdfCharacters": 2232,
+      "match": true
+    },
+    {
+      "page": 16,
+      "pdfplumberCharacters": 2242,
+      "pypdfCharacters": 2242,
+      "match": true
+    },
+    {
+      "page": 17,
+      "pdfplumberCharacters": 2605,
+      "pypdfCharacters": 2605,
+      "match": true
+    },
+    {
+      "page": 18,
+      "pdfplumberCharacters": 2777,
+      "pypdfCharacters": 2777,
+      "match": true
+    },
+    {
+      "page": 19,
+      "pdfplumberCharacters": 2256,
+      "pypdfCharacters": 2256,
+      "match": true
+    },
+    {
+      "page": 20,
+      "pdfplumberCharacters": 2584,
+      "pypdfCharacters": 2584,
+      "match": true
+    },
+    {
+      "page": 21,
+      "pdfplumberCharacters": 2235,
+      "pypdfCharacters": 2235,
+      "match": true
+    },
+    {
+      "page": 22,
+      "pdfplumberCharacters": 1990,
+      "pypdfCharacters": 1990,
+      "match": true
+    },
+    {
+      "page": 23,
+      "pdfplumberCharacters": 1665,
+      "pypdfCharacters": 1665,
+      "match": true
+    },
+    {
+      "page": 24,
+      "pdfplumberCharacters": 2628,
+      "pypdfCharacters": 2628,
+      "match": true
+    },
+    {
+      "page": 25,
+      "pdfplumberCharacters": 1996,
+      "pypdfCharacters": 1996,
+      "match": true
+    },
+    {
+      "page": 26,
+      "pdfplumberCharacters": 2327,
+      "pypdfCharacters": 2327,
+      "match": true
+    },
+    {
+      "page": 27,
+      "pdfplumberCharacters": 2576,
+      "pypdfCharacters": 2576,
+      "match": true
+    },
+    {
+      "page": 28,
+      "pdfplumberCharacters": 2201,
+      "pypdfCharacters": 2201,
+      "match": true
+    },
+    {
+      "page": 29,
+      "pdfplumberCharacters": 1217,
+      "pypdfCharacters": 1217,
+      "match": true
+    },
+    {
+      "page": 30,
+      "pdfplumberCharacters": 1269,
+      "pypdfCharacters": 1269,
+      "match": true
+    },
+    {
+      "page": 31,
+      "pdfplumberCharacters": 70,
+      "pypdfCharacters": 70,
+      "match": true
+    },
+    {
+      "page": 32,
+      "pdfplumberCharacters": 1175,
+      "pypdfCharacters": 1175,
+      "match": true
+    },
+    {
+      "page": 33,
+      "pdfplumberCharacters": 1587,
+      "pypdfCharacters": 1587,
+      "match": true
+    },
+    {
+      "page": 34,
+      "pdfplumberCharacters": 1118,
+      "pypdfCharacters": 1118,
+      "match": true
+    },
+    {
+      "page": 35,
+      "pdfplumberCharacters": 316,
+      "pypdfCharacters": 316,
+      "match": true
+    },
+    {
+      "page": 36,
+      "pdfplumberCharacters": 2392,
+      "pypdfCharacters": 2392,
+      "match": true
+    },
+    {
+      "page": 37,
+      "pdfplumberCharacters": 376,
+      "pypdfCharacters": 376,
+      "match": true
+    },
+    {
+      "page": 38,
+      "pdfplumberCharacters": 1110,
+      "pypdfCharacters": 1110,
+      "match": true
+    },
+    {
+      "page": 39,
+      "pdfplumberCharacters": 1334,
+      "pypdfCharacters": 1334,
+      "match": true
+    },
+    {
+      "page": 40,
+      "pdfplumberCharacters": 1266,
+      "pypdfCharacters": 1266,
+      "match": true
+    },
+    {
+      "page": 41,
+      "pdfplumberCharacters": 1920,
+      "pypdfCharacters": 1920,
+      "match": true
+    },
+    {
+      "page": 42,
+      "pdfplumberCharacters": 1886,
+      "pypdfCharacters": 1886,
+      "match": true
+    },
+    {
+      "page": 43,
+      "pdfplumberCharacters": 1953,
+      "pypdfCharacters": 1953,
+      "match": true
+    },
+    {
+      "page": 44,
+      "pdfplumberCharacters": 1107,
+      "pypdfCharacters": 1107,
+      "match": true
+    },
+    {
+      "page": 45,
+      "pdfplumberCharacters": 1464,
+      "pypdfCharacters": 1464,
+      "match": true
+    },
+    {
+      "page": 46,
+      "pdfplumberCharacters": 1051,
+      "pypdfCharacters": 1051,
+      "match": true
+    },
+    {
+      "page": 47,
+      "pdfplumberCharacters": 913,
+      "pypdfCharacters": 913,
+      "match": true
+    },
+    {
+      "page": 48,
+      "pdfplumberCharacters": 1051,
+      "pypdfCharacters": 1051,
+      "match": true
+    },
+    {
+      "page": 49,
+      "pdfplumberCharacters": 2056,
+      "pypdfCharacters": 2056,
+      "match": true
+    },
+    {
+      "page": 50,
+      "pdfplumberCharacters": 2241,
+      "pypdfCharacters": 2241,
+      "match": true
+    },
+    {
+      "page": 51,
+      "pdfplumberCharacters": 1958,
+      "pypdfCharacters": 1958,
+      "match": true
+    },
+    {
+      "page": 52,
+      "pdfplumberCharacters": 1036,
+      "pypdfCharacters": 1036,
+      "match": true
+    },
+    {
+      "page": 53,
+      "pdfplumberCharacters": 1028,
+      "pypdfCharacters": 1028,
+      "match": true
+    },
+    {
+      "page": 54,
+      "pdfplumberCharacters": 1308,
+      "pypdfCharacters": 1308,
+      "match": true
+    },
+    {
+      "page": 55,
+      "pdfplumberCharacters": 1186,
+      "pypdfCharacters": 1186,
+      "match": true
+    },
+    {
+      "page": 56,
+      "pdfplumberCharacters": 847,
+      "pypdfCharacters": 847,
+      "match": true
+    },
+    {
+      "page": 57,
+      "pdfplumberCharacters": 1277,
+      "pypdfCharacters": 1277,
+      "match": true
+    },
+    {
+      "page": 58,
+      "pdfplumberCharacters": 1523,
+      "pypdfCharacters": 1523,
+      "match": true
+    },
+    {
+      "page": 59,
+      "pdfplumberCharacters": 973,
+      "pypdfCharacters": 973,
+      "match": true
+    },
+    {
+      "page": 60,
+      "pdfplumberCharacters": 1165,
+      "pypdfCharacters": 1165,
+      "match": true
+    },
+    {
+      "page": 61,
+      "pdfplumberCharacters": 1314,
+      "pypdfCharacters": 1314,
+      "match": true
+    },
+    {
+      "page": 62,
+      "pdfplumberCharacters": 1268,
+      "pypdfCharacters": 1268,
+      "match": true
+    },
+    {
+      "page": 63,
+      "pdfplumberCharacters": 659,
+      "pypdfCharacters": 659,
+      "match": true
+    },
+    {
+      "page": 64,
+      "pdfplumberCharacters": 1205,
+      "pypdfCharacters": 1205,
+      "match": true
+    },
+    {
+      "page": 65,
+      "pdfplumberCharacters": 1346,
+      "pypdfCharacters": 1346,
+      "match": true
+    },
+    {
+      "page": 66,
+      "pdfplumberCharacters": 375,
+      "pypdfCharacters": 375,
+      "match": true
+    },
+    {
+      "page": 67,
+      "pdfplumberCharacters": 1064,
+      "pypdfCharacters": 1064,
+      "match": true
+    },
+    {
+      "page": 68,
+      "pdfplumberCharacters": 1207,
+      "pypdfCharacters": 1207,
+      "match": true
+    },
+    {
+      "page": 69,
+      "pdfplumberCharacters": 735,
+      "pypdfCharacters": 735,
+      "match": true
+    },
+    {
+      "page": 70,
+      "pdfplumberCharacters": 1124,
+      "pypdfCharacters": 1124,
+      "match": true
+    },
+    {
+      "page": 71,
+      "pdfplumberCharacters": 1365,
+      "pypdfCharacters": 1365,
+      "match": true
+    },
+    {
+      "page": 72,
+      "pdfplumberCharacters": 1257,
+      "pypdfCharacters": 1257,
+      "match": true
+    },
+    {
+      "page": 73,
+      "pdfplumberCharacters": 668,
+      "pypdfCharacters": 668,
+      "match": true
+    },
+    {
+      "page": 74,
+      "pdfplumberCharacters": 1090,
+      "pypdfCharacters": 1090,
+      "match": true
+    },
+    {
+      "page": 75,
+      "pdfplumberCharacters": 1210,
+      "pypdfCharacters": 1210,
+      "match": true
+    },
+    {
+      "page": 76,
+      "pdfplumberCharacters": 1197,
+      "pypdfCharacters": 1197,
+      "match": true
+    },
+    {
+      "page": 77,
+      "pdfplumberCharacters": 1108,
+      "pypdfCharacters": 1108,
+      "match": true
+    },
+    {
+      "page": 78,
+      "pdfplumberCharacters": 1151,
+      "pypdfCharacters": 1151,
+      "match": true
+    },
+    {
+      "page": 79,
+      "pdfplumberCharacters": 450,
+      "pypdfCharacters": 450,
+      "match": true
+    },
+    {
+      "page": 80,
+      "pdfplumberCharacters": 994,
+      "pypdfCharacters": 994,
+      "match": true
+    },
+    {
+      "page": 81,
+      "pdfplumberCharacters": 1270,
+      "pypdfCharacters": 1270,
+      "match": true
+    },
+    {
+      "page": 82,
+      "pdfplumberCharacters": 1195,
+      "pypdfCharacters": 1195,
+      "match": true
+    },
+    {
+      "page": 83,
+      "pdfplumberCharacters": 1224,
+      "pypdfCharacters": 1224,
+      "match": true
+    },
+    {
+      "page": 84,
+      "pdfplumberCharacters": 1116,
+      "pypdfCharacters": 1116,
+      "match": true
+    },
+    {
+      "page": 85,
+      "pdfplumberCharacters": 1081,
+      "pypdfCharacters": 1081,
+      "match": true
+    },
+    {
+      "page": 86,
+      "pdfplumberCharacters": 324,
+      "pypdfCharacters": 324,
+      "match": true
+    },
+    {
+      "page": 87,
+      "pdfplumberCharacters": 916,
+      "pypdfCharacters": 916,
+      "match": true
+    },
+    {
+      "page": 88,
+      "pdfplumberCharacters": 1080,
+      "pypdfCharacters": 1080,
+      "match": true
+    },
+    {
+      "page": 89,
+      "pdfplumberCharacters": 1037,
+      "pypdfCharacters": 1037,
+      "match": true
+    },
+    {
+      "page": 90,
+      "pdfplumberCharacters": 1044,
+      "pypdfCharacters": 1044,
+      "match": true
+    },
+    {
+      "page": 91,
+      "pdfplumberCharacters": 386,
+      "pypdfCharacters": 386,
+      "match": true
+    },
+    {
+      "page": 92,
+      "pdfplumberCharacters": 1242,
+      "pypdfCharacters": 1242,
+      "match": true
+    },
+    {
+      "page": 93,
+      "pdfplumberCharacters": 1695,
+      "pypdfCharacters": 1695,
+      "match": true
+    },
+    {
+      "page": 94,
+      "pdfplumberCharacters": 1313,
+      "pypdfCharacters": 1313,
+      "match": true
+    },
+    {
+      "page": 95,
+      "pdfplumberCharacters": 1417,
+      "pypdfCharacters": 1417,
+      "match": true
+    },
+    {
+      "page": 96,
+      "pdfplumberCharacters": 1171,
+      "pypdfCharacters": 1171,
+      "match": true
+    },
+    {
+      "page": 97,
+      "pdfplumberCharacters": 1220,
+      "pypdfCharacters": 1220,
+      "match": true
+    },
+    {
+      "page": 98,
+      "pdfplumberCharacters": 1522,
+      "pypdfCharacters": 1522,
+      "match": true
+    },
+    {
+      "page": 99,
+      "pdfplumberCharacters": 1942,
+      "pypdfCharacters": 1942,
+      "match": true
+    },
+    {
+      "page": 100,
+      "pdfplumberCharacters": 644,
+      "pypdfCharacters": 644,
+      "match": true
+    },
+    {
+      "page": 101,
+      "pdfplumberCharacters": 2110,
+      "pypdfCharacters": 2110,
+      "match": true
+    },
+    {
+      "page": 102,
+      "pdfplumberCharacters": 685,
+      "pypdfCharacters": 685,
+      "match": true
+    },
+    {
+      "page": 103,
+      "pdfplumberCharacters": 343,
+      "pypdfCharacters": 343,
+      "match": true
+    },
+    {
+      "page": 104,
+      "pdfplumberCharacters": 457,
+      "pypdfCharacters": 457,
+      "match": true
+    },
+    {
+      "page": 105,
+      "pdfplumberCharacters": 1031,
+      "pypdfCharacters": 1031,
+      "match": true
+    },
+    {
+      "page": 106,
+      "pdfplumberCharacters": 749,
+      "pypdfCharacters": 749,
+      "match": true
+    },
+    {
+      "page": 107,
+      "pdfplumberCharacters": 1294,
+      "pypdfCharacters": 1294,
+      "match": true
+    },
+    {
+      "page": 108,
+      "pdfplumberCharacters": 72,
+      "pypdfCharacters": 72,
+      "match": true
+    },
+    {
+      "page": 109,
+      "pdfplumberCharacters": 1095,
+      "pypdfCharacters": 1095,
+      "match": true
+    },
+    {
+      "page": 110,
+      "pdfplumberCharacters": 1418,
+      "pypdfCharacters": 1418,
+      "match": true
+    },
+    {
+      "page": 111,
+      "pdfplumberCharacters": 1147,
+      "pypdfCharacters": 1147,
+      "match": true
+    },
+    {
+      "page": 112,
+      "pdfplumberCharacters": 1536,
+      "pypdfCharacters": 1536,
+      "match": true
+    },
+    {
+      "page": 113,
+      "pdfplumberCharacters": 2061,
+      "pypdfCharacters": 2061,
+      "match": true
+    },
+    {
+      "page": 114,
+      "pdfplumberCharacters": 91,
+      "pypdfCharacters": 91,
+      "match": true
+    },
+    {
+      "page": 115,
+      "pdfplumberCharacters": 1061,
+      "pypdfCharacters": 1061,
+      "match": true
+    },
+    {
+      "page": 116,
+      "pdfplumberCharacters": 1595,
+      "pypdfCharacters": 1595,
+      "match": true
+    },
+    {
+      "page": 117,
+      "pdfplumberCharacters": 1297,
+      "pypdfCharacters": 1297,
+      "match": true
+    },
+    {
+      "page": 118,
+      "pdfplumberCharacters": 1110,
+      "pypdfCharacters": 1110,
+      "match": true
+    },
+    {
+      "page": 119,
+      "pdfplumberCharacters": 125,
+      "pypdfCharacters": 125,
+      "match": true
+    },
+    {
+      "page": 120,
+      "pdfplumberCharacters": 1793,
+      "pypdfCharacters": 1793,
+      "match": true
+    },
+    {
+      "page": 121,
+      "pdfplumberCharacters": 2276,
+      "pypdfCharacters": 2276,
+      "match": true
+    },
+    {
+      "page": 122,
+      "pdfplumberCharacters": 2272,
+      "pypdfCharacters": 2272,
+      "match": true
+    },
+    {
+      "page": 123,
+      "pdfplumberCharacters": 617,
+      "pypdfCharacters": 617,
+      "match": true
+    },
+    {
+      "page": 124,
+      "pdfplumberCharacters": 100,
+      "pypdfCharacters": 100,
+      "match": true
+    },
+    {
+      "page": 125,
+      "pdfplumberCharacters": 1561,
+      "pypdfCharacters": 1561,
+      "match": true
+    },
+    {
+      "page": 126,
+      "pdfplumberCharacters": 1143,
+      "pypdfCharacters": 1143,
+      "match": true
+    },
+    {
+      "page": 127,
+      "pdfplumberCharacters": 713,
+      "pypdfCharacters": 713,
+      "match": true
+    }
+  ],
+  "limitations": [
+    "Text layer extracted without correcting source wording or quotations.",
+    "Line wrapping and typographic spacing can differ from the PDF.",
+    "Only the cover is image-based; it was visually transcribed.",
+    "Source claims and attributed quotations have not been independently verified."
+  ]
+}

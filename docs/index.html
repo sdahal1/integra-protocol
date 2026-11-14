@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f4f1e8">
+  <meta name="description" content="A personal study and practice companion for Integra Protocol: learn the concepts, follow the questions, and bring your context into a ChatGPT conversation.">
+  <title>Integra Practice · A little room to notice</title>
+  <link rel="icon" href="icon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a href="#main" class="skip-link">Skip to content</a>
+  <header class="site-header">
+    <a href="#learn" class="brand" aria-label="Integra Practice home"><span class="brand-symbol" aria-hidden="true">i</span><span>integra<span class="brand-detail">PRACTICE COMPANION</span></span></a>
+    <nav id="navigation" aria-label="Main navigation"></nav>
+    <span class="local-label"><span></span> Your personal space</span>
+  </header>
+  <main id="main" tabindex="-1"><p class="loading">Opening your practice space…</p></main>
+  <footer><span>A little room to notice. A little freedom to choose.</span><a href="#about">Sources, adaptations & your data ↗</a></footer>
+  <dialog id="source-dialog" aria-labelledby="source-title"><div class="dialog-top"><span>FROM THE SUPPLIED BOOK</span><button class="icon-button" data-action="close-source" aria-label="Close source reader">✕</button></div><div id="source-body" class="dialog-body"></div></dialog>
+  <dialog id="handoff-dialog" aria-labelledby="handoff-title" aria-describedby="handoff-help">
+    <div class="dialog-top"><span>CONTINUE IN CONVERSATION</span><button class="icon-button" data-action="close-handoff" aria-label="Close handoff preview">✕</button></div>
+    <div class="dialog-body">
+      <p class="eyebrow" id="handoff-context"></p><h2 id="handoff-title" tabindex="-1" autofocus>Your ChatGPT handoff</h2>
+      <p id="handoff-help">Review the source context and your notes, then paste into a ChatGPT conversation. You choose when to share.</p>
+      <div class="actions"><button class="button" data-action="copy-handoff">Copy handoff <span aria-hidden="true">↗</span></button><button class="button secondary" data-action="download-handoff">Download .txt</button></div>
+      <p id="handoff-status" class="status" role="status" aria-live="polite"></p>
+      <label class="field" for="handoff-preview"><span>Full context preview</span><span class="hint" id="handoff-size"></span></label>
+      <textarea id="handoff-preview" readonly spellcheck="false" aria-describedby="handoff-size"></textarea>
+      <p class="fine-print">No text is silently shortened. If it is too long to paste, attach the downloaded text file. This app does not send a message or make an AI request.</p>
+    </div>
+  </dialog>
+  <div id="toast" role="status" aria-live="polite"></div>
+  <input type="file" id="import-file" accept="application/json,.json" hidden>
+  <script src="app.js" defer></script>
+</body>
+</html>
