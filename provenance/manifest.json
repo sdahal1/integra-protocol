@@ -1,0 +1,722 @@
+[
+  {
+    "id": "integra-ip-advanced-method-v3",
+    "group": "integra",
+    "path": "/Users/robdahal/Desktop/SelfEducation/04-Energy_work/Vladimir Stojakovic - Integra Protocol Self-Study Seminar/00 Handouts/IP Advanced Method v3.pdf",
+    "name": "IP Advanced Method v3.pdf",
+    "kind": "pdf",
+    "bytes": 40793,
+    "sha256": "9e701d9d700d8d56fa2bf1187bb54df53e6071172f379fa51205aa5fc3c93502",
+    "status": "text_extracted_and_cross_checked"
+  },
+  {
+    "id": "integra-ip-basic-method-v5",
+    "group": "integra",
+    "path": "/Users/robdahal/Desktop/SelfEducation/04-Energy_work/Vladimir Stojakovic - Integra Protocol Self-Study Seminar/00 Handouts/IP Basic Method v5.pdf",
+    "name": "IP Basic Method v5.pdf",
+    "kind": "pdf",
+    "bytes": 78879,
+    "sha256": "e803559d05aebb26420be14f6047ea61d53273671a87db6a2da9ed987987c741",
+    "status": "text_extracted_and_cross_checked"
+  },
+  {
+    "id": "integra-ip-standard-method-v5",
+    "group": "integra",
+    "path": "/Users/robdahal/Desktop/SelfEducation/04-Energy_work/Vladimir Stojakovic - Integra Protocol Self-Study Seminar/00 Handouts/IP Standard Method v5.pdf",
+    "name": "IP Standard Method v5.pdf",
+    "kind": "pdf",
+    "bytes": 81781,
+    "sha256": "ac891ee0c32ca019a0ea8f654a9f4a1917e4f780199578596c152fea20bb8a4f",
+    "status": "text_extracted_and_cross_checked"
+  },
+  {
+    "id": "integra-01",
+    "group": "integra",
+    "path": "/Users/robdahal/Desktop/SelfEducation/04-Energy_work/Vladimir Stojakovic - Integra Protocol Self-Study Seminar/01 about integra protocol digital seminar.mp4",
+    "name": "01 about integra protocol digital seminar.mp4",
+    "kind": "media",
+    "bytes": 34972422,
+    "sha256": "e026997c42ac4c92b27f5024621912d4992aea061098caa98ddd4e03fbfcf286",
+    "duration": 267.96,
+    "streams": [
+      {
+        "codec_name": "aac",
+        "codec_type": "audio"
+      },
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720
+      }
+    ],
+    "status": "transcribed_with_limitations"
+  },
+  {
+    "id": "integra-02",
+    "group": "integra",
+    "path": "/Users/robdahal/Desktop/SelfEducation/04-Energy_work/Vladimir Stojakovic - Integra Protocol Self-Study Seminar/02 what is integra protocol.mp4",
+    "name": "02 what is integra protocol.mp4",
+    "kind": "media",
+    "bytes": 16539237,
+    "sha256": "61c8f7002fbf65138d5d3935db171fc51381d29beec7a960d408ff01827a5b92",
+    "duration": 122.0,
+    "streams": [
+      {
+        "codec_name": "aac",
+        "codec_type": "audio"
+      },
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720
+      }
+    ],
+    "status": "transcribed_with_limitations"
+  },
+  {
+    "id": "integra-03",
+    "group": "integra",
+    "path": "/Users/robdahal/Desktop/SelfEducation/04-Energy_work/Vladimir Stojakovic - Integra Protocol Self-Study Seminar/03 three topics of application.mp4",
+    "name": "03 three topics of application.mp4",
+    "kind": "media",
+    "bytes": 21794686,
+    "sha256": "d37a99b44850b1bf42648db38bfded5f791a67f32d2d3f37a4f583ede7430da4",
+    "duration": 160.0,
+    "streams": [
+      {
+        "codec_name": "aac",
+        "codec_type": "audio"
+      },
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720
+      }
+    ],
+    "status": "transcribed_with_limitations"
+  },
+  {
+    "id": "integra-04",
+    "group": "integra",
+    "path": "/Users/robdahal/Desktop/SelfEducation/04-Energy_work/Vladimir Stojakovic - Integra Protocol Self-Study Seminar/04 four elements of emotional and mental charge.mp4",
+    "name": "04 four elements of emotional and mental charge.mp4",
+    "kind": "media",
+    "bytes": 12441647,
+    "sha256": "af22a5c12e6995e4659c4259fb066b4dbf199147833c24bfb37c35a7ca243767",
+    "duration": 89.0,
+    "streams": [
+      {
+        "codec_name": "aac",
+        "codec_type": "audio"
+      },
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720
+      }
+    ],
+    "status": "transcribed_with_limitations"
+  },
+  {
+    "id": "integra-05",
+    "group": "integra",
+    "path": "/Users/robdahal/Desktop/SelfEducation/04-Energy_work/Vladimir Stojakovic - Integra Protocol Self-Study Seminar/05 identities.mp4",
+    "name": "05 identities.mp4",
+    "kind": "media",
+    "bytes": 37536436,
+    "sha256": "2e649100d7a76540b4d066091e79822957b7432bdcc7157a62a38e3ededb34f5",
+    "duration": 276.0,
+    "streams": [
+      {
+        "codec_name": "aac",
+        "codec_type": "audio"
+      },
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720
+      }
+    ],
+    "status": "transcribed_with_limitations"
+  },
+  {
+    "id": "integra-06",
+    "group": "integra",
+    "path": "/Users/robdahal/Desktop/SelfEducation/04-Energy_work/Vladimir Stojakovic - Integra Protocol Self-Study Seminar/06 progressive integration.mp4",
+    "name": "06 progressive integration.mp4",
+    "kind": "media",
+    "bytes": 21549758,
+    "sha256": "02b1275b02e32f56f70fd82f9df6be7f29a050a586ea36a919fa767cdc987ffa",
+    "duration": 161.0,
+    "streams": [
+      {
+        "codec_name": "aac",
+        "codec_type": "audio"
+      },
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720
+      }
+    ],
+    "status": "transcribed_with_limitations"
+  },
+  {
+    "id": "integra-07",
+    "group": "integra",
+    "path": "/Users/robdahal/Desktop/SelfEducation/04-Energy_work/Vladimir Stojakovic - Integra Protocol Self-Study Seminar/07 ability to assume and release identities.mp4",
+    "name": "07 ability to assume and release identities.mp4",
+    "kind": "media",
+    "bytes": 17293678,
+    "sha256": "bd659ab662b024055149e748ad196984f60b3e73c21ee488a29613e5c38d41d5",
+    "duration": 127.0,
+    "streams": [
+      {
+        "codec_name": "aac",
+        "codec_type": "audio"
+      },
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720
+      }
+    ],
+    "status": "transcribed_with_limitations"
+  },
+  {
+    "id": "integra-08",
+    "group": "integra",
+    "path": "/Users/robdahal/Desktop/SelfEducation/04-Energy_work/Vladimir Stojakovic - Integra Protocol Self-Study Seminar/08 internal conflicts.mp4",
+    "name": "08 internal conflicts.mp4",
+    "kind": "media",
+    "bytes": 94936537,
+    "sha256": "79d9d351f84a192cfc8980a8c20e6bafa460d263970a3532d20b679b9e512ab2",
+    "duration": 697.0,
+    "streams": [
+      {
+        "codec_name": "aac",
+        "codec_type": "audio"
+      },
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720
+      }
+    ],
+    "status": "transcribed_with_limitations"
+  },
+  {
+    "id": "integra-09",
+    "group": "integra",
+    "path": "/Users/robdahal/Desktop/SelfEducation/04-Energy_work/Vladimir Stojakovic - Integra Protocol Self-Study Seminar/09 the difference between identities and content.mp4",
+    "name": "09 the difference between identities and content.mp4",
+    "kind": "media",
+    "bytes": 34415686,
+    "sha256": "9b7b114deb6471e3087262021658c94ad34c33072063f94d898f6ce5c6740ad2",
+    "duration": 239.0,
+    "streams": [
+      {
+        "codec_name": "aac",
+        "codec_type": "audio"
+      },
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720
+      }
+    ],
+    "status": "transcribed_with_limitations"
+  },
+  {
+    "id": "integra-10",
+    "group": "integra",
+    "path": "/Users/robdahal/Desktop/SelfEducation/04-Energy_work/Vladimir Stojakovic - Integra Protocol Self-Study Seminar/10 introductory excercise.mp4",
+    "name": "10 introductory excercise.mp4",
+    "kind": "media",
+    "bytes": 24418759,
+    "sha256": "b3684a078b0cf038af898650ec9ca447369590ad926c2a6f052730db4b5064c1",
+    "duration": 174.0,
+    "streams": [
+      {
+        "codec_name": "aac",
+        "codec_type": "audio"
+      },
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720
+      }
+    ],
+    "status": "transcribed_with_limitations"
+  },
+  {
+    "id": "integra-11",
+    "group": "integra",
+    "path": "/Users/robdahal/Desktop/SelfEducation/04-Energy_work/Vladimir Stojakovic - Integra Protocol Self-Study Seminar/11 three methods intro.mp4",
+    "name": "11 three methods intro.mp4",
+    "kind": "media",
+    "bytes": 26993437,
+    "sha256": "4a91bbed0b40e13264b9a4e26b3f2f67877279f94d454a5d6616d894c75d6d09",
+    "duration": 188.0,
+    "streams": [
+      {
+        "codec_name": "aac",
+        "codec_type": "audio"
+      },
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720
+      }
+    ],
+    "status": "transcribed_with_limitations"
+  },
+  {
+    "id": "integra-12",
+    "group": "integra",
+    "path": "/Users/robdahal/Desktop/SelfEducation/04-Energy_work/Vladimir Stojakovic - Integra Protocol Self-Study Seminar/12 how to define topics.mp4",
+    "name": "12 how to define topics.mp4",
+    "kind": "media",
+    "bytes": 55427217,
+    "sha256": "da1c166f2aa893899c46d3e238879cf59759ab05923c468f35fef7f00ec74f32",
+    "duration": 395.0,
+    "streams": [
+      {
+        "codec_name": "aac",
+        "codec_type": "audio"
+      },
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720
+      }
+    ],
+    "status": "transcribed_with_limitations"
+  },
+  {
+    "id": "integra-13",
+    "group": "integra",
+    "path": "/Users/robdahal/Desktop/SelfEducation/04-Energy_work/Vladimir Stojakovic - Integra Protocol Self-Study Seminar/13 the right way to use the methods.mp4",
+    "name": "13 the right way to use the methods.mp4",
+    "kind": "media",
+    "bytes": 35766116,
+    "sha256": "b9ffa7ef84380fb1f2e3f3b10e6814ad455e44af97465ef3f5dfc90390d2ead6",
+    "duration": 262.0,
+    "streams": [
+      {
+        "codec_name": "aac",
+        "codec_type": "audio"
+      },
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720
+      }
+    ],
+    "status": "transcribed_with_limitations"
+  },
+  {
+    "id": "integra-14",
+    "group": "integra",
+    "path": "/Users/robdahal/Desktop/SelfEducation/04-Energy_work/Vladimir Stojakovic - Integra Protocol Self-Study Seminar/14 basic method session 1.mp4",
+    "name": "14 basic method session 1.mp4",
+    "kind": "media",
+    "bytes": 106490282,
+    "sha256": "dd04d38c7dcdcddb126ea4ee633cea8a4253391fc441344ebef1120dfb3be711",
+    "duration": 710.0,
+    "streams": [
+      {
+        "codec_name": "aac",
+        "codec_type": "audio"
+      },
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720
+      }
+    ],
+    "status": "transcribed_with_limitations"
+  },
+  {
+    "id": "integra-15",
+    "group": "integra",
+    "path": "/Users/robdahal/Desktop/SelfEducation/04-Energy_work/Vladimir Stojakovic - Integra Protocol Self-Study Seminar/15 basic method step by step.mp4",
+    "name": "15 basic method step by step.mp4",
+    "kind": "media",
+    "bytes": 136369019,
+    "sha256": "520662a5870f27a87d71831f7f1e62213f1370159d4182729803a7f27a1f1a59",
+    "duration": 988.0,
+    "streams": [
+      {
+        "codec_name": "aac",
+        "codec_type": "audio"
+      },
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720
+      }
+    ],
+    "status": "transcribed_with_limitations"
+  },
+  {
+    "id": "integra-16",
+    "group": "integra",
+    "path": "/Users/robdahal/Desktop/SelfEducation/04-Energy_work/Vladimir Stojakovic - Integra Protocol Self-Study Seminar/16 basic method session 2.mp4",
+    "name": "16 basic method session 2.mp4",
+    "kind": "media",
+    "bytes": 95671455,
+    "sha256": "43e20271d1039760ed9184e15a829e3dc68da6961ecf1b480d6b2c6bec49691b",
+    "duration": 677.0,
+    "streams": [
+      {
+        "codec_name": "aac",
+        "codec_type": "audio"
+      },
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720
+      }
+    ],
+    "status": "transcribed_with_limitations"
+  },
+  {
+    "id": "integra-17",
+    "group": "integra",
+    "path": "/Users/robdahal/Desktop/SelfEducation/04-Energy_work/Vladimir Stojakovic - Integra Protocol Self-Study Seminar/17 basic method session 3.mp4",
+    "name": "17 basic method session 3.mp4",
+    "kind": "media",
+    "bytes": 77441475,
+    "sha256": "323d669e42f13047b29ae53200ef5411469ddb653e23744cdeb78bcf43fa09be",
+    "duration": 507.0,
+    "streams": [
+      {
+        "codec_name": "aac",
+        "codec_type": "audio"
+      },
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720
+      }
+    ],
+    "status": "transcribed_with_limitations"
+  },
+  {
+    "id": "integra-18",
+    "group": "integra",
+    "path": "/Users/robdahal/Desktop/SelfEducation/04-Energy_work/Vladimir Stojakovic - Integra Protocol Self-Study Seminar/18 do the basic method now.mp4",
+    "name": "18 do the basic method now.mp4",
+    "kind": "media",
+    "bytes": 19099864,
+    "sha256": "e648b3f001db285e8a411cbe13e4819d5de544777220e67b66e76b9d99e45d05",
+    "duration": 138.0,
+    "streams": [
+      {
+        "codec_name": "aac",
+        "codec_type": "audio"
+      },
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720
+      }
+    ],
+    "status": "transcribed_with_limitations"
+  },
+  {
+    "id": "integra-19",
+    "group": "integra",
+    "path": "/Users/robdahal/Desktop/SelfEducation/04-Energy_work/Vladimir Stojakovic - Integra Protocol Self-Study Seminar/19 standard method session 1.mp4",
+    "name": "19 standard method session 1.mp4",
+    "kind": "media",
+    "bytes": 151918235,
+    "sha256": "0bab95c80a6d1b3293f4fa2c5c8420336d1cdd8e057cb7e077827c89fba3fd09",
+    "duration": 1010.0,
+    "streams": [
+      {
+        "codec_name": "aac",
+        "codec_type": "audio"
+      },
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720
+      }
+    ],
+    "status": "transcribed_with_limitations"
+  },
+  {
+    "id": "integra-20",
+    "group": "integra",
+    "path": "/Users/robdahal/Desktop/SelfEducation/04-Energy_work/Vladimir Stojakovic - Integra Protocol Self-Study Seminar/20 standard method step by step.mp4",
+    "name": "20 standard method step by step.mp4",
+    "kind": "media",
+    "bytes": 153886006,
+    "sha256": "709f7819ed277ac07358116dedf77a7c006373ec682bf600678c35ff4276460b",
+    "duration": 1133.0,
+    "streams": [
+      {
+        "codec_name": "aac",
+        "codec_type": "audio"
+      },
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720
+      }
+    ],
+    "status": "transcribed_with_limitations"
+  },
+  {
+    "id": "integra-21",
+    "group": "integra",
+    "path": "/Users/robdahal/Desktop/SelfEducation/04-Energy_work/Vladimir Stojakovic - Integra Protocol Self-Study Seminar/21 standard method session 2.mp4",
+    "name": "21 standard method session 2.mp4",
+    "kind": "media",
+    "bytes": 131215790,
+    "sha256": "14eb171331c72b546ba2f590b851c29d850c18b08d70eee55b210a799ccc3a1e",
+    "duration": 834.0,
+    "streams": [
+      {
+        "codec_name": "aac",
+        "codec_type": "audio"
+      },
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720
+      }
+    ],
+    "status": "transcribed_with_limitations"
+  },
+  {
+    "id": "integra-22",
+    "group": "integra",
+    "path": "/Users/robdahal/Desktop/SelfEducation/04-Energy_work/Vladimir Stojakovic - Integra Protocol Self-Study Seminar/22 standard method session 3.mp4",
+    "name": "22 standard method session 3.mp4",
+    "kind": "media",
+    "bytes": 117766251,
+    "sha256": "1b20e2964220a68cf5102a61a738db39c586d841541d357046057dbe7eaae757",
+    "duration": 736.0,
+    "streams": [
+      {
+        "codec_name": "aac",
+        "codec_type": "audio"
+      },
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720
+      }
+    ],
+    "status": "transcribed_with_limitations"
+  },
+  {
+    "id": "integra-23",
+    "group": "integra",
+    "path": "/Users/robdahal/Desktop/SelfEducation/04-Energy_work/Vladimir Stojakovic - Integra Protocol Self-Study Seminar/23 do the standard method now.mp4",
+    "name": "23 do the standard method now.mp4",
+    "kind": "media",
+    "bytes": 18437451,
+    "sha256": "c1857c4615ef5c1fbdd540f7aabcff56c54727bb4bd3d761cd0dd664de49e716",
+    "duration": 136.0,
+    "streams": [
+      {
+        "codec_name": "aac",
+        "codec_type": "audio"
+      },
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720
+      }
+    ],
+    "status": "transcribed_with_limitations"
+  },
+  {
+    "id": "integra-24",
+    "group": "integra",
+    "path": "/Users/robdahal/Desktop/SelfEducation/04-Energy_work/Vladimir Stojakovic - Integra Protocol Self-Study Seminar/24 advanced method session 1.mp4",
+    "name": "24 advanced method session 1.mp4",
+    "kind": "media",
+    "bytes": 91087508,
+    "sha256": "0ccde3ee2166703e1492f2a0387d841c9468d5bd08b90ec0907e2571881b0780",
+    "duration": 623.0,
+    "streams": [
+      {
+        "codec_name": "aac",
+        "codec_type": "audio"
+      },
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720
+      }
+    ],
+    "status": "transcribed_with_limitations"
+  },
+  {
+    "id": "integra-25",
+    "group": "integra",
+    "path": "/Users/robdahal/Desktop/SelfEducation/04-Energy_work/Vladimir Stojakovic - Integra Protocol Self-Study Seminar/25 advanced method step by step.mp4",
+    "name": "25 advanced method step by step.mp4",
+    "kind": "media",
+    "bytes": 144435109,
+    "sha256": "5a6b117fda9088868228c1204c1af16fba1cf02650e0ca48855a5bdf71f60be4",
+    "duration": 1061.08,
+    "streams": [
+      {
+        "codec_name": "aac",
+        "codec_type": "audio"
+      },
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720
+      }
+    ],
+    "status": "transcribed_with_limitations"
+  },
+  {
+    "id": "integra-26",
+    "group": "integra",
+    "path": "/Users/robdahal/Desktop/SelfEducation/04-Energy_work/Vladimir Stojakovic - Integra Protocol Self-Study Seminar/26 advanced method session 2.mp4",
+    "name": "26 advanced method session 2.mp4",
+    "kind": "media",
+    "bytes": 65655295,
+    "sha256": "c861ffe84fb6dafff02a8c50bace455db8ea4ae034499d604d2262573c943551",
+    "duration": 439.0,
+    "streams": [
+      {
+        "codec_name": "aac",
+        "codec_type": "audio"
+      },
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720
+      }
+    ],
+    "status": "transcribed_with_limitations"
+  },
+  {
+    "id": "integra-27",
+    "group": "integra",
+    "path": "/Users/robdahal/Desktop/SelfEducation/04-Energy_work/Vladimir Stojakovic - Integra Protocol Self-Study Seminar/27 advanced method exceptions.mp4",
+    "name": "27 advanced method exceptions.mp4",
+    "kind": "media",
+    "bytes": 53702781,
+    "sha256": "396e73d2d82972750f6ab4291beb8bb0da8fdf8a83ccf0afb62cd98bb86191a4",
+    "duration": 364.0,
+    "streams": [
+      {
+        "codec_name": "aac",
+        "codec_type": "audio"
+      },
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720
+      }
+    ],
+    "status": "transcribed_with_limitations"
+  },
+  {
+    "id": "integra-28",
+    "group": "integra",
+    "path": "/Users/robdahal/Desktop/SelfEducation/04-Energy_work/Vladimir Stojakovic - Integra Protocol Self-Study Seminar/28 advanced method session 3.mp4",
+    "name": "28 advanced method session 3.mp4",
+    "kind": "media",
+    "bytes": 65793542,
+    "sha256": "36443b03284076df443d71c08e6ff09e9ab54152845f7dd8c278f5201f670e02",
+    "duration": 468.0,
+    "streams": [
+      {
+        "codec_name": "aac",
+        "codec_type": "audio"
+      },
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720
+      }
+    ],
+    "status": "transcribed_with_limitations"
+  },
+  {
+    "id": "integra-29",
+    "group": "integra",
+    "path": "/Users/robdahal/Desktop/SelfEducation/04-Energy_work/Vladimir Stojakovic - Integra Protocol Self-Study Seminar/29 do the advanced method now.mp4",
+    "name": "29 do the advanced method now.mp4",
+    "kind": "media",
+    "bytes": 18044285,
+    "sha256": "70f27b42089e8c75875cb0c1c4ac1657d9591472ba4ba5dcca28ec26da4a853b",
+    "duration": 130.0,
+    "streams": [
+      {
+        "codec_name": "aac",
+        "codec_type": "audio"
+      },
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720
+      }
+    ],
+    "status": "transcribed_with_limitations"
+  },
+  {
+    "id": "integra-30",
+    "group": "integra",
+    "path": "/Users/robdahal/Desktop/SelfEducation/04-Energy_work/Vladimir Stojakovic - Integra Protocol Self-Study Seminar/30 conclusion and benefits.mp4",
+    "name": "30 conclusion and benefits.mp4",
+    "kind": "media",
+    "bytes": 62424917,
+    "sha256": "d7f31aefb8194c950f5a7f9c087e99a4ac4360900ad0c39632a8db9785eaf5c2",
+    "duration": 475.52,
+    "streams": [
+      {
+        "codec_name": "aac",
+        "codec_type": "audio"
+      },
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720
+      }
+    ],
+    "status": "transcribed_with_limitations"
+  }
+]

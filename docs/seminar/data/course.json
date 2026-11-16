@@ -1,0 +1,1427 @@
+{
+  "id": "integra-seminar-v1",
+  "group": "integra",
+  "title": "Integra Protocol · Seminar companion",
+  "brand": "integra / seminar",
+  "kicker": "THE SELF-STUDY SEMINAR",
+  "headline": "A clearer path through the practice.",
+  "intro": "Learn the three methods in sequence. Recognize what is here, follow one question at a time, and take your own observations into conversation.",
+  "qualities": [
+    "Notice",
+    "Feel",
+    "Verbalize"
+  ],
+  "center": "one thing\nat a time",
+  "orientation": "The seminar expands and revises the earlier book. Study Basic, then Standard, then Advanced. The author recommends at least three Basic and three Standard applications before moving on; this is guidance, not a progress test.",
+  "backLink": "../index.html#learn",
+  "practiceIntro": "Start with the positive-experience exercise, then learn Basic before Standard and Advanced. These are self-paced prompts. You may pause, end, or stay with an earlier method.",
+  "accuracy": "Full-recording automatic transcripts with original-time timestamps, a second-pass review of selected passages and quiet dialogue, and source-specific review notes. They have not been fully checked by listening to every word. Names, quiet responses, foreign phrases, punctuation and segment boundaries may still be wrong. Long meditation pauses are not missing pages.",
+  "about": "All 30 supplied seminar videos, all three versioned method handouts, extracted on-screen text, a book-versus-seminar comparison, and source-linked practice activities are included. The earlier book companion is still available through the link in the sidebar.",
+  "adaptation": "The seminar’s sequence and method versions are preserved. Basic and Standard record the topic and named identities; Advanced records the initial topic only in the source. Other typed responses and ChatGPT conversation are optional app adaptations. The source sometimes urges persistence through intense difficulty and insists on an identity label; this companion allows stopping and does not press for a label or an altered state.",
+  "coaching": "Use the seminar method selected in this session, not a hybrid with the older book. The seminar says its instructions take precedence where they differ. Basic and Standard repeat the marked questions until the person reports nothing else; never interpret that as a demand to produce a desired answer. Basic keeps one identity A. Standard adds the desired identity B and checks whether A and B can still be felt separately. Advanced cycles content → identity → goal → new content. In Advanced, the seminar’s no-goal exception for an ordinary identity asks what comes up now; do not insert the book’s intention/message ladder. Distinguish the author’s end criterion from distress or dissociation; never manufacture an endpoint. Keep answers brief, one item at a time, in my exact words. At the end return to the original topic; a change in feeling does not by itself change external circumstances.",
+  "modules": [
+    {
+      "id": "orientation",
+      "title": "Three methods, one progression",
+      "subtitle": "Understand how this seminar extends the original book.",
+      "sources": [
+        "integra-01",
+        "integra-02",
+        "integra-03",
+        "integra-11"
+      ],
+      "concepts": [
+        {
+          "title": "A later version of the system",
+          "body": "Video 01 explains that the earlier book described only the method now called Advanced. The seminar adds Basic and Standard and tells the learner to follow the seminar when the two sources differ."
+        },
+        {
+          "title": "Three kinds of topic",
+          "body": "The seminar works with an experience, a recurring problem, or a goal. A belief is treated as a problem to which you have a present reaction. These categories organize the work; they do not establish that every difficulty has the same cause."
+        },
+        {
+          "title": "Why begin with Basic",
+          "body": "Basic holds one identity as a stable reference. Standard explores two sides of a conflict. Advanced follows changing content and identities. The author describes a gradual learning progression, not a contest to reach the hardest method."
+        },
+        {
+          "title": "Claims and observations",
+          "body": "The author describes emotional, therapeutic and spiritual benefits. Treat those as his framework. Your useful observations are more concrete: what you felt, which question you used, and what practical action remains."
+        }
+      ],
+      "cheat": [
+        "Book = earlier single procedure, now called Advanced.",
+        "Seminar = Basic + Standard + revised Advanced guidance.",
+        "Study and practice in the supplied order.",
+        "A reported benefit is not a guaranteed result."
+      ],
+      "activity": "Choose one manageable experience, recurring problem and goal. For each, write the situation separately from the feeling it brings up now.",
+      "quiz": {
+        "question": "What is genuinely new in the seminar?",
+        "options": [
+          "The idea that reactions can be noticed",
+          "The separate Basic and Standard procedures",
+          "The need to use your own words"
+        ],
+        "answer": 1,
+        "explanation": "The book already contains the underlying concepts. The distinct Basic and Standard procedures are additions."
+      },
+      "diagram": [
+        [
+          "Basic",
+          "one stable identity"
+        ],
+        [
+          "Standard",
+          "two sides"
+        ],
+        [
+          "Advanced",
+          "a changing chain"
+        ]
+      ],
+      "practice": null,
+      "stories": [],
+      "tag": "Start here"
+    },
+    {
+      "id": "content",
+      "title": "Four elements; a different point of view",
+      "subtitle": "Separate what you notice from the perspective you notice it through.",
+      "sources": [
+        "integra-04",
+        "integra-05",
+        "integra-09"
+      ],
+      "concepts": [
+        {
+          "title": "Four elements of content",
+          "body": "The source groups inner content as images, thoughts, emotions and body sensations. This is the method’s working map: a remembered scene, a sentence, sadness, or tightness can each be noticed as content."
+        },
+        {
+          "title": "Content versus identity",
+          "body": "The distinction is experiential: “I feel sadness” differs from “I am a sad person.” The question “Do I feel this, or am I identified with it?” helps distinguish the object of attention from the felt point of view."
+        },
+        {
+          "title": "Point of view plus goal",
+          "body": "In the seminar’s model, an identity has a perspective and something it is trying to accomplish. Notice the aim from that perspective; do not infer it from a stereotype or choose a more admirable goal."
+        },
+        {
+          "title": "Labels are provisional",
+          "body": "Names such as “guarded person” are descriptions of a present perspective in an exercise, not diagnoses or permanent definitions of you. The source explicitly says integration need not remove the ability to use a role."
+        }
+      ],
+      "cheat": [
+        "Image · thought · emotion · body sensation.",
+        "Feel the content, then notice yourself in relation to it.",
+        "An identity is not a fifth content category.",
+        "A label is a description, not your whole self."
+      ],
+      "activity": "Use a mild positive memory. Identify one emotion, then shift attention to the version of yourself experiencing it. Notice the difference without forcing words.",
+      "quiz": {
+        "question": "If you notice an image instead of an identity, what is the next useful move?",
+        "options": [
+          "Invent a person-label from the image",
+          "Notice the image, then gently return attention to the felt perspective",
+          "Treat the image as proof of a memory"
+        ],
+        "answer": 1,
+        "explanation": "The source redirects from content to the current point of view. It does not ask the guide to invent an identity."
+      },
+      "diagram": [
+        [
+          "Content",
+          "what is noticed"
+        ],
+        [
+          "Perspective",
+          "who I feel I am"
+        ],
+        [
+          "Goal",
+          "what that perspective wants"
+        ]
+      ],
+      "practice": "intro",
+      "stories": [],
+      "tag": "Learn & notice"
+    },
+    {
+      "id": "integration",
+      "title": "Notice, feel, verbalize",
+      "subtitle": "The meaning of “progressive” integration in this source.",
+      "sources": [
+        "integra-06",
+        "integra-07"
+      ],
+      "concepts": [
+        {
+          "title": "Attention comes first",
+          "body": "The seminar describes moving attention toward an already present response, feeling it, and then finding words. It contrasts this with explaining what ought to be happening."
+        },
+        {
+          "title": "One layer at a time",
+          "body": "The onion or cabbage image illustrates why a first answer may not be the whole experience. A new feeling can arise after another is acknowledged. This is a metaphor for the method, not proof of a hidden structure."
+        },
+        {
+          "title": "Useful roles remain available",
+          "body": "The source distinguishes being stuck in a perspective from freely using it. A driver, parent or colleague can move between roles as situations change."
+        },
+        {
+          "title": "Verbalization is not analysis",
+          "body": "The instruction is to notice and name what is actually present. You need not create a causal story or reconstruct a past event to justify it."
+        }
+      ],
+      "cheat": [
+        "Direct attention → feel → put into words.",
+        "New content can arise; observe it rather than predict it.",
+        "Flexibility is different from erasing a role.",
+        "A short honest answer is enough."
+      ],
+      "activity": "Notice three ordinary roles you move through today. What changes in attention or intention as you move from one to another?",
+      "quiz": {
+        "question": "What does the seminar mean by releasing a stuck identity?",
+        "options": [
+          "Losing the ability to use that role",
+          "Having more freedom to assume or leave it",
+          "Forgetting the event that created it"
+        ],
+        "answer": 1,
+        "explanation": "Video 07 distinguishes compulsive identification from the ability to use a role when needed."
+      },
+      "diagram": [
+        [
+          "Notice",
+          "direct attention"
+        ],
+        [
+          "Feel",
+          "contact what is there"
+        ],
+        [
+          "Name",
+          "use your own words"
+        ]
+      ],
+      "practice": null,
+      "stories": [
+        {
+          "title": "The doctor who becomes a driver",
+          "body": "The author retells an example attributed to Slavinski: a doctor becomes a driver on the way home, then a husband, father and son in different interactions. The point is the ordinary flexibility of roles, not the elimination of roles.",
+          "sources": [
+            "integra-07"
+          ]
+        },
+        {
+          "title": "Peeling an onion",
+          "body": "The source compares a layered problem to an onion or cabbage. One layer may reveal another. Do not use the metaphor as a requirement that there must always be more to find.",
+          "sources": [
+            "integra-06"
+          ]
+        }
+      ],
+      "tag": "Learn & notice"
+    },
+    {
+      "id": "conflict",
+      "title": "Two sides of an internal conflict",
+      "subtitle": "A source model for oscillation between competing aims.",
+      "sources": [
+        "integra-08"
+      ],
+      "concepts": [
+        {
+          "title": "The decision-of-defeat story",
+          "body": "Video 08 describes a failed goal, confusion, a protective conclusion, and a new identity that enforces it. This is the author’s explanatory model; it is not a reason to invent a past cause."
+        },
+        {
+          "title": "Two aims can matter at once",
+          "body": "In the relationship example, wanting love and wanting to avoid hurt pull in different directions. Supporting one side may leave the other dissatisfied."
+        },
+        {
+          "title": "From one pair to several layers",
+          "body": "The tennis-match-to-football-match analogy illustrates a single pair becoming groups of related identities over repeated reversals. Advanced is presented as a way to follow those changing layers."
+        },
+        {
+          "title": "Freedom includes action",
+          "body": "The intended result is more flexibility around both sides. Any actual relationship decision still needs attention to circumstances, preferences and boundaries."
+        }
+      ],
+      "cheat": [
+        "A conflict can contain two personally important aims.",
+        "Do not label one side as the enemy.",
+        "The source model is not a historical diagnosis.",
+        "Feeling differently does not decide what you should do."
+      ],
+      "activity": "Write a neutral description of two things you want that feel in tension. Keep this as a study map, not a claim that you have found the cause of the problem.",
+      "quiz": {
+        "question": "In the seminar’s model, what happens when one side of a conflict dominates?",
+        "options": [
+          "The other side necessarily disappears",
+          "The other side may remain active or dissatisfied",
+          "The dominant side is always correct"
+        ],
+        "answer": 1,
+        "explanation": "The relationship example describes oscillation because both aims still matter."
+      },
+      "diagram": [
+        [
+          "Goal frustrated",
+          "a protective conclusion"
+        ],
+        [
+          "Opposing roles",
+          "two aims in tension"
+        ],
+        [
+          "More flexibility",
+          "practical choices remain"
+        ]
+      ],
+      "practice": null,
+      "stories": [
+        {
+          "title": "Love and protection",
+          "body": "After a breakup, a hypothetical man shifts from an open perspective seeking love to a closed perspective seeking protection. Neither goal disappears. The story illustrates the model; it does not prescribe staying in or leaving a relationship.",
+          "sources": [
+            "integra-08"
+          ]
+        }
+      ],
+      "tag": "Learn & notice"
+    },
+    {
+      "id": "intro",
+      "title": "A positive experience as a rehearsal",
+      "subtitle": "Learn the attention shift before using a problem.",
+      "sources": [
+        "integra-09",
+        "integra-10"
+      ],
+      "concepts": [
+        {
+          "title": "Begin with something positive",
+          "body": "The introductory exercise asks you to recall a positive experience and notice its felt emotional quality. It is a rehearsal for recognizing content, identity and aim."
+        },
+        {
+          "title": "Shift attention deliberately",
+          "body": "Move from the emotion to yourself, back to the emotion, then to the felt perspective again. The difference may be subtle; there is no correct sensation to manufacture."
+        },
+        {
+          "title": "Notice rather than conclude",
+          "body": "From that perspective, notice what you want to accomplish. A plausible answer is not necessarily an observed answer. An unnamed felt sense can remain unnamed."
+        },
+        {
+          "title": "Repeat with three experiences",
+          "body": "Video 10 asks for at least three positive experiences. The app lets you start a separate entry for each, so the context stays distinct."
+        }
+      ],
+      "cheat": [
+        "Positive memory → emotion.",
+        "Emotion → self → emotion → self.",
+        "Notice the perspective and its aim.",
+        "Repeat with three different positive experiences."
+      ],
+      "activity": "Open the rehearsal and try one positive memory. Finish with a brief observation, then start again with another memory when you want.",
+      "quiz": {
+        "question": "What should supply the identity and goal?",
+        "options": [
+          "A deduction by the assistant",
+          "Your current felt experience",
+          "A label borrowed from a demonstration"
+        ],
+        "answer": 1,
+        "explanation": "The introductory exercise explicitly asks you to feel rather than conclude."
+      },
+      "diagram": [
+        [
+          "Remember",
+          "one positive experience"
+        ],
+        [
+          "Shift",
+          "emotion ↔ perspective"
+        ],
+        [
+          "Notice",
+          "the perspective’s aim"
+        ]
+      ],
+      "practice": "intro",
+      "stories": [],
+      "tag": "Learn & notice"
+    },
+    {
+      "id": "topic",
+      "title": "Define a topic you can return to",
+      "subtitle": "“I feel this about that,” in the present.",
+      "sources": [
+        "integra-12",
+        "integra-13"
+      ],
+      "concepts": [
+        {
+          "title": "Keep the two parts",
+          "body": "A topic includes a present reaction and a situation: for example, feeling worried when thinking about current finances. Record the situation so the result check refers to the same thing."
+        },
+        {
+          "title": "What you feel now",
+          "body": "The seminar asks how you feel about a remembered event now. Reporting how you felt years ago is a different task. Goals and beliefs are approached through the current response to thinking about them."
+        },
+        {
+          "title": "The seminar narrows the starting response",
+          "body": "Video 12 specifies a present negative emotion for the initial topic. The earlier book permits a broader range of initial content. In this seminar path, do not invent an emotion if none is present; choose another manageable topic or stop."
+        },
+        {
+          "title": "Short, one item at a time",
+          "body": "Video 13 asks for brief statements, generally up to one sentence. You may verbalize inwardly when working alone. The guide should not replace your wording with a supposedly better interpretation."
+        }
+      ],
+      "cheat": [
+        "Situation + present emotion = topic definition.",
+        "Now, not “usually” or “back then.”",
+        "One response per question.",
+        "The exercise changes your relationship to a situation, not the situation itself."
+      ],
+      "activity": "Write a situation in one line. Ask how you feel about it now. Put those two pieces together without explaining or solving it yet.",
+      "quiz": {
+        "question": "Which topic follows the seminar’s format?",
+        "options": [
+          "My work is complicated",
+          "I feel worried when I think about tomorrow’s meeting",
+          "I should be more confident"
+        ],
+        "answer": 1,
+        "explanation": "It gives both a present emotion and the situation that evokes it."
+      },
+      "diagram": [
+        [
+          "Situation",
+          "what this is about"
+        ],
+        [
+          "Emotion",
+          "how I feel now"
+        ],
+        [
+          "Result check",
+          "return to that situation"
+        ]
+      ],
+      "practice": "basic",
+      "stories": [],
+      "tag": "Learn & notice"
+    },
+    {
+      "id": "basic",
+      "title": "Basic: one stable identity",
+      "subtitle": "Eight questions, with repeated noticing before you move on.",
+      "sources": [
+        "integra-ip-basic-method-v5",
+        "integra-14",
+        "integra-15",
+        "integra-16",
+        "integra-17",
+        "integra-18"
+      ],
+      "concepts": [
+        {
+          "title": "Questions 1–3: define and explore",
+          "body": "Record the topic and emotion X. Ask what is bad about feeling X, then what is good about it. Each marked question repeats until no further item is noticed; a repeated item can still be reported."
+        },
+        {
+          "title": "Questions 4–6: keep person A stable",
+          "body": "Shift from X to the identity, record its name, and use that same perspective for needs/intentions/goals and beliefs/conclusions/decisions. These are things already noticed, not a new life-goal list or a decision you are being asked to make."
+        },
+        {
+          "title": "Questions 7–8: consider the identity vanishing",
+          "body": "The source asks whether something bad, then good, could happen if person A vanished. This is a question about the perspective’s function; it is not a demand to erase part of yourself."
+        },
+        {
+          "title": "Check the original topic",
+          "body": "After question 8, return to the same situation. The source describes no reaction, a remaining reaction, or a different reaction. Record what is actually there, and choose whether to rest or do another application."
+        }
+      ],
+      "cheat": [
+        "Q1 topic → Q2 bad about X → Q3 good about X.",
+        "Q4 name A → Q5 aims of A → Q6 beliefs of A.",
+        "Q7 bad if A vanished → Q8 good if A vanished.",
+        "Repeat marked questions until nothing else; return to the original topic.",
+        "Source notes: topic and A only. Extra typed notes are optional."
+      ],
+      "activity": "Read one full Basic demonstration, then use the handout-guided practice on a manageable topic. The source recommends three applications before Standard.",
+      "quiz": {
+        "question": "During repeated goal questions in Basic, which reference stays stable?",
+        "options": [
+          "Whichever new identity you can invent",
+          "The already named person A",
+          "The desired opposite identity B"
+        ],
+        "answer": 1,
+        "explanation": "Basic holds person A while asking its goals and beliefs. It does not use Advanced’s changing chain."
+      },
+      "diagram": [
+        [
+          "Content X",
+          "bad / good"
+        ],
+        [
+          "Identity A",
+          "aims / beliefs"
+        ],
+        [
+          "Result",
+          "vanishing questions → retest"
+        ]
+      ],
+      "practice": "basic",
+      "stories": [
+        {
+          "title": "Pressure to earn enough to move",
+          "body": "Session 1 follows feeling pressured into “desperate person.” The participant explores urgency, resources and perfection, then reports more openness at the result check. This is one reported session outcome.",
+          "sources": [
+            "integra-14"
+          ]
+        },
+        {
+          "title": "A friend moves away",
+          "body": "Session 2 begins with disappointment and a “sad person” perspective. The participant notices hopes of repair, attention and help, then reports optimism. Quiet portions of this recording need caution; see its transcript notes.",
+          "sources": [
+            "integra-16"
+          ]
+        },
+        {
+          "title": "Worry about finances",
+          "body": "Session 3 uses “frantic person.” The participant notices getting things done, staying on top of things and concern about becoming too relaxed. The final response is acceptance; the financial tasks still remain.",
+          "sources": [
+            "integra-17"
+          ]
+        }
+      ],
+      "tag": "Method 1"
+    },
+    {
+      "id": "standard",
+      "title": "Standard: work with both sides",
+      "subtitle": "Add person B and check the relationship between the two perspectives.",
+      "sources": [
+        "integra-ip-standard-method-v5",
+        "integra-19",
+        "integra-20",
+        "integra-21",
+        "integra-22",
+        "integra-23"
+      ],
+      "concepts": [
+        {
+          "title": "Begin as Basic does",
+          "body": "Questions 1–6 are the same as Basic. The first change is question 7: instead of A, what kind of person would you like to be? Record this as B, then explore B’s aims and beliefs."
+        },
+        {
+          "title": "Feel, or be aware of, both",
+          "body": "At question 10, feel A and B together and inhale/exhale. Video 20 says awareness of both is sufficient when simultaneous feeling is difficult. The instruction is not to force them together."
+        },
+        {
+          "title": "The felt-separation check",
+          "body": "Questions 11 and 15 ask whether you can feel them separately, not whether you can visualize them separately. The author describes merging and vanishing as two possible subjective endpoints. Uncertainty is a reason to pause or review, not to guess."
+        },
+        {
+          "title": "The branch and return",
+          "body": "If they remain separate after the first check, ask bad/good about merging, then repeat the simultaneous awareness and check. If they still feel separate, question 16 checks or renames A and returns to question 5. This return is important: it is not a restart at question 1."
+        },
+        {
+          "title": "Stay with a workable method",
+          "body": "The seminar says some people do not find Standard’s endpoint and may continue with Basic. This app does not require an endpoint to let you end a session."
+        }
+      ],
+      "cheat": [
+        "Q1–6 same as Basic.",
+        "Q7 B → Q8 B’s aims → Q9 B’s beliefs.",
+        "Q10 both → Q11 separately? No: retest.",
+        "Yes: Q12–13 merging questions → Q14 both → Q15 check.",
+        "Still separate: Q16 check/rename A → return to Q5."
+      ],
+      "activity": "Use the flow diagram and handout to trace both possible routes after questions 11 and 15. Then practice only when the Basic sequence is familiar.",
+      "quiz": {
+        "question": "After question 16, where does the Standard handout send you?",
+        "options": [
+          "Question 1",
+          "Question 5",
+          "Immediately to the result check"
+        ],
+        "answer": 1,
+        "explanation": "Question 16 returns to question 5, whether A retains its name or receives a new one."
+      },
+      "diagram": [
+        [
+          "A",
+          "aims + beliefs"
+        ],
+        [
+          "B",
+          "aims + beliefs"
+        ],
+        [
+          "Together",
+          "feel / breathe / check"
+        ],
+        [
+          "If still separate",
+          "merge questions; Q16 → Q5"
+        ]
+      ],
+      "practice": "standard",
+      "stories": [
+        {
+          "title": "Moving to a new city",
+          "body": "Session 1 contrasts a “small person” and a “confident person.” They remain partly separate after the first check, so the guide uses the merging questions before checking again.",
+          "sources": [
+            "integra-19"
+          ]
+        },
+        {
+          "title": "Too many projects",
+          "body": "Session 2 contrasts a person who wants to succeed with a person who is calm. The participant later names calmness and organizing work as relevant next steps.",
+          "sources": [
+            "integra-21"
+          ]
+        },
+        {
+          "title": "An intimidating presence",
+          "body": "Session 3 begins with frustration at others’ description of the participant. It contrasts “disconnected person” with “open person” and illustrates a result check after the first simultaneous-awareness sequence.",
+          "sources": [
+            "integra-22"
+          ]
+        }
+      ],
+      "tag": "Method 2"
+    },
+    {
+      "id": "advanced",
+      "title": "Advanced: follow the changing chain",
+      "subtitle": "Content → identity → goal → what comes up next.",
+      "sources": [
+        "integra-ip-advanced-method-v3",
+        "integra-24",
+        "integra-25",
+        "integra-26",
+        "integra-28",
+        "integra-29"
+      ],
+      "concepts": [
+        {
+          "title": "Each response supplies the next reference",
+          "body": "After the original topic, feel the content and notice the identity. From that perspective notice its goal. Feel the goal and notice the next content. Unlike Basic and Standard, the references change from cycle to cycle."
+        },
+        {
+          "title": "Preserve the whole phrase",
+          "body": "Video 25 distinguishes feeling “to have success” from feeling “success.” One is an aim; the other may imply attainment. Reuse the participant’s exact words, even if the wording is awkward."
+        },
+        {
+          "title": "Identities and identifications",
+          "body": "The source distinguishes personality roles from broader identifications such as “presence” or “me.” These are terms within the spiritual model. Do not use them as a hierarchy to pursue or a label for distress."
+        },
+        {
+          "title": "End criteria require care",
+          "body": "The author describes no further identities or identifications as the endpoint. A broad term with a goal is not automatically the end; a broad term without a goal may be. An ordinary identity with no noticed goal is handled differently. The app always allows reflection or stopping without certifying an endpoint."
+        },
+        {
+          "title": "Retest; do not chase an experience",
+          "body": "Return to the original topic and ask whether anything else is present. A pleasant or unusual experience is not proof of lasting change, and the concluding video cautions against trying to reproduce a special experience."
+        }
+      ],
+      "cheat": [
+        "Feel content → notice identity → notice goal → feel goal.",
+        "Keep the person’s exact wording.",
+        "No-goal handling depends on context; see Exceptions.",
+        "Only the original topic is written in the source’s Advanced method.",
+        "No particular state is required to pause or end."
+      ],
+      "activity": "Read an Advanced demonstration and mark where the reference changes. Use the practice only after becoming familiar with Basic and Standard.",
+      "quiz": {
+        "question": "Why preserve “to have success” rather than change it to “success”?",
+        "options": [
+          "The exact aim can evoke a different response from its imagined achievement",
+          "Grammar must always be perfect",
+          "Every goal should be positive"
+        ],
+        "answer": 0,
+        "explanation": "Video 25 explicitly warns against changing the participant’s phrase."
+      },
+      "diagram": [
+        [
+          "Content",
+          "notice what appears"
+        ],
+        [
+          "Identity",
+          "current point of view"
+        ],
+        [
+          "Goal",
+          "its aim, verbatim"
+        ],
+        [
+          "New content",
+          "feel the aim; repeat"
+        ]
+      ],
+      "practice": "advanced",
+      "stories": [
+        {
+          "title": "Loneliness and protection",
+          "body": "Session 1 moves through guarding, pressure, hurt and protecting, before a wish to connect becomes prominent. It illustrates how the chain changes; its identities are not a list to copy into your own practice.",
+          "sources": [
+            "integra-24"
+          ]
+        },
+        {
+          "title": "Starting a group",
+          "body": "Session 2 begins with insecurity about facilitating a men’s group and follows several changing perspectives. The final check returns to that concrete goal.",
+          "sources": [
+            "integra-26"
+          ]
+        },
+        {
+          "title": "Anger with a father",
+          "body": "Session 3 follows anger through wanting to be heard, accepted and free of pain. The participant later reports distance from the original anger. This does not establish that the relationship itself changed.",
+          "sources": [
+            "integra-28"
+          ]
+        }
+      ],
+      "tag": "Method 3"
+    },
+    {
+      "id": "exceptions",
+      "title": "When an answer does not fit neatly",
+      "subtitle": "Use the seminar’s exception rules without inventing an answer.",
+      "sources": [
+        "integra-25",
+        "integra-27"
+      ],
+      "concepts": [
+        {
+          "title": "Two identities versus two contents",
+          "body": "For two identities, the source selects one and continues. For two opposite contents, such as freedom and stuckness, it allows both together before asking for the identity. Those are different cases."
+        },
+        {
+          "title": "Content instead of identity",
+          "body": "Receive the content and return attention to the current perspective. The recording eventually says to insist on an identity after repeated mismatches. This companion uses gentle clarification or a pause instead of pressuring for a label."
+        },
+        {
+          "title": "No goal in an ordinary identity",
+          "body": "The seminar asks “What comes up now?” and continues from that content. The earlier book instead tries intention, then message, before that question. The seminar path follows the seminar version."
+        },
+        {
+          "title": "An unnamed experience",
+          "body": "If an identity or content is felt but cannot be named, the source permits continuing from the felt experience. If a goal cannot be put into words, say something about it without pretending to know more than you do."
+        },
+        {
+          "title": "Nothing is not automatically the end",
+          "body": "“Nothing” may be treated as current content. The source distinguishes that from its end criterion. Do not use repeated questions to force detachment; uncertainty can remain uncertainty."
+        }
+      ],
+      "cheat": [
+        "Two identities: one at a time.",
+        "Opposite contents: may be felt together.",
+        "Ordinary identity + no goal: what comes up now?",
+        "Use the actual felt experience, even if unnamed.",
+        "Lost in the sequence: return to current content."
+      ],
+      "activity": "Explain the difference between “I feel a condensed mass” and “I am that condensed mass.” Then identify which question would follow each in the source.",
+      "quiz": {
+        "question": "What is the seminar’s ordinary-identity no-goal exception?",
+        "options": [
+          "Assign a likely motive",
+          "Ask what comes up now",
+          "Require a state of no identity"
+        ],
+        "answer": 1,
+        "explanation": "Video 27 goes directly to current content. The earlier book’s intention/message ladder is a different version."
+      },
+      "diagram": [
+        [
+          "Unclear answer",
+          "clarify gently"
+        ],
+        [
+          "Current content",
+          "notice what is here"
+        ],
+        [
+          "Continue or pause",
+          "never invent a label"
+        ]
+      ],
+      "practice": "advanced",
+      "stories": [],
+      "tag": "Learn & notice"
+    },
+    {
+      "id": "return",
+      "title": "Check the result, then return to life",
+      "subtitle": "Use observation and practical follow-through together.",
+      "sources": [
+        "integra-12",
+        "integra-18",
+        "integra-23",
+        "integra-29",
+        "integra-30"
+      ],
+      "concepts": [
+        {
+          "title": "Use the same situation",
+          "body": "Retest the situation recorded at the start. Compare the current response with the earlier one without requiring improvement. A different emotion may be a new topic rather than failure."
+        },
+        {
+          "title": "The source’s three outcomes",
+          "body": "The videos describe no remaining problem, a reduced but present problem, or a different problem. They suggest another application where appropriate. This is an invitation to choose, not a command to continue indefinitely."
+        },
+        {
+          "title": "A state is not a circumstance",
+          "body": "Video 12 explicitly distinguishes changing one’s reaction from changing a practical condition. Money must still be earned, a task still needs doing, and a relationship still needs real-world choices."
+        },
+        {
+          "title": "Steady use without chasing intensity",
+          "body": "The concluding video recommends regular use and discourages attachment to special experiences. Its urging to persist through difficult sessions is not adopted as an automatic instruction in this app; your ability to stop takes precedence."
+        }
+      ],
+      "cheat": [
+        "Same topic, current response.",
+        "No change is still useful information.",
+        "Name one practical action outside the exercise.",
+        "Keep a recap and a question to revisit.",
+        "A revisit date in the journal does not schedule a reminder."
+      ],
+      "activity": "After a practice, write three lines: what changed or did not; what still needs real-world action; what you want to ask next time. Copy that entry’s handoff if you want to discuss it.",
+      "quiz": {
+        "question": "If you feel calmer about a practical problem, what follows?",
+        "options": [
+          "The circumstances are already solved",
+          "You can consider what action the circumstances still require",
+          "You must repeat until every feeling is gone"
+        ],
+        "answer": 1,
+        "explanation": "Video 12 says processes change states, while changing circumstances may require action."
+      },
+      "diagram": [
+        [
+          "Retest",
+          "same original situation"
+        ],
+        [
+          "Reflect",
+          "describe honestly"
+        ],
+        [
+          "Act",
+          "one concrete next step"
+        ]
+      ],
+      "practice": null,
+      "stories": [],
+      "tag": "Learn & notice"
+    }
+  ],
+  "practices": [
+    {
+      "id": "intro",
+      "title": "Positive-experience rehearsal",
+      "description": "Learn the shift from an emotion to a felt perspective.",
+      "sources": [
+        "integra-10"
+      ],
+      "steps": [
+        {
+          "id": "setup",
+          "title": "Choose a positive experience",
+          "prompt": "Recall one positive experience. Let it be an ordinary, manageable one.",
+          "next": "emotion",
+          "setup": true
+        },
+        {
+          "id": "emotion",
+          "title": "Notice the emotion",
+          "prompt": "In your thoughts and feelings, return to that experience. What emotion is present?",
+          "next": "distinction"
+        },
+        {
+          "id": "distinction",
+          "title": "Feel, or identify?",
+          "prompt": "Do you feel this emotion, or do you experience yourself as it?",
+          "next": "shift",
+          "hint": "This is an observation, not a test with a correct answer."
+        },
+        {
+          "id": "shift",
+          "title": "Move attention back and forth",
+          "prompt": "Shift attention from the emotion to yourself; back to the emotion; and once more to yourself.",
+          "next": "identity"
+        },
+        {
+          "id": "identity",
+          "title": "Notice the perspective",
+          "prompt": "Feel the identity or kind of person present in that experience. What is it?",
+          "next": "aim",
+          "record": "A",
+          "label": "Perspective, if words come"
+        },
+        {
+          "id": "aim",
+          "title": "Notice its aim",
+          "prompt": "From the point of view of {A}, what do you want to accomplish?",
+          "next": "reflect",
+          "hint": "Notice rather than deduce. The source asks you to repeat this rehearsal with at least three positive experiences."
+        }
+      ],
+      "coaching": "Use a positive experience. Shift emotion → self → emotion → self; notice the identity and its goal without deduction. Repeat with distinct experiences if I choose.",
+      "pacing": "One positive experience per entry. The source suggests three.",
+      "note": "Source-faithful question order; optional intermediate notes, reflection fields and ChatGPT conversation are app adaptations. You can always pause or end.",
+      "topicLabel": "The situation or feeling I want to explore",
+      "beforeLabel": "What I notice before beginning"
+    },
+    {
+      "id": "basic",
+      "title": "Basic method",
+      "description": "Explore one identity with the eight-question Basic v5 handout.",
+      "sources": [
+        "integra-ip-basic-method-v5",
+        "integra-12",
+        "integra-13",
+        "integra-15",
+        "integra-18"
+      ],
+      "steps": [
+        {
+          "id": "setup",
+          "title": "Define the original topic",
+          "prompt": "When you think about your chosen experience, problem or goal, how do you feel now?",
+          "next": "bad",
+          "setup": true,
+          "requireTopic": true,
+          "record": "X",
+          "label": "Present emotion (X)",
+          "number": "1",
+          "hint": "The seminar begins with a present negative emotion and its situation. Do not invent an emotion. Choose a manageable topic or stop if none is present."
+        },
+        {
+          "id": "bad",
+          "title": "What is bad about X?",
+          "prompt": "Feel {X}. Is there anything bad about it?",
+          "next": "good",
+          "repeat": true,
+          "number": "2",
+          "hint": "Give one short response at a time. Keep X as the reference, even when another feeling is mentioned."
+        },
+        {
+          "id": "good",
+          "title": "What is good about X?",
+          "prompt": "Feel {X}. Is there anything good about it?",
+          "next": "identity",
+          "repeat": true,
+          "number": "3",
+          "hint": "You do not have to find a benefit. Allow an honest “nothing else” or “no.”"
+        },
+        {
+          "id": "identity",
+          "title": "Name person A",
+          "prompt": "Feel {X}, then feel yourself. What identity is that, what kind of person?",
+          "next": "aimA",
+          "record": "A",
+          "label": "Person A, in your words",
+          "number": "4"
+        },
+        {
+          "id": "aimA",
+          "title": "Needs, intentions, goals",
+          "prompt": "Feel {A}. From that point of view, what is your need, intention or goal?",
+          "next": "beliefA",
+          "repeat": true,
+          "number": "5",
+          "hint": "Stay with the same perspective. Notice an existing aim, not a life-goal wish list."
+        },
+        {
+          "id": "beliefA",
+          "title": "Beliefs, conclusions, decisions",
+          "prompt": "Feel {A}. From that point of view, what is your belief, conclusion or decision?",
+          "next": "vanishBad",
+          "repeat": true,
+          "number": "6",
+          "hint": "Notice what is already there. You are not being asked to make a new decision."
+        },
+        {
+          "id": "vanishBad",
+          "title": "If person A vanished: bad?",
+          "prompt": "If this identity, {A}, vanished, could something bad happen?",
+          "next": "vanishGood",
+          "repeat": true,
+          "number": "7"
+        },
+        {
+          "id": "vanishGood",
+          "title": "If person A vanished: good?",
+          "prompt": "If this identity, {A}, vanished, could something good happen?",
+          "next": "retest",
+          "repeat": true,
+          "number": "8"
+        },
+        {
+          "id": "retest",
+          "title": "Return to the original topic",
+          "prompt": "When you think about {topic}, how do you feel now?",
+          "next": "reflect",
+          "record": "after",
+          "label": "Current response to the original topic",
+          "hint": "No reaction, a remaining reaction, a different reaction, or uncertainty can all be recorded honestly. You may end here."
+        }
+      ],
+      "coaching": "Follow Basic v5 exactly. Repeat questions 2, 3, 5, 6, 7 and 8 until no further answer. Keep X and then A stable. Record topic and A; other writing optional. End with the original-topic result check.",
+      "pacing": "The seminar recommends at least three applications before Standard.",
+      "note": "Source-faithful question order; optional intermediate notes, reflection fields and ChatGPT conversation are app adaptations. You can always pause or end.",
+      "topicLabel": "The situation or feeling I want to explore",
+      "beforeLabel": "What I notice before beginning"
+    },
+    {
+      "id": "standard",
+      "title": "Standard method",
+      "description": "Work with A and B, using the Standard v5 branches.",
+      "sources": [
+        "integra-ip-standard-method-v5",
+        "integra-15",
+        "integra-20",
+        "integra-23"
+      ],
+      "steps": [
+        {
+          "id": "setup",
+          "title": "Define the original topic",
+          "prompt": "When you think about your chosen experience, problem or goal, how do you feel now?",
+          "next": "bad",
+          "setup": true,
+          "requireTopic": true,
+          "record": "X",
+          "label": "Present emotion (X)",
+          "number": "1",
+          "hint": "The seminar begins with a present negative emotion and its situation. Do not invent an emotion. Choose a manageable topic or stop if none is present."
+        },
+        {
+          "id": "bad",
+          "title": "What is bad about X?",
+          "prompt": "Feel {X}. Is there anything bad about it?",
+          "next": "good",
+          "repeat": true,
+          "number": "2",
+          "hint": "Give one short response at a time. Keep X as the reference, even when another feeling is mentioned."
+        },
+        {
+          "id": "good",
+          "title": "What is good about X?",
+          "prompt": "Feel {X}. Is there anything good about it?",
+          "next": "identity",
+          "repeat": true,
+          "number": "3",
+          "hint": "You do not have to find a benefit. Allow an honest “nothing else” or “no.”"
+        },
+        {
+          "id": "identity",
+          "title": "Name person A",
+          "prompt": "Feel {X}, then feel yourself. What identity is that, what kind of person?",
+          "next": "aimA",
+          "record": "A",
+          "label": "Person A, in your words",
+          "number": "4"
+        },
+        {
+          "id": "aimA",
+          "title": "Needs, intentions, goals",
+          "prompt": "Feel {A}. From that point of view, what is your need, intention or goal?",
+          "next": "beliefA",
+          "repeat": true,
+          "number": "5",
+          "hint": "Stay with the same perspective. Notice an existing aim, not a life-goal wish list."
+        },
+        {
+          "id": "beliefA",
+          "title": "Beliefs, conclusions, decisions",
+          "prompt": "Feel {A}. From that point of view, what is your belief, conclusion or decision?",
+          "next": "personB",
+          "repeat": true,
+          "number": "6",
+          "hint": "Notice what is already there. You are not being asked to make a new decision."
+        },
+        {
+          "id": "personB",
+          "title": "Notice person B",
+          "prompt": "Instead of {A}, what kind of person would you like to be?",
+          "next": "aimB",
+          "record": "B",
+          "label": "Person B, in your own words",
+          "number": "7"
+        },
+        {
+          "id": "aimB",
+          "title": "The aims of person B",
+          "prompt": "Feel {B}. From that point of view, what is your need, intention or goal?",
+          "next": "beliefB",
+          "repeat": true,
+          "number": "8"
+        },
+        {
+          "id": "beliefB",
+          "title": "The beliefs of person B",
+          "prompt": "Feel {B}. From that point of view, what is your belief, conclusion or decision?",
+          "next": "both1",
+          "repeat": true,
+          "number": "9"
+        },
+        {
+          "id": "both1",
+          "title": "Awareness of both",
+          "prompt": "Feel {A} and {B} at the same time. As you do, inhale and exhale.",
+          "next": "check1",
+          "number": "10",
+          "hint": "If feeling both is difficult, the seminar permits being aware of both. Do not force a merging or disappearance."
+        },
+        {
+          "id": "check1",
+          "title": "Can you feel them separately?",
+          "prompt": "Can you feel {A} and {B} separately?",
+          "next": "mergeBad",
+          "number": "11",
+          "hint": "The question is about feeling, not visualizing. Partial separation counts as still separate in the source.",
+          "choices": [
+            {
+              "label": "Yes · continue",
+              "next": "mergeBad"
+            },
+            {
+              "label": "No · check the original topic",
+              "next": "retest"
+            },
+            {
+              "label": "Unsure · end & reflect",
+              "next": "reflect"
+            }
+          ]
+        },
+        {
+          "id": "mergeBad",
+          "title": "If A and B merged: bad?",
+          "prompt": "If {A} and {B} merged, could something bad happen?",
+          "next": "mergeGood",
+          "repeat": true,
+          "number": "12"
+        },
+        {
+          "id": "mergeGood",
+          "title": "If A and B merged: good?",
+          "prompt": "If {A} and {B} merged, could something good happen?",
+          "next": "both2",
+          "repeat": true,
+          "number": "13"
+        },
+        {
+          "id": "both2",
+          "title": "Awareness of both, again",
+          "prompt": "Feel or be aware of {A} and {B} together. Inhale and exhale.",
+          "next": "check2",
+          "number": "14",
+          "hint": "Allow the experience to be as it is. There is no need to make a result happen."
+        },
+        {
+          "id": "check2",
+          "title": "Can you still feel them separately?",
+          "prompt": "Can you feel {A} and {B} separately now?",
+          "next": "renameA",
+          "number": "15",
+          "choices": [
+            {
+              "label": "Yes · review person A",
+              "next": "renameA"
+            },
+            {
+              "label": "No · check original topic",
+              "next": "retest"
+            },
+            {
+              "label": "Unsure · end & reflect",
+              "next": "reflect"
+            }
+          ]
+        },
+        {
+          "id": "renameA",
+          "title": "Review the name of A",
+          "prompt": "Feel {A}. Is that still the best name, or is there a better one?",
+          "next": "aimA",
+          "record": "A",
+          "label": "Person A: keep or update the name",
+          "number": "16",
+          "hint": "Whether the name changes or stays the same, the handout returns to question 5. You may also pause instead of repeating."
+        },
+        {
+          "id": "retest",
+          "title": "Return to the original topic",
+          "prompt": "When you think about {topic}, how do you feel now?",
+          "next": "anything",
+          "record": "after",
+          "label": "Current response to the original topic",
+          "hint": "No reaction, a remaining reaction, a different reaction, or uncertainty can all be recorded honestly. You may end here."
+        },
+        {
+          "id": "anything",
+          "title": "Anything else?",
+          "prompt": "Is there anything else regarding {topic}?",
+          "next": "reflect",
+          "hint": "You can note it for another session. Continuing immediately is optional."
+        }
+      ],
+      "coaching": "Follow Standard v5. Questions 1–6 match Basic. Q7 identifies B, Q8–9 its aims and beliefs. Q10–11 feel both and check separation. If still separate, Q12–13 bad/good about merging, Q14–15 repeat/check. If still separate, Q16 check/rename A and return to Q5. Do not force integration. No felt separation → original-topic check, then anything else.",
+      "pacing": "Study Basic first. The seminar recommends three Standard applications before Advanced.",
+      "note": "Source-faithful question order; optional intermediate notes, reflection fields and ChatGPT conversation are app adaptations. You can always pause or end.",
+      "topicLabel": "The situation or feeling I want to explore",
+      "beforeLabel": "What I notice before beginning"
+    },
+    {
+      "id": "advanced",
+      "title": "Advanced method",
+      "description": "Follow changing content, identities and goals with the Advanced v3 handout.",
+      "sources": [
+        "integra-ip-advanced-method-v3",
+        "integra-25",
+        "integra-27",
+        "integra-29"
+      ],
+      "steps": [
+        {
+          "id": "setup",
+          "title": "Define the original topic",
+          "prompt": "When you think about your chosen experience, problem or goal, how do you feel now?",
+          "next": "identity",
+          "setup": true,
+          "requireTopic": true,
+          "record": "X",
+          "label": "Present emotion (X)",
+          "number": "1",
+          "hint": "The seminar begins with a present negative emotion and its situation. Do not invent an emotion. Choose a manageable topic or stop if none is present."
+        },
+        {
+          "id": "identity",
+          "title": "Notice the current identity",
+          "prompt": "Feel {X}. Now feel yourself. What identity is that, what kind of person?",
+          "next": "goal",
+          "number": "2",
+          "hint": "Use your own words, or stay with the unnamed felt perspective. For two identities, choose one at a time. The optional note is an app adaptation.",
+          "copyTo": "A"
+        },
+        {
+          "id": "goal",
+          "title": "Notice its goal",
+          "prompt": "From the point of view of {A}, what is your goal?",
+          "next": "next",
+          "number": "3",
+          "copyTo": "goal",
+          "hint": "Do not invent a goal. Preserve its exact wording.",
+          "choices": [
+            {
+              "label": "A goal is present",
+              "next": "next"
+            },
+            {
+              "label": "Ordinary identity; no goal noticed",
+              "next": "current"
+            },
+            {
+              "label": "No further identity / end check",
+              "next": "endcheck"
+            }
+          ]
+        },
+        {
+          "id": "next",
+          "title": "Feel the goal",
+          "prompt": "Feel {goal}. What happens: an image, thought, emotion or body sensation?",
+          "next": "identity",
+          "number": "4",
+          "copyTo": "X",
+          "hint": "Feel the goal as worded, not an imagined achievement. Nothing or opposite contents can also be noticed."
+        },
+        {
+          "id": "current",
+          "title": "What comes up now?",
+          "prompt": "Without inventing a goal, what comes up now?",
+          "next": "identity",
+          "copyTo": "X",
+          "hint": "This follows the seminar’s no-goal exception for an ordinary identity. Continue from current content, or pause."
+        },
+        {
+          "id": "endcheck",
+          "title": "An honest endpoint check",
+          "prompt": "Is there a further identity or identification, or a goal from the perspective you are describing?",
+          "next": "retest",
+          "hint": "The source distinguishes an ordinary identity with no goal from a broader identification with no goal. Do not aim for blankness, numbness or disconnection. Uncertainty can be left unresolved.",
+          "choices": [
+            {
+              "label": "A perspective and goal remain",
+              "next": "goal"
+            },
+            {
+              "label": "No further identity noticed · retest",
+              "next": "retest"
+            },
+            {
+              "label": "Unsure · end & reflect",
+              "next": "reflect"
+            }
+          ]
+        },
+        {
+          "id": "retest",
+          "title": "Return to the original topic",
+          "prompt": "When you think about {topic}, how do you feel now?",
+          "next": "anything",
+          "record": "after",
+          "label": "Current response to the original topic",
+          "hint": "No reaction, a remaining reaction, a different reaction, or uncertainty can all be recorded honestly. You may end here."
+        },
+        {
+          "id": "anything",
+          "title": "Anything else?",
+          "prompt": "Is there anything else regarding {topic}?",
+          "next": "reflect",
+          "hint": "Record it if useful. You may leave further work for another time."
+        }
+      ],
+      "coaching": "Follow the seminar’s Advanced version. Q2 current content → identity, Q3 its goal, Q4 feel the exact goal → next content. For no goal in an ordinary identity, ask what comes up now. Broad identifications with no goal can be an endpoint in this source, but never force or certify a state. Only initial-topic writing is required in the source.",
+      "pacing": "For familiarity with Basic and Standard; you can remain with those methods.",
+      "note": "Source-faithful question order; optional intermediate notes, reflection fields and ChatGPT conversation are app adaptations. You can always pause or end.",
+      "topicLabel": "The situation or feeling I want to explore",
+      "beforeLabel": "What I notice before beginning"
+    }
+  ],
+  "comparison": {
+    "intro": "This compares the supplied 127-page Integra Protocol v1.1 PDF with the 30-video seminar and its Basic v5, Standard v5 and Advanced v3 handouts. Video 01 explicitly says the seminar takes precedence in a discrepancy. The book is preserved as an earlier version.",
+    "items": [
+      {
+        "type": "New procedures",
+        "title": "Basic and Standard are added",
+        "book": "PDF p.40 presents one four-question procedure, now described by the seminar as Advanced.",
+        "seminar": "Videos 01 and 11 introduce three methods. Basic v5 has eight questions; Standard v5 adds the second identity, merging checks and a return branch.",
+        "app": "Separate practice flows and handout readers, rather than adding their questions inside the old book loop.",
+        "sources": [
+          "integra-01",
+          "integra-11",
+          "integra-ip-basic-method-v5",
+          "integra-ip-standard-method-v5"
+        ]
+      },
+      {
+        "type": "Changed starting rule",
+        "title": "The initial topic is more narrowly defined",
+        "book": "PDF pp.40–41 accepts images, thoughts, emotions or bodily sensations as initial content; p.93 permits positive content while preferring a negative first reaction.",
+        "seminar": "Video 12 specifies a current negative emotion plus the situation: “I feel this about that.” Later Advanced content may still use any of the four elements.",
+        "app": "The seminar setup explains this distinction and never invents a feeling to satisfy it.",
+        "sources": [
+          "integra-12",
+          "integra-25"
+        ]
+      },
+      {
+        "type": "New staged curriculum",
+        "title": "Rehearse, then Basic, Standard, Advanced",
+        "book": "PDF pp.31–35 gives introductory exercises before the single protocol.",
+        "seminar": "Videos 09–10, 18 and 23 specify the positive-experience rehearsal and at least three Basic and three Standard applications before moving on.",
+        "app": "A dedicated rehearsal and a visible learning sequence; progression is guidance, not a mandatory unlock.",
+        "sources": [
+          "integra-09",
+          "integra-10",
+          "integra-18",
+          "integra-23"
+        ]
+      },
+      {
+        "type": "New procedural detail",
+        "title": "Repeated goals and beliefs with stable identities",
+        "book": "PDF pp.42–44 cycles from an identity’s goal into new content. Beliefs are discussed conceptually.",
+        "seminar": "Basic and Standard explicitly repeat needs/intentions/goals and beliefs/conclusions/decisions from the same identity. Standard adds B and checks both together.",
+        "app": "Repeat buttons preserve the reference, and Standard question 16 returns to question 5.",
+        "sources": [
+          "integra-15",
+          "integra-20",
+          "integra-ip-basic-method-v5",
+          "integra-ip-standard-method-v5"
+        ]
+      },
+      {
+        "type": "Revised exception",
+        "title": "Ordinary identity with no noticed goal",
+        "book": "PDF p.95 asks for an intention, then a message, then what happens now.",
+        "seminar": "Videos 25 and 27 go directly to what comes up now for an ordinary identity. Broader identifications without a goal have a separate endpoint discussion.",
+        "app": "The seminar Advanced flow uses its own exception. The older intention/message branch remains only in the book practice.",
+        "sources": [
+          "integra-25",
+          "integra-27"
+        ]
+      },
+      {
+        "type": "Different recording rules",
+        "title": "What gets written down depends on the method",
+        "book": "PDF p.103 says to write only the initial problem definition.",
+        "seminar": "Videos 15 and 20 record the topic and named identities for Basic/Standard; video 29 retains topic-only notes for Advanced.",
+        "app": "Basic/Standard name fields and optional extra notes are distinguished; Advanced permits quiet practice.",
+        "sources": [
+          "integra-15",
+          "integra-20",
+          "integra-29"
+        ]
+      },
+      {
+        "type": "Simplified closing checklist",
+        "title": "The second book closing question is absent",
+        "book": "PDF pp.40 and 51–52 includes “anything else?” and “what would you like?” as two additional questions.",
+        "seminar": "Basic v5 lists a result check. Standard v5 and Advanced v3 list the result check plus “anything else?” They do not list the book’s second additional question.",
+        "app": "Closing questions follow the selected handout; practical action planning is labeled an app reflection, not a missing source step.",
+        "sources": [
+          "integra-ip-basic-method-v5",
+          "integra-ip-standard-method-v5",
+          "integra-ip-advanced-method-v3"
+        ]
+      },
+      {
+        "type": "Further explanation, not a new principle",
+        "title": "Existing concepts gain demonstrations",
+        "book": "Identities, the four elements, internal conflict, present-time attention, exact wording, goal work and retesting already appear in the book (pp.11–30, 36–52, 98–109).",
+        "seminar": "Videos 04–09 explain those concepts again; nine live sessions demonstrate the three methods. The repeated-goal and felt-separation procedures are where the major operational additions lie.",
+        "app": "The companion labels source stories and demonstrations, and avoids presenting the shared foundations as new discoveries.",
+        "sources": [
+          "integra-04",
+          "integra-05",
+          "integra-06",
+          "integra-07",
+          "integra-08",
+          "integra-09",
+          "integra-14",
+          "integra-16",
+          "integra-17",
+          "integra-19",
+          "integra-21",
+          "integra-22",
+          "integra-24",
+          "integra-26",
+          "integra-28"
+        ]
+      },
+      {
+        "type": "Companion adaptation",
+        "title": "No pressure to force an endpoint",
+        "book": "The book describes no-identity endpoints and a “withdraw behind” instruction on p.97.",
+        "seminar": "Video 27 urges insisting on an identity after repeated content answers; video 30 urges persistence in difficult processes. These are retained in the full source transcripts.",
+        "app": "The guided interface instead allows clarification, pausing and ending without an endpoint. It does not automate the book’s withdrawal technique or press for an altered state.",
+        "sources": [
+          "integra-27",
+          "integra-30"
+        ]
+      }
+    ]
+  }
+}

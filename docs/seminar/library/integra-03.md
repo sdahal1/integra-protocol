@@ -1,0 +1,59 @@
+# Three topics of application
+
+Source: [03 three topics of application.mp4](/Users/robdahal/Desktop/SelfEducation/04-Energy_work/Vladimir%20Stojakovic%20-%20Integra%20Protocol%20Self-Study%20Seminar/03%20three%20topics%20of%20application.mp4)
+
+Source ID: integra-03
+
+SHA-256: d37a99b44850b1bf42648db38bfded5f791a67f32d2d3f37a4f583ede7430da4
+
+Method: Local MLX Whisper large-v3-turbo; Silero VAD cross-check and original-recording timestamps. Targeted corrections are documented in the review report.
+
+Accuracy: Full spoken-content transcription, including source claims and repetitions; not fully listening-verified.
+
+Duration: 00:02:40
+
+Review notes: 
+
+**[00:00:07–00:00:09]** Three topics of application.
+
+**[00:00:11–00:00:14]** We can apply Integra Protocol on three main topics.
+
+**[00:00:15–00:00:17]** Experiences, problems and goals.
+
+**[00:00:18–00:00:22]** What does it mean to apply Integra Protocol on an experience?
+
+**[00:00:23–00:00:29]** Let's say that I had a car accident 10 years ago, and when I think about it now, I feel anger.
+
+**[00:00:31–00:00:37]** This means that I still have emotional and mental charge tied to the car accident experience.
+
+**[00:00:37–00:00:50]** When I apply Integra Protocol on the car accident experience, I will release charge and from that point on, I will be able to think about the accident without negative emotions.
+
+**[00:00:52–00:00:55]** What does it mean to apply Integra Protocol on a problem?
+
+**[00:00:56–00:01:05]** Problems are automatic, compulsive reactions that always happen in the same situation or when we think about that situation.
+
+**[00:01:05–00:01:16]** For example, if my problem is fear of public speaking, I will always feel fear when I am speaking in public or when I think about it.
+
+**[00:01:17–00:01:26]** When I apply Integra Protocol on this problem, I will clear charge related to it and I will be able to speak in public without fear.
+
+**[00:01:28–00:01:31]** What does it mean to apply Integra Protocol on a goal?
+
+**[00:01:31–00:01:37]** Charge is also tied to our goals.
+
+**[00:01:37–00:01:42]** If I want to get fit, but feel resistance to exercise,
+
+**[00:01:42–00:01:47]** the resistance will prevent me from exercising, and I will not achieve my goal.
+
+**[00:01:48–00:01:54]** Charge prevents us from taking action, and if we don't take action, the goal will not be achieved.
+
+**[00:01:54–00:02:06]** When I apply Integra Protocol on this goal, I can release negative reactions associated with my goal, and I can bring myself into a state from which I can take action.
+
+**[00:02:07–00:02:14]** Every other topic that we can think of falls under these three, experiences, problems, and goals.
+
+**[00:02:15–00:02:22]** Clients often ask about beliefs. Are they a separate topic, or do they fit into these three?
+
+**[00:02:22–00:02:29]** They fit into these three. In their nature, beliefs are problems and in
+
+**[00:02:29–00:02:35]** Integra protocol they are treated as such. More about this will be in the
+
+**[00:02:35–00:02:38]** video, how to define topics.

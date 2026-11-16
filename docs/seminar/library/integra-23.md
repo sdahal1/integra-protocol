@@ -1,0 +1,53 @@
+# Do the standard method now
+
+Source: [23 do the standard method now.mp4](/Users/robdahal/Desktop/SelfEducation/04-Energy_work/Vladimir%20Stojakovic%20-%20Integra%20Protocol%20Self-Study%20Seminar/23%20do%20the%20standard%20method%20now.mp4)
+
+Source ID: integra-23
+
+SHA-256: c1857c4615ef5c1fbdd540f7aabcff56c54727bb4bd3d761cd0dd664de49e716
+
+Method: Local MLX Whisper large-v3-turbo; Silero VAD cross-check and original-recording timestamps. Targeted corrections are documented in the review report.
+
+Accuracy: Full spoken-content transcription, including source claims and repetitions; not fully listening-verified.
+
+Duration: 00:02:16
+
+Review notes: 
+
+**[00:00:07–00:00:25]** Do the standard method now. There is no difference between leading another and self-processing. Until now, you listened three sessions and step-by-step instructions and you are ready to do the standard method.
+
+**[00:00:25–00:00:38]** Print the handout for the standard method and prepare a notebook or a piece of paper which you will use to write down the topic definition and the identity that appears.
+
+**[00:00:38–00:00:43]** Decide what negative experience, problem or goal you want to do.
+
+**[00:00:43–00:00:49]** Read the first question in the standard method handout, close your eyes, define the topic
+
+**[00:00:49–00:00:57]** properly according to the first question, open your eyes and write down the topic definition.
+
+**[00:00:57–00:01:01]** Then read the second question, close your eyes and do it.
+
+**[00:01:01–00:01:04]** Keep doing the second question until no.
+
+**[00:01:04–00:01:10]** move to the next question and continue like that until the end of the process.
+
+**[00:01:10–00:01:16]** Opening eyes to see the next question will not interrupt the process. After
+
+**[00:01:16–00:01:20]** doing standard method a few times you will memorize it and you will not need
+
+**[00:01:20–00:01:27]** to refer to the handout any longer. Once you ask the last question check the
+
+**[00:01:27–00:01:32]** result. As pointed out earlier when checking the result there are three
+
+**[00:01:32–00:01:41]** possible outcomes for all three methods. 1. You cannot feel the problem at all. 2. The
+
+**[00:01:41–00:01:48]** original problem is reduced, but it is still partially there. 3. You cannot feel
+
+**[00:01:48–00:01:54]** the original problem, but some other problem is there. In cases 2 and 3, you
+
+**[00:01:54–00:02:00]** could repeat the process until you cannot feel the problem any longer. Do the
+
+**[00:02:00–00:02:05]** standard method at least three times before moving to the next video to study
+
+**[00:02:05–00:02:12]** the advanced method. Note, you don't have to say anything out loud when you do
+
+**[00:02:12–00:02:13]** self-processing.

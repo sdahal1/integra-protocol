@@ -13,7 +13,7 @@ cd ~/Desktop/Integra-Practice
 python3 scripts/serve.py --open
 ```
 
-Python 3 is required for the local server. If port 4179 is busy, use `python3 scripts/serve.py --port 4180 --open`. Opening `dist/index.html` directly is not supported because browsers restrict loading the JSON files from `file://` URLs.
+Python 3 is required for the local server. If port 4179 is busy, use `python3 scripts/serve.py --port 4180 --open`. Opening `docs/index.html` directly is not supported because browsers restrict loading the JSON files from `file://` URLs.
 
 ## What you can do
 
@@ -35,7 +35,7 @@ Sharing is manual. Nothing is sent to ChatGPT by this website. ChatGPT can still
 
 ## Deploy to GitHub Pages
 
-The complete website is **dist/**. All URLs are relative, so it works at both a domain root and a repository address such as `https://USERNAME.github.io/integra-practice/`.
+The complete website is **docs/**. All URLs are relative, so it works at both a domain root and a repository address such as `https://USERNAME.github.io/integra-practice/`.
 
 1. Create a repository in your GitHub account.
 2. Push this project, including the hidden `.github` folder, to its `main` branch. From this folder:
@@ -49,14 +49,14 @@ The complete website is **dist/**. All URLs are relative, so it works at both a 
    ```
 
 3. In the repository, open **Settings → Pages → Build and deployment → Source**, and choose **GitHub Actions**.
-4. The included **Deploy Integra Practice** workflow validates the app and publishes `dist/`. It runs on pushes to `main` and can also be run from the **Actions** tab. If the first push ran before Pages was configured, run the workflow again.
+4. The included **Deploy Integra Practice** workflow validates the app and publishes `docs/`. It runs on pushes to `main` and can also be run from the **Actions** tab. If the first push ran before Pages was configured, run the workflow again.
 5. Open the Pages URL on your laptop or phone. You can add it to your phone's home screen using the browser's share/menu controls.
 
 The workflow uses GitHub's documented static-site deployment actions: [custom workflows for GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages). No repository or deployment has been created for you; this folder is ready for your own account.
 
 **Deployment contents:** the package includes the original copyrighted book and complete extraction for your personal study. A public deployment exposes those files as well as the app. Keep the author's notices and choose a hosting arrangement consistent with your permission to share the material. A private repository does not automatically make a Pages site private, and this app has no built-in authentication. Your browser journal is not part of the project files or Git deployment.
 
-For any other static host, upload the **contents** of `dist/` as the website root. No build command or environment variables are required.
+For any other static host, upload the **contents** of `docs/` as the website root. No build command or environment variables are required.
 
 ## Move between devices
 
@@ -76,14 +76,31 @@ The learning modules, diagrams, quizzes and interface are companion adaptations.
 
 | File | Purpose |
 | --- | --- |
-| `dist/index.html` | Page shell and dialogs |
-| `dist/app.js` | Learning screens, practice flow, journal, handoffs and local state |
-| `dist/styles.css` | Responsive laptop/phone layouts and diagrams |
-| `dist/data/course.json` | Twelve modules, exercise statements, transcript guides and source map |
-| `dist/data/pages.json` | Complete page-indexed source text, with extraction methods |
-| `dist/library/` | Original PDF, full text and Markdown |
+| `docs/index.html` | Page shell and dialogs |
+| `docs/app.js` | Learning screens, practice flow, journal, handoffs and local state |
+| `docs/styles.css` | Responsive laptop/phone layouts and diagrams |
+| `docs/data/course.json` | Twelve modules, exercise statements, transcript guides and source map |
+| `docs/data/pages.json` | Complete page-indexed source text, with extraction methods |
+| `docs/library/` | Original PDF, full text and Markdown |
 | `provenance/extraction-report.json` | Source hash, extraction method, coverage and limitations |
 | `scripts/validate.mjs` | Content coverage, practice transitions, handoff isolation and storage checks |
 | `.github/workflows/pages.yml` | GitHub Pages validation and deployment |
 
 With Node.js 18 or newer, run `npm test`. No npm installation is necessary. After editing the app, refresh the browser; there is no compilation step.
+
+
+## Self-study seminar addition (November 2026)
+
+Open **Seminar** in the navigation or the home-page banner. The seminar lives in `docs/seminar/` and is included when the entire `docs/` folder is deployed. The existing book-based app, its 127-page source, and its `integra-practice-v1` browser data are retained.
+
+The seminar adds 11 chapters, the positive-experience rehearsal, separate Basic v5 and Standard v5 procedures, a seminar-version Advanced v3 procedure, all 30 video transcripts, all three handouts, and extracted on-screen text. Its **What changed from the book** section identifies new material and changed instructions, including starting-topic rules, the no-goal exception, note-taking and closing questions. Video 01 says the seminar supersedes the earlier book in a discrepancy; the two practice versions remain explicitly labeled.
+
+Download the complete seminar guide, transcripts and slide OCR from **Seminar → Source library**. The PDF is `docs/seminar/library/full-guide.pdf`. It includes the learning material, practice instructions, comparison, full audio transcripts and on-screen text. The original book PDF remains under `docs/library/`.
+
+Seminar notes use `integra-seminar-v1`, separate from the book journal. Export/import in each section moves that section’s data. Both offer manual ChatGPT handoffs; no model API is called.
+
+Processing was local: MLX Whisper large-v3-turbo, Silero VAD, second-pass review, Apple Vision OCR of 3,127 scene-change frames, and PDF text extraction. The three handout text layers matched a second extractor after whitespace normalization. No ChatCut or cloud transcription was used for this addition. Review details and limitations are in `provenance/seminar-review.json` and the seminar download library. Five quiet replies in video 16 are explicitly supplemented from on-screen captions. The transcripts are not fully listening-verified; OCR may miss very brief or transitional frames.
+
+The original audio/video and PDFs are unchanged. Media is not duplicated into the site. Public hosting makes the included source text available to visitors. No push or deployment was performed.
+
+The user’s `docs/` layout is preserved. Local serving, validation and the GitHub Pages workflow now consistently reference `docs/`; the stale `dist/` references were corrected.

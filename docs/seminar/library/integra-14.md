@@ -1,0 +1,285 @@
+# Basic method session 1
+
+Source: [14 basic method session 1.mp4](/Users/robdahal/Desktop/SelfEducation/04-Energy_work/Vladimir%20Stojakovic%20-%20Integra%20Protocol%20Self-Study%20Seminar/14%20basic%20method%20session%201.mp4)
+
+Source ID: integra-14
+
+SHA-256: dd04d38c7dcdcddb126ea4ee633cea8a4253391fc441344ebef1120dfb3be711
+
+Method: Local MLX Whisper large-v3-turbo; Silero VAD cross-check and original-recording timestamps. Targeted corrections are documented in the review report.
+
+Accuracy: Full spoken-content transcription, including source claims and repetitions; not fully listening-verified.
+
+Duration: 00:11:50
+
+Review notes: Quiet participant replies and speaker changes are not fully listening-verified; use the separately extracted on-screen captions to cross-check.
+
+**[00:00:07–00:00:10]** Okay, so what do we do now?
+
+**[00:00:12–00:00:15]** I need to make more money so that I can move.
+
+**[00:00:16–00:00:20]** Okay, to make more money so that I can move.
+
+**[00:00:21–00:00:21]** Okay, thank you.
+
+**[00:00:22–00:00:23]** Please close your eyes.
+
+**[00:00:24–00:00:30]** When you think about this, to make more money so that I can move, how do you feel?
+
+**[00:00:31–00:00:33]** I feel stressed.
+
+**[00:00:33–00:00:34]** I feel pressured.
+
+**[00:00:35–00:00:39]** Okay, so which one you're going to use, stressed or pressured?
+
+**[00:00:39–00:00:46]** what feels pressured pressured okay let me write down all right thank you so feel pressured
+
+**[00:00:46–00:00:58]** as you feel pressured notice what is bad about it it makes me feel anxiety and some panic
+
+**[00:00:58–00:01:08]** thank you and as you feel as you feel pressured is there anything else bad about it i don't
+
+**[00:01:08–00:01:15]** believe that I'm present when I feel pressured. Thank you. Feel pressured and tell me, is there
+
+**[00:01:15–00:01:22]** anything else bad about it? I might not make the best decisions if I feel pressured.
+
+**[00:01:23–00:01:36]** Thank you. And is there anything else bad about feeling pressured? I feel stressed out and that's
+
+**[00:01:36–00:01:43]** not good for my health. Thank you. And as you feel pressured, is there anything else bad about it?
+
+**[00:01:43–00:01:52]** I become distracted.
+
+**[00:01:53–00:01:54]** Thank you.
+
+**[00:01:55–00:01:59]** Feel pressured and tell me, is there anything else bad about it, please?
+
+**[00:02:14–00:02:15]** No, nothing more is coming up.
+
+**[00:02:16–00:02:17]** Okay, thank you.
+
+**[00:02:17–00:02:23]** And as you feel pressured, is there maybe something at least a little bit good about it?
+
+**[00:02:28–00:02:30]** It could be a positive motivation.
+
+**[00:02:31–00:02:32]** Thank you.
+
+**[00:02:33–00:02:36]** And is there anything else good about feeling pressured?
+
+**[00:02:43–00:02:45]** It can keep me moving forward.
+
+**[00:02:46–00:02:52]** Thank you. And feel pressured. And tell me, is there anything else good about it?
+
+**[00:03:03–00:03:07]** Some external motivation and encouragement is good.
+
+**[00:03:08–00:03:12]** Thank you. And is there anything else good about feeling pressured?
+
+**[00:03:19–00:03:24]** It can remind me that this is important and I should be mindful and careful.
+
+**[00:03:25–00:03:30]** Thank you. And as you feel pressured, notice, is there anything else good about it?
+
+**[00:03:30–00:03:48]** no that's all okay thank you and feel pressured and now feel yourself feel your identity
+
+**[00:03:48–00:03:53]** what identity is that what kind of person
+
+**[00:03:53–00:04:06]** a desperate person okay and assume this identity desperate person look through the eyes of this
+
+**[00:04:06–00:04:13]** desperate person and notice what is your need intention goal from this point of view
+
+**[00:04:13–00:04:19]** to leave
+
+**[00:04:19–00:04:21]** to get out of here
+
+**[00:04:21–00:04:22]** thank you
+
+**[00:04:22–00:04:24]** and from the same point of view
+
+**[00:04:24–00:04:26]** desperate person
+
+**[00:04:26–00:04:27]** do you have any other need
+
+**[00:04:27–00:04:29]** intention or goal
+
+**[00:04:29–00:04:41]** to leave old things behind
+
+**[00:04:41–00:04:44]** okay thank you
+
+**[00:04:44–00:04:46]** and do you have any other need
+
+**[00:04:46–00:04:47]** intention or goal
+
+**[00:04:47–00:04:49]** through the eyes of this desperate person
+
+**[00:04:49–00:04:54]** to escape
+
+**[00:04:54–00:04:55]** thank you
+
+**[00:04:55–00:04:57]** and from the same point of view
+
+**[00:04:57–00:04:58]** desperate person
+
+**[00:04:58–00:05:01]** Do you have any other need, intention, or goal?
+
+**[00:05:07–00:05:08]** To lead as quickly as possible.
+
+**[00:05:10–00:05:10]** Thank you.
+
+**[00:05:10–00:05:15]** Do you have any other need, intention, or goal from the same point of view, desperate person?
+
+**[00:05:29–00:05:32]** Yes, there's a need to have something good and positive happen.
+
+**[00:05:33–00:05:34]** Thank you.
+
+**[00:05:35–00:05:39]** And through the eyes of this desperate person, notice, do you have any other need, intention, or goal?
+
+**[00:05:40–00:05:49]** To feel like something else can be different and beautiful and more successful.
+
+**[00:05:50–00:05:55]** Thank you. And do you have any other need, intention or goal from the same point of
+
+**[00:05:55–00:06:01]** view, desperate person?
+
+**[00:06:01–00:06:05]** To make sure that I have enough resources to survive.
+
+**[00:06:05–00:06:11]** Thank you. And through the eyes of this desperate person, notice, do you have any other need,
+
+**[00:06:11–00:06:18]** intention or goal?
+
+**[00:06:18–00:06:19]** No, that's it.
+
+**[00:06:19–00:06:26]** Okay, thank you. And from the same point of view, desperate person, do you have a belief,
+
+**[00:06:26–00:06:27]** conclusion or decision?
+
+**[00:06:35–00:06:37]** If I don't leave now, I may never get to go.
+
+**[00:06:38–00:06:39]** Thank you.
+
+**[00:06:40–00:06:41]** And still from the same point of view,
+
+**[00:06:42–00:06:43]** desperate person,
+
+**[00:06:43–00:06:44]** do you have any other belief,
+
+**[00:06:44–00:06:45]** conclusion or decision?
+
+**[00:06:50–00:06:51]** Yeah, this has to work.
+
+**[00:06:52–00:06:53]** Okay.
+
+**[00:06:53–00:06:55]** Do you have any other belief,
+
+**[00:06:55–00:06:56]** conclusion or decision
+
+**[00:06:56–00:06:58]** through the eyes of this desperate person?
+
+**[00:07:10–00:07:12]** If I don't do this,
+
+**[00:07:12–00:07:13]** things will stay the way they've always been
+
+**[00:07:13–00:07:17]** and that's no longer good for me.
+
+**[00:07:18–00:07:18]** Thank you.
+
+**[00:07:19–00:07:21]** And as you feel this desperate person,
+
+**[00:07:21–00:07:36]** do you have any other belief, conclusion, or decision?
+
+**[00:07:36–00:07:39]** That I have to do it perfectly or it might not work?
+
+**[00:07:39–00:07:40]** Thank you.
+
+**[00:07:40–00:07:43]** Do you have any other belief, conclusion, or decision
+
+**[00:07:43–00:07:55]** from the point of view of this desperate person?
+
+**[00:07:55–00:07:58]** If I don't make enough money, it won't work.
+
+**[00:07:58–00:07:59]** OK, thank you.
+
+**[00:07:59–00:08:03]** From the same point of view, desperate person,
+
+**[00:08:03–00:08:14]** do you have any other belief, conclusion, or decision?
+
+**[00:08:14–00:08:16]** If I don't make it happen,
+
+**[00:08:16–00:08:18]** I could be a failure.
+
+**[00:08:20–00:08:20]** Thank you.
+
+**[00:08:21–00:08:23]** Still, from the same point of view, desperate person,
+
+**[00:08:24–00:08:27]** can you notice any other belief, conclusion, or decision?
+
+**[00:08:34–00:08:37]** If I do this fast enough, maybe I'll get away with it.
+
+**[00:08:37–00:08:38]** Thank you.
+
+**[00:08:39–00:08:41]** And from the same point of view, desperate person,
+
+**[00:08:41–00:08:44]** do you have any other belief, conclusion, or decision?
+
+**[00:08:55–00:08:56]** No.
+
+**[00:08:56–00:08:57]** Okay, thank you.
+
+**[00:08:59–00:09:02]** If this identity, desperate person, vanished,
+
+**[00:09:02–00:09:04]** could something bad happen?
+
+**[00:09:22–00:09:22]** No.
+
+**[00:09:23–00:09:25]** No? Okay, thank you.
+
+**[00:09:25–00:09:28]** If this identity, desperate person, vanished
+
+**[00:09:28–00:09:29]** could something good happen?
+
+**[00:09:34–00:09:35]** Yes, I could.
+
+**[00:09:35–00:09:36]** Relax.
+
+**[00:09:38–00:09:39]** Okay, thank you.
+
+**[00:09:39–00:09:40]** Could something else
+
+**[00:09:40–00:09:43]** could happen if this desperate person
+
+**[00:09:43–00:09:43]** vanished?
+
+**[00:09:47–00:09:50]** Yes, I could, but the flow and the natural
+
+**[00:09:50–00:09:52]** flow of
+
+**[00:09:52–00:09:54]** my future unfold.
+
+**[00:09:56–00:09:56]** Thank you.
+
+**[00:09:58–00:10:01]** Could something else could happen if this identity desperate person vanished?
+
+**[00:10:19–00:10:23]** Things could happen as they're meant to and not me forcing them to happen.
+
+**[00:10:24–00:10:24]** Thank you.
+
+**[00:10:25–00:10:29]** Could something else could happen if this desperate person identity vanished?
+
+**[00:10:50–00:10:54]** Everything could happen as it should be and as it will be.
+
+**[00:10:54–00:10:57]** And I can relax and be open to how it's going to unfold.
+
+**[00:10:58–00:10:59]** Thank you.
+
+**[00:10:59–00:11:03]** Could something else could happen if this identity desperate person vanished?
+
+**[00:11:10–00:11:11]** No, no more.
+
+**[00:11:11–00:11:19]** Okay, thank you. So let's go back to check the result. The topic was feeling pressured
+
+**[00:11:19–00:11:26]** when I think to make more money so that I can move. Now, when you think to make more money
+
+**[00:11:26–00:11:34]** so that you can move, how do you feel? I can't feel the pressure anymore. It just feels like
+
+**[00:11:34–00:11:40]** I can be open to the different ways in which I can allow that to happen for me and I can relax
+
+**[00:11:40–00:11:45]** more and be more open to see those opportunities.
+
+**[00:11:46–00:11:47]** Okay. Thank you.
+
+**[00:11:48–00:11:49]** Thank you.

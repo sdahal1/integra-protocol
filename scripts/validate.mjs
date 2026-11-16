@@ -3,20 +3,20 @@ import fs from 'node:fs';
 import crypto from 'node:crypto';
 import vm from 'node:vm';
 
-const course=JSON.parse(fs.readFileSync('dist/data/course.json','utf8'));
-const pages=JSON.parse(fs.readFileSync('dist/data/pages.json','utf8'));
+const course=JSON.parse(fs.readFileSync('docs/data/course.json','utf8'));
+const pages=JSON.parse(fs.readFileSync('docs/data/pages.json','utf8'));
 const report=JSON.parse(fs.readFileSync('provenance/extraction-report.json','utf8'));
 assert.equal(pages.length,127);
 assert.equal(course.modules.length,12);
 assert.equal(course.examples.length,9);
 assert.equal(course.affirmations.length,14);
-assert.equal(crypto.createHash('sha256').update(fs.readFileSync('dist/library/integra-protocol-v1.1.pdf')).digest('hex'),report.sha256);
+assert.equal(crypto.createHash('sha256').update(fs.readFileSync('docs/library/integra-protocol-v1.1.pdf')).digest('hex'),report.sha256);
 assert.ok(report.crossExtractorChecks.every(p=>p.match));
 assert.ok(pages[0].method.includes('Manual transcription'));
 for(const [i,p] of pages.entries()){
   assert.equal(p.page,i+1);assert.ok(p.text.trim().length>0);assert.equal(p.characters,p.text.length);
-  assert.ok(fs.readFileSync('dist/library/integra-protocol-full-text.txt','utf8').includes(`===== PDF PAGE ${p.page} =====\n\n${p.text}`));
-  assert.ok(fs.readFileSync('dist/library/integra-protocol-full-text.md','utf8').includes(`## PDF page ${p.page}\n\n${p.text}`));
+  assert.ok(fs.readFileSync('docs/library/integra-protocol-full-text.txt','utf8').includes(`===== PDF PAGE ${p.page} =====\n\n${p.text}`));
+  assert.ok(fs.readFileSync('docs/library/integra-protocol-full-text.md','utf8').includes(`## PDF page ${p.page}\n\n${p.text}`));
 }
 assert.equal(report.words,pages.reduce((n,p)=>n+p.words,0));
 assert.ok(pages[2].text.includes('Copyright 2015 by Vladimir Stojakovic'));
@@ -26,11 +26,11 @@ for(const m of course.modules){
 }
 assert.deepEqual(course.examples.flatMap(e=>Array.from({length:e.end-e.start+1},(_,i)=>e.start+i)),Array.from({length:39},(_,i)=>53+i));
 assert.deepEqual(course.sections.flatMap(e=>Array.from({length:e.end-e.start+1},(_,i)=>e.start+i)),Array.from({length:127},(_,i)=>1+i));
-for(const name of ['dist/index.html','dist/styles.css','dist/icon.svg','dist/.nojekyll','.github/workflows/pages.yml','Start Local Preview.command','scripts/serve.py'])assert.ok(fs.existsSync(name));
-const html=fs.readFileSync('dist/index.html','utf8'),code=fs.readFileSync('dist/app.js','utf8').replace(/\ninit\(\);\s*$/,'');
+for(const name of ['docs/index.html','docs/styles.css','docs/icon.svg','docs/.nojekyll','.github/workflows/pages.yml','Start Local Preview.command','scripts/serve.py'])assert.ok(fs.existsSync(name));
+const html=fs.readFileSync('docs/index.html','utf8'),code=fs.readFileSync('docs/app.js','utf8').replace(/\ninit\(\);\s*$/,'');
 assert.ok(!/(?:src|href)="\/(?!\/)/.test(html));
 assert.ok(!/fetch\(['"]https?:/.test(code));
-assert.ok(fs.readFileSync('.github/workflows/pages.yml','utf8').includes('path: dist'));
+assert.ok(fs.readFileSync('.github/workflows/pages.yml','utf8').includes('path: docs'));
 console.log('PASS: all 127 source pages, matching PDF hash, complete TXT/Markdown, 12 modules, 9 complete transcripts, source references and portable assets.');
 
 const elements=new Map();

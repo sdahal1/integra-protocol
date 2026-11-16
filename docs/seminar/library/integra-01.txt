@@ -1,0 +1,127 @@
+# About integra protocol digital seminar
+
+Source: [01 about integra protocol digital seminar.mp4](/Users/robdahal/Desktop/SelfEducation/04-Energy_work/Vladimir%20Stojakovic%20-%20Integra%20Protocol%20Self-Study%20Seminar/01%20about%20integra%20protocol%20digital%20seminar.mp4)
+
+Source ID: integra-01
+
+SHA-256: e026997c42ac4c92b27f5024621912d4992aea061098caa98ddd4e03fbfcf286
+
+Method: Local MLX Whisper large-v3-turbo; Silero VAD cross-check and original-recording timestamps. Targeted corrections are documented in the review report.
+
+Accuracy: Full spoken-content transcription, including source claims and repetitions; not fully listening-verified.
+
+Duration: 00:04:27
+
+Review notes: 
+
+[00:00:07–00:00:10] About Integra Protocol Digital Seminar.
+
+[00:00:11–00:00:20] When I decided to make available a digital version of Integra Protocol Seminar, I had two options.
+
+[00:00:20–00:00:26] To record a live seminar or to create a digital seminar from scratch.
+
+[00:00:27–00:00:29] The first option was easy.
+
+[00:00:30–00:00:33] However, I decided to take the second option.
+
+[00:00:33–00:00:44] In a live seminar, participants can ask questions and I can correct them based on my observations,
+
+[00:00:44–00:00:50] which would not be possible in a self-study digital seminar.
+
+[00:00:50–00:00:57] That's why I wanted to ensure that in this digital seminar nothing was missed, that everything
+
+[00:00:57–00:01:01] was clear and that's why I took the second option.
+
+[00:01:01–00:01:08] This meant writing the whole seminar first and then recording it.
+
+[00:01:08–00:01:13] You will even find some information here which is not available in live seminars.
+
+[00:01:13–00:01:21] Simply, it would be too much for a live seminar, while it was appropriate to include it in
+
+[00:01:21–00:01:25] a digital self-paced version.
+
+[00:01:25–00:01:32] It was a lot of work, but I believe I took the utmost care of any future student of this
+
+[00:01:32–00:01:40] digital seminar. What does the Digital Integra Protocol seminar contain? In short,
+
+[00:01:40–00:01:46] complete theoretical explanation, complete instructions for the three
+
+[00:01:46–00:01:53] Integra Protocol methods, three live processes for each of the three methods,
+
+[00:01:53–00:02:00] which means nine processes altogether. At the end of this video, full content of
+
+[00:02:00–00:02:08] the seminar is listed. I published a book a few years ago about Integra Protocol
+
+[00:02:08–00:02:15] titled Integra Protocol how to integrate internal conflicts. The book describes
+
+[00:02:15–00:02:21] only the advanced method as it was the only existing method at the time of
+
+[00:02:21–00:02:27] writing. Now Integra Protocol consists of three methods basic standard and
+
+[00:02:27–00:02:33] and advanced, and they are all covered in this digital seminar.
+
+[00:02:33–00:02:40] Also, if there is a discrepancy between the book and the seminar, please follow the seminar,
+
+[00:02:40–00:02:41] not the book.
+
+[00:02:41–00:02:50] Note, it is very important to study the material and do the methods exactly in the order presented
+
+[00:02:50–00:02:54] in this digital seminar.
+
+[00:02:54–00:03:02] There is the list of videos that Integra Protocol Digital Seminar consists of.
+
+[00:03:02–00:03:06] About Integra Protocol Digital Seminar.
+
+[00:03:06–00:03:09] What is Integra Protocol?
+
+[00:03:09–00:03:12] Topics of application.
+
+[00:03:12–00:03:16] Four elements of emotional and mental charge.
+
+[00:03:16–00:03:18] Identities.
+
+[00:03:18–00:03:21] Progressive integration.
+
+[00:03:21–00:03:24] Ability to assume and release identities.
+
+[00:03:24–00:03:26] Internal conflicts.
+
+[00:03:26–00:03:30] The difference between identities and content
+
+[00:03:30–00:03:33] Introductory Exercise
+
+[00:03:33–00:03:35] Three Methods Intro
+
+[00:03:35–00:03:38] How to define topics
+
+[00:03:38–00:03:41] The right way to use the methods
+
+[00:03:41–00:03:44] Basic Method Session 1
+
+[00:03:44–00:03:47] Basic Method Step by Step
+
+[00:03:47–00:03:49] Basic Method Session 2
+
+[00:03:49–00:03:52] Basic Method Session 3
+
+[00:03:52–00:03:55] Do the Basic Method Now
+
+[00:03:55–00:04:00] Standard Method Session 1 Standard Method Step by Step
+
+[00:04:00–00:04:05] Standard Method Session 2 Standard Method Session 3
+
+[00:04:05–00:04:08] Do the Standard Method Now
+
+[00:04:08–00:04:11] Advanced Method Session 1
+
+[00:04:11–00:04:14] Advanced Method Step by Step
+
+[00:04:14–00:04:17] Advanced Method Session 2
+
+[00:04:17–00:04:20] Advanced Method Exceptions
+
+[00:04:20–00:04:22] Advanced Method Session 3
+
+[00:04:22–00:04:25] Do the Advanced Method Now
+
+[00:04:25–00:04:26] benefits

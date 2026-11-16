@@ -1,0 +1,121 @@
+# The right way to use the methods
+
+Source: [13 the right way to use the methods.mp4](/Users/robdahal/Desktop/SelfEducation/04-Energy_work/Vladimir%20Stojakovic%20-%20Integra%20Protocol%20Self-Study%20Seminar/13%20the%20right%20way%20to%20use%20the%20methods.mp4)
+
+Source ID: integra-13
+
+SHA-256: b9ffa7ef84380fb1f2e3f3b10e6814ad455e44af97465ef3f5dfc90390d2ead6
+
+Method: Local MLX Whisper large-v3-turbo; Silero VAD cross-check and original-recording timestamps. Targeted corrections are documented in the review report.
+
+Accuracy: Full spoken-content transcription, including source claims and repetitions; not fully listening-verified.
+
+Duration: 00:04:22
+
+Review notes: 
+
+**[00:00:08–00:00:09]** The right way to use the methods.
+
+**[00:00:10–00:00:16]** When doing Integra Protocol methods, you are asked certain questions.
+
+**[00:00:17–00:00:21]** If you are led by another person, they will ask the questions.
+
+**[00:00:21–00:00:25]** And if you are doing it on your own, you will ask the questions yourself.
+
+**[00:00:26–00:00:35]** The purpose of the questions is to direct your attention to notice unconscious key elements of the problem you are working on.
+
+**[00:00:35–00:00:40]** to make those elements conscious, therefore releasing the problem.
+
+**[00:00:42–00:00:46]** The right way to answer questions is short and to the point.
+
+**[00:00:47–00:00:50]** Your answers should be up to one sentence.
+
+**[00:00:51–00:00:52]** That's the golden rule.
+
+**[00:00:53–00:00:56]** We want statements, items.
+
+**[00:00:56–00:00:59]** We don't want descriptions, stories.
+
+**[00:01:01–00:01:05]** Another rule is to give one item per one question.
+
+**[00:01:05–00:01:09]** even though you may have more items coming up.
+
+**[00:01:11–00:01:13]** For example, feel helpless.
+
+**[00:01:14–00:01:16]** What is bad about feeling helpless?
+
+**[00:01:17–00:01:20]** I cannot express myself.
+
+**[00:01:20–00:01:21]** Thank you.
+
+**[00:01:22–00:01:23]** Feel helpless and tell me.
+
+**[00:01:24–00:01:27]** Is there anything else bad about feeling helpless?
+
+**[00:01:28–00:01:31]** People cannot see my true self.
+
+**[00:01:31–00:01:32]** Thank you.
+
+**[00:01:32–00:01:34]** And feel helpless and tell me.
+
+**[00:01:34–00:01:37]** Is there anything else bad about feeling helpless?
+
+**[00:01:37–00:01:39]** I feel self-pity.
+
+**[00:01:40–00:01:46]** Notice that in this example, answers are short and to the point,
+
+**[00:01:46–00:01:51]** up to one sentence, and the answer is always one item.
+
+**[00:01:52–00:01:56]** It would be a mistake to give more than one answer at a time.
+
+**[00:01:59–00:02:02]** The right way is to give one answer
+
+**[00:02:02–00:02:07]** and wait for the processor to repeat the question or ask the next question.
+
+**[00:02:07–00:02:15]** note processor is the one leading the process on other people or themselves
+
+**[00:02:15–00:02:22]** also when you work on your own you don't have to say anything aloud just verbalize
+
+**[00:02:22–00:02:28]** it inwardly some more points to consider it's important to keep an open mind
+
+**[00:02:28–00:02:35]** during the process there should be no selection of the surfacing content don't
+
+**[00:02:35–00:02:43]** select what to verbalize and what to skip or suppress verbalize and report
+
+**[00:02:43–00:02:48]** everything be on alert to prevent selection both consciously and
+
+**[00:02:48–00:02:57]** unconsciously also don't validate yourself in relation to the content if
+
+**[00:02:57–00:03:02]** the content is something mean that doesn't mean that you are mean to we are
+
+**[00:03:02–00:03:09]** not our content. It does not matter whether the content is smart or stupid,
+
+**[00:03:09–00:03:15]** appropriate or inappropriate. Just verbalize it and report it. The sooner
+
+**[00:03:15–00:03:22]** you verbalize it, the sooner you will get rid of it. Also, the content does not have
+
+**[00:03:22–00:03:29]** to be rational. It is often irrational. Created when we were children, having a
+
+**[00:03:29–00:03:32]** different perception of reality or in
+
+**[00:03:32–00:03:35]** traumatic states again having a
+
+**[00:03:35–00:03:38]** distorted perception of reality accept
+
+**[00:03:38–00:03:41]** irrational content and yes the sooner
+
+**[00:03:41–00:03:44]** you verbalize it the sooner you will get
+
+**[00:03:44–00:03:50]** rid of it also don't analyze respond be
+
+**[00:03:50–00:03:52]** open and allow questions to cause a
+
+**[00:03:52–00:03:55]** reaction then feel the reaction and
+
+**[00:03:55–00:04:02]** verbalize it. This is responding. This seems like a lot of instructions. However, it is
+
+**[00:04:02–00:04:08]** not complicated. For most people it takes one to three applications of an Integra Protocol
+
+**[00:04:08–00:04:15]** method to get it right. You will know that you are doing it right when you surrender
+
+**[00:04:15–00:04:20]** to the process, accept anything that comes up and verbalize it.

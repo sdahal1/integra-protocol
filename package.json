@@ -1,11 +1,13 @@
 {
   "name": "integra-practice",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "private": true,
   "description": "A portable study and practice companion for Integra Protocol v1.1",
   "scripts": {
     "start": "python3 scripts/serve.py --open",
-    "test": "node --check dist/app.js && node scripts/validate.mjs"
+    "test": "node --check docs/app.js && node scripts/validate.mjs && node --check docs/seminar/app.js && node scripts/validate-training.mjs docs/seminar"
   },
-  "engines": {"node": ">=18"}
+  "engines": {
+    "node": ">=18"
+  }
 }

@@ -1,0 +1,365 @@
+# Standard method session 2
+
+Source: [21 standard method session 2.mp4](/Users/robdahal/Desktop/SelfEducation/04-Energy_work/Vladimir%20Stojakovic%20-%20Integra%20Protocol%20Self-Study%20Seminar/21%20standard%20method%20session%202.mp4)
+
+Source ID: integra-21
+
+SHA-256: 14eb171331c72b546ba2f590b851c29d850c18b08d70eee55b210a799ccc3a1e
+
+Method: Local MLX Whisper large-v3-turbo; Silero VAD cross-check and original-recording timestamps. Targeted corrections are documented in the review report.
+
+Accuracy: Full spoken-content transcription, including source claims and repetitions; not fully listening-verified.
+
+Duration: 00:13:54
+
+Review notes: Quiet participant replies and speaker changes are not fully listening-verified; use the separately extracted on-screen captions to cross-check.
+
+**[00:00:07–00:00:11]** Okay, so what would you like to work on today?
+
+**[00:00:13–00:00:24]** I would like to work on today that I'm in a doctorate program and right now I feel like I'm working on a lot of projects at one time and I'm feeling overwhelmed.
+
+**[00:00:25–00:00:30]** And then that makes me freeze and then I don't do anything, which makes me not productive.
+
+**[00:00:30–00:00:36]** Okay, so can we use too many projects as this definition?
+
+**[00:00:36–00:00:38]** like too many projects at the same time?
+
+**[00:00:39–00:00:39]** Yes.
+
+**[00:00:40–00:00:40]** Is that okay?
+
+**[00:00:41–00:00:42]** Yeah, that's fine.
+
+**[00:00:42–00:00:42]** Okay.
+
+**[00:00:43–00:00:45]** So if you close your eyes, please.
+
+**[00:00:45–00:00:46]** Okay.
+
+**[00:00:46–00:00:49]** Just think about this, what you just told me,
+
+**[00:00:50–00:00:52]** that you have all these obligations,
+
+**[00:00:52–00:00:54]** too many projects at the same time.
+
+**[00:00:55–00:00:57]** And as you think about that, notice how you feel about it.
+
+**[00:00:59–00:01:00]** I feel overwhelmed.
+
+**[00:01:01–00:01:03]** Okay, overwhelmed.
+
+**[00:01:05–00:01:06]** Okay, and feel overwhelmed.
+
+**[00:01:07–00:01:08]** Mm-hmm.
+
+**[00:01:09–00:01:13]** And as you feel overwhelmed, what is bad about it?
+
+**[00:01:15–00:01:18]** I procrastinate.
+
+**[00:01:18–00:01:20]** Okay. Thank you.
+
+**[00:01:21–00:01:25]** And as you feel overwhelmed, tell me, is there anything else bad about it?
+
+**[00:01:26–00:01:29]** I freeze and I don't do anything.
+
+**[00:01:29–00:01:30]** Thank you.
+
+**[00:01:31–00:01:35]** And still feel overwhelmed and tell me, is there anything else bad about it?
+
+**[00:01:35–00:01:40]** I feel a little bit incompetent at the moment.
+
+**[00:01:40–00:01:41]** Thank you.
+
+**[00:01:42–00:01:43]** And feel overwhelmed.
+
+**[00:01:44–00:01:46]** And tell me, is there anything else bad about it?
+
+**[00:01:50–00:01:54]** I feel like I can't put my attention on anything specific at the moment.
+
+**[00:01:55–00:01:55]** I feel distracted.
+
+**[00:01:56–00:01:57]** Distracted.
+
+**[00:01:57–00:01:57]** Thank you.
+
+**[00:01:58–00:02:00]** And still feel overwhelmed.
+
+**[00:02:01–00:02:03]** And tell me, is there anything else bad about it?
+
+**[00:02:04–00:02:08]** My projects are being affected negatively.
+
+**[00:02:08–00:02:09]** Thank you.
+
+**[00:02:09–00:02:12]** and as you still feel overwhelmed
+
+**[00:02:12–00:02:14]** is there anything else bad about it?
+
+**[00:02:18–00:02:19]** No.
+
+**[00:02:20–00:02:20]** Okay, thank you.
+
+**[00:02:21–00:02:24]** And as you still feel this same feeling, overwhelmed
+
+**[00:02:24–00:02:28]** is there something which is maybe a little bit good about it?
+
+**[00:02:31–00:02:32]** A little bit good.
+
+**[00:02:39–00:02:41]** I'm progressing, I'm moving forward.
+
+**[00:02:42–00:02:43]** That's why these projects are in play.
+
+**[00:02:44–00:02:45]** Thank you.
+
+**[00:02:45–00:02:47]** And feel overwhelmed.
+
+**[00:02:47–00:02:53]** and tell me is there anything else at least a little bit good about it I'm
+
+**[00:02:53–00:03:01]** I'm committing to my education in my career thank you and feel overwhelmed
+
+**[00:03:01–00:03:13]** and notice is there anything else little bit good about the overwhelm is teaching
+
+**[00:03:13–00:03:20]** me that I need to organize myself thank you and feel overwhelmed and tell me is
+
+**[00:03:20–00:03:32]** there anything else, at least a little bit good about it? No. Okay, thank you. Feel overwhelmed.
+
+**[00:03:34–00:03:41]** You know, shift your attention from feeling overwhelmed to yourself. Feel yourself. Feel
+
+**[00:03:41–00:04:19]** your identity. What identity is that? What kind of person? A person who wants to succeed. A person
+
+**[00:04:19–00:04:22]** who wants to succeed.
+
+**[00:04:22–00:04:23]** Thank you.
+
+**[00:04:23–00:04:30]** So allow this person to appear as completely as possible.
+
+**[00:04:30–00:04:32]** Be this person who wants to succeed.
+
+**[00:04:33–00:04:36]** And from the point of view of this person who wants to succeed,
+
+**[00:04:37–00:04:40]** what is your need, intention, goal?
+
+**[00:04:46–00:04:54]** My goal is to complete this program.
+
+**[00:04:55–00:04:56]** To complete this program.
+
+**[00:04:56–00:04:58]** still looking through the same point of view
+
+**[00:04:58–00:05:00]** person who wants to succeed
+
+**[00:05:00–00:05:02]** do you have any other need
+
+**[00:05:02–00:05:04]** intention or goal?
+
+**[00:05:08–00:05:09]** To
+
+**[00:05:09–00:05:14]** make my dissertation
+
+**[00:05:14–00:05:15]** meaningful
+
+**[00:05:15–00:05:17]** Thank you
+
+**[00:05:17–00:05:20]** and still looking from the same point of view
+
+**[00:05:20–00:05:21]** person who wants to succeed
+
+**[00:05:21–00:05:24]** do you have any other need, intention
+
+**[00:05:24–00:05:25]** or goal?
+
+**[00:05:37–00:05:38]** I have an intention
+
+**[00:05:38–00:05:41]** to do well in the program
+
+**[00:05:41–00:05:42]** while I'm in the program so far
+
+**[00:05:43–00:05:44]** Thank you.
+
+**[00:05:45–00:05:47]** And as you look through the same point of view,
+
+**[00:05:47–00:05:48]** person who wants to succeed,
+
+**[00:05:49–00:05:52]** do you have any other need, intention, or goal?
+
+**[00:06:02–00:06:02]** No.
+
+**[00:06:03–00:06:04]** Okay, thank you.
+
+**[00:06:04–00:06:06]** And still looking through the same eyes,
+
+**[00:06:07–00:06:08]** person who wants to succeed,
+
+**[00:06:09–00:06:12]** do you have a belief, conclusion, or decision?
+
+**[00:06:29–00:06:32]** I have a belief that I can't quit right now,
+
+**[00:06:32–00:06:33]** that I have to move forward.
+
+**[00:06:35–00:06:36]** That you have to move forward.
+
+**[00:06:36–00:06:37]** Okay, thank you.
+
+**[00:06:38–00:06:44]** Still from the same point of view, person who wants to succeed, do you have any other belief, conclusion, or decision?
+
+**[00:06:49–00:06:54]** I have to decide how to organize my team, effectively.
+
+**[00:06:56–00:06:57]** Okay, thank you.
+
+**[00:06:57–00:07:03]** And from the same point of view, person who wants to succeed, do you have any other belief, conclusion, or decision?
+
+**[00:07:15–00:07:16]** No.
+
+**[00:07:17–00:07:18]** Okay, thank you.
+
+**[00:07:18–00:07:20]** And now, let me ask you this question.
+
+**[00:07:20–00:07:28]** instead of this identity, instead of this person who wants to succeed, what kind of person would
+
+**[00:07:28–00:07:44]** you like to be? A person who is calm. Okay, thank you. At least a little bit, assume this point of
+
+**[00:07:44–00:07:51]** view, a person who is calm. Look to the eyes of this person who is calm and tell me from this
+
+**[00:07:51–00:08:10]** point of view, person who is calm, what is your need, intention, or goal? My goal is to remain calm.
+
+**[00:08:10–00:08:14]** Thank you. And still from the same point of view, person who is calm,
+
+**[00:08:15–00:08:33]** do you have any other need, intention, or goal? My goal is to not to overreact.
+
+**[00:08:34–00:08:38]** Okay. Thank you. And still looking through the same eyes, person who is calm,
+
+**[00:08:38–00:08:54]** do you have any other need intention or goal my intention is also to be successful thank you
+
+**[00:08:54–00:08:59]** and do you have any other need intention or goal from the same point of view person who is calm
+
+**[00:08:59–00:09:09]** no thank you and still through the same eyes person who is calm do you have a belief conclusion
+
+**[00:09:09–00:09:25]** or decision? I have a belief that I can do this. Is it that I can or I cannot? I can do this.
+
+**[00:09:26–00:09:31]** Can do this. Okay. Still looking through the same eyes. Person who is calm. Do you have any other
+
+**[00:09:31–00:09:53]** belief, conclusion, or decision? I'm deciding to stay calm. Okay. Thank you. Still looking
+
+**[00:09:53–00:09:59]** through the same eyes. Person who is calm. Do you have any other belief, conclusion, or decision?
+
+**[00:09:59–00:10:15]** No. Okay, thank you. Now you have these two on one side, person who wants to succeed,
+
+**[00:10:15–00:10:22]** on the other side person who is calm. Now please feel them both at the same time. Be
+
+**[00:10:22–00:10:33]** aware of both of them at the same time and as you are, just inhale, exhale deeply. So
+
+**[00:10:33–00:10:38]** notice what is happening with these two now. Can you still feel them separately? The person
+
+**[00:10:38–00:10:40]** who wants to succeed and person who is calm?
+
+**[00:10:46–00:10:47]** Slightly, yes.
+
+**[00:10:47–00:10:48]** Slightly, yes.
+
+**[00:10:48–00:10:51]** If these two, person who wants to succeed
+
+**[00:10:51–00:10:54]** and person who is calm, if they merged,
+
+**[00:10:54–00:11:00]** if they're integrated, could something bad happen?
+
+**[00:11:00–00:11:06]** I worry that I would become too distracted.
+
+**[00:11:06–00:11:09]** Okay, thank you.
+
+**[00:11:09–00:11:13]** And if these two integrated, person who wants to succeed
+
+**[00:11:13–00:11:14]** and person who is calm,
+
+**[00:11:14–00:11:16]** could something else bad happen?
+
+**[00:11:22–00:11:24]** Possibly my work wouldn't be as good.
+
+**[00:11:25–00:11:26]** Okay, thank you.
+
+**[00:11:26–00:11:28]** And if these two integrated,
+
+**[00:11:28–00:11:31]** person who wants to succeed and person who is calm,
+
+**[00:11:31–00:11:33]** could something else bad happen?
+
+**[00:11:39–00:11:39]** No.
+
+**[00:11:40–00:11:41]** And if they integrated,
+
+**[00:11:41–00:11:44]** this person who wants to succeed and person who is calm,
+
+**[00:11:44–00:11:45]** if they integrated, merged,
+
+**[00:11:46–00:11:47]** could something good happen?
+
+**[00:11:53–00:11:56]** Yes, I would feel more present
+
+**[00:11:56–00:11:58]** and be able to work on my projects.
+
+**[00:11:59–00:12:00]** Thank you.
+
+**[00:12:00–00:12:03]** And could something else could happen if these two integrate it?
+
+**[00:12:03–00:12:05]** Person who wants to succeed and person who is calm?
+
+**[00:12:12–00:12:13]** I would be more productive.
+
+**[00:12:14–00:12:15]** Thank you.
+
+**[00:12:15–00:12:18]** And could something else could happen if these two integrate it?
+
+**[00:12:18–00:12:20]** Person who wants to succeed and person who is calm?
+
+**[00:12:25–00:12:25]** No.
+
+**[00:12:26–00:12:26]** Okay, thank you.
+
+**[00:12:27–00:12:29]** And again, feel both at the same time.
+
+**[00:12:29–00:12:33]** Both person who wants to succeed and person who is calm at the same time.
+
+**[00:12:33–00:12:35]** And as you feel them, just inhale, let's say.
+
+**[00:12:41–00:12:42]** Okay, thank you.
+
+**[00:12:42–00:12:45]** So what is happening with them now? Can you feel them separately?
+
+**[00:12:49–00:12:50]** No.
+
+**[00:12:50–00:12:52]** No? Okay, thank you.
+
+**[00:12:52–00:12:58]** So let's go back to what we started from to see what is happening with that now.
+
+**[00:12:59–00:13:02]** So it was too many projects and feeling overwhelmed.
+
+**[00:13:02–00:13:06]** Now, when you think about too many projects, how do you feel?
+
+**[00:13:10–00:13:17]** I feel calmer and I feel that I can just, I need to be calm to be more productive
+
+**[00:13:17–00:13:18]** because that is the goal.
+
+**[00:13:20–00:13:20]** Okay.
+
+**[00:13:21–00:13:21]** Okay.
+
+**[00:13:22–00:13:22]** All right.
+
+**[00:13:23–00:13:24]** And let me ask you this question.
+
+**[00:13:25–00:13:26]** When you think about too many projects,
+
+**[00:13:26–00:13:28]** is there anything else about that?
+
+**[00:13:29–00:13:30]** Anything else negative?
+
+**[00:13:36–00:13:37]** Yes.
+
+**[00:13:40–00:13:41]** No, I just,
+
+**[00:13:41–00:13:43]** I know that I just have to organize myself
+
+**[00:13:43–00:13:46]** and just remain calm that I can do it.
+
+**[00:13:47–00:13:47]** Okay.
+
+**[00:13:48–00:13:49]** Thank you.
+
+**[00:13:51–00:13:52]** Thank you all.

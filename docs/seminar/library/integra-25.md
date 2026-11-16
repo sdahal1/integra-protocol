@@ -1,0 +1,377 @@
+# Advanced method step by step
+
+Source: [25 advanced method step by step.mp4](/Users/robdahal/Desktop/SelfEducation/04-Energy_work/Vladimir%20Stojakovic%20-%20Integra%20Protocol%20Self-Study%20Seminar/25%20advanced%20method%20step%20by%20step.mp4)
+
+Source ID: integra-25
+
+SHA-256: 5a6b117fda9088868228c1204c1af16fba1cf02650e0ca48855a5bdf71f60be4
+
+Method: Local MLX Whisper large-v3-turbo; Silero VAD cross-check and original-recording timestamps. Targeted corrections are documented in the review report.
+
+Accuracy: Full spoken-content transcription, including source claims and repetitions; not fully listening-verified.
+
+Duration: 00:17:41
+
+Review notes: 
+
+**[00:00:07–00:00:18]** Advanced Method Step by Step. While listening to this video, please refer to the seminar handout for the Advanced Method.
+
+**[00:00:19–00:00:32]** There are identities and there are identifications. In an average human being, there are many unconscious identities and identifications.
+
+**[00:00:32–00:00:49]** The term identity refers to what we identify with on the level of personality, while the term identification refers to what we identify with on the level of the being.
+
+**[00:00:50–00:00:53]** There is the only difference between the two.
+
+**[00:00:55–00:00:59]** Identities and identifications have the same structure.
+
+**[00:01:00–00:01:04]** They consist of a goal and a point of view.
+
+**[00:01:04–00:01:12]** If they are stuck, they both have their opposing identity or identification.
+
+**[00:01:14–00:01:24]** Most importantly, they are both integrated when we assume their point of view and recognize their goal.
+
+**[00:01:25–00:01:28]** Following are examples of identities.
+
+**[00:01:28–00:01:37]** Point of view, inferior person, with the goal to avoid attention and danger.
+
+**[00:01:37–00:01:45]** Point of view, isolated person, with the goal to turn to myself.
+
+**[00:01:45–00:01:56]** Point of view, person who does not deserve respect, with the goal to do what I want without guilt.
+
+**[00:01:56–00:02:00]** some examples of identifications.
+
+**[00:02:02–00:02:07]** Point of view, consciousness, with the goal to maintain awareness.
+
+**[00:02:08–00:02:13]** Point of view, I, with the goal to exist.
+
+**[00:02:15–00:02:20]** Point of view, being, with the goal to have myself.
+
+**[00:02:20–00:02:25]** Point of view, nothing, with the goal to fulfill myself.
+
+**[00:02:25–00:02:31]** Point of view presence with the goal to be aware of myself.
+
+**[00:02:33–00:02:35]** Why mention identifications now?
+
+**[00:02:36–00:02:39]** Advanced method goes deeper than the other two.
+
+**[00:02:40–00:02:44]** Therefore, it often results in high-level identifications coming up.
+
+**[00:02:45–00:02:47]** We need to be aware of this.
+
+**[00:02:48–00:02:53]** Identities usually appear in the beginning and in the middle of the process,
+
+**[00:02:53–00:02:56]** and identifications appear towards the end.
+
+**[00:02:57–00:03:01]** The most important reason for emphasizing the difference
+
+**[00:03:01–00:03:06]** between identities and identifications is as follows.
+
+**[00:03:07–00:03:10]** When a beginner arrives at identifications,
+
+**[00:03:11–00:03:20]** such as consciousness, I, being, presence, emptiness, nothing, and similar,
+
+**[00:03:20–00:03:25]** he may assume that he has completed the process, that he has reached the state
+
+**[00:03:25–00:03:33]** outside of identities and identifications. But in many cases that's
+
+**[00:03:33–00:03:39]** not true. When it is true it's the end of the process. When it is not true, when we
+
+**[00:03:39–00:03:45]** encounter high-level identifications, they should also be integrated, which
+
+**[00:03:45–00:03:53]** means we continue the process. When the client reports identifications, how do we know is
+
+**[00:03:53–00:04:01]** that an identification or is that the end of the process? I will answer this question
+
+**[00:04:01–00:04:09]** a bit later in this video. Now, when we know the difference between identities and identifications,
+
+**[00:04:09–00:04:15]** let's discuss the technical points of advanced methods.
+
+**[00:04:15–00:04:21]** method has only one new question. Other questions from advanced method are also
+
+**[00:04:21–00:04:27]** used in the other two methods and they are explained in the relevant videos. In
+
+**[00:04:27–00:04:33]** this video I assume you are familiar with them now. Here I will only discuss
+
+**[00:04:33–00:04:40]** the new question which is question number four. Feel goal? What happens? Image,
+
+**[00:04:40–00:04:42]** thought, emotion, body sensation.
+
+**[00:04:43–00:04:48]** For example, from the point of view of able person, what is your goal?
+
+**[00:04:49–00:04:50]** To be independent.
+
+**[00:04:51–00:04:53]** Feel to be independent.
+
+**[00:04:54–00:04:55]** And notice what comes up.
+
+**[00:04:56–00:04:58]** I feel fear.
+
+**[00:04:59–00:05:04]** The purpose of the question four is to activate more charge.
+
+**[00:05:05–00:05:11]** In the other two methods, we are instructed just to list goals, not to feel them.
+
+**[00:05:11–00:05:19]** By feeling a goal, as we do in advanced method, we activate more charge, which enables us to go deeper.
+
+**[00:05:20–00:05:22]** By feeling the goal, we take sides.
+
+**[00:05:22–00:05:29]** We support one side of the conflict, which provokes another reaction, hence we get to go deeper.
+
+**[00:05:29–00:05:34]** Another reason why we go deeper with advanced method is as follows.
+
+**[00:05:35–00:05:39]** The other two methods have stable points, and advanced method doesn't.
+
+**[00:05:39–00:05:43]** Standard method has the emotion as the first stable point,
+
+**[00:05:44–00:05:46]** and then it has the first identity,
+
+**[00:05:46–00:05:49]** and then the opposite identity as stable points.
+
+**[00:05:50–00:05:53]** You stay for a while with these stable points,
+
+**[00:05:53–00:05:56]** which makes the process easier, but also more shallow.
+
+**[00:05:57–00:05:59]** Advanced method has no stable points,
+
+**[00:06:00–00:06:02]** and that's another reason why it goes deeper.
+
+**[00:06:04–00:06:06]** The flow of advanced method is simple.
+
+**[00:06:07–00:06:11]** Besides putting the definition of the topic in the proper format,
+
+**[00:06:12–00:06:14]** question 1 identifies the content.
+
+**[00:06:15–00:06:19]** Since it is the topic definition, it must be an emotion.
+
+**[00:06:20–00:06:25]** Question 2 identifies the relevant identity from which we perceive that content.
+
+**[00:06:26–00:06:30]** Question 3 identifies the goal of the identity.
+
+**[00:06:30–00:06:34]** Question 4 provokes the next reaction, which is content.
+
+**[00:06:34–00:06:38]** image, thought, emotion or body sensation.
+
+**[00:06:39–00:06:40]** And so on we continue.
+
+**[00:06:41–00:06:42]** Content, identity, goal.
+
+**[00:06:43–00:06:45]** Content, identity, goal.
+
+**[00:06:46–00:06:51]** In circles, until we run out of identities and identifications
+
+**[00:06:51–00:06:56]** and reach the state without identities and identifications.
+
+**[00:06:57–00:07:01]** That's what repeat 2 to 4
+
+**[00:07:01–00:07:06]** until no more identities and identifications appear means.
+
+**[00:07:06–00:07:10]** We keep going in circles like a drill, deeper and deeper,
+
+**[00:07:11–00:07:15]** until we make a hole and reach empty space on the other side.
+
+**[00:07:16–00:07:25]** As we keep going in circles, we will shift from one side of the internal conflict to its other side.
+
+**[00:07:26–00:07:28]** We might be in the weak person identity.
+
+**[00:07:28–00:07:35]** and then, as we continue, we shift into the strong person identity.
+
+**[00:07:36–00:07:40]** The goal of advanced method is to integrate all identities
+
+**[00:07:40–00:07:44]** that exist on both sides of the internal conflict
+
+**[00:07:44–00:07:48]** until we arrive into the state of no identity.
+
+**[00:07:50–00:07:55]** This state of no identity is the end phenomenon of advanced method
+
+**[00:07:55–00:08:00]** and it will be your biggest challenge in learning advanced method on your own.
+
+**[00:08:03–00:08:05]** It is challenging to recognize this state
+
+**[00:08:05–00:08:10]** without having another person to guide you and tell you that's it.
+
+**[00:08:12–00:08:15]** But if you keep an open mind and don't force it,
+
+**[00:08:16–00:08:17]** you will learn to recognize it.
+
+**[00:08:18–00:08:23]** And don't be discouraged if you don't recognize it in the first attempt.
+
+**[00:08:24–00:08:25]** Keep going.
+
+**[00:08:25–00:08:41]** When you guide other people through advanced method for the first time, they should be notified beforehand that they would enter a state without identities, to expect it as the normal end phenomenon.
+
+**[00:08:42–00:08:51]** Note, when guiding someone through Integra Protocol methods for the first time, never start with the advanced method.
+
+**[00:08:51–00:08:58]** You could start with standard method, but it is even better to start with basic method.
+
+**[00:08:59–00:09:06]** Then, after they experience basic method, if it goes okay, move to standard method.
+
+**[00:09:07–00:09:15]** And after a few times with standard method, if it goes okay, you could move to advanced method.
+
+**[00:09:15–00:09:26]** Even though it is the simplest method of all three and technically the easiest to run, advanced method is the most demanding for the client.
+
+**[00:09:27–00:09:32]** They need the ability to verbalize a number of identities in one process.
+
+**[00:09:32–00:09:46]** Most people have no problem doing it if they were progressively and gradually guided, starting from basic across standard to the advanced.
+
+**[00:09:46–00:10:04]** I pointed out earlier in this video that when the client reports high-level identifications like me, nothing, consciousness, and so on, it could be two things.
+
+**[00:10:04–00:10:11]** 1. It is an identification and the process should continue.
+
+**[00:10:12–00:10:15]** 2. It is the end of the process.
+
+**[00:10:16–00:10:19]** The client reached the state of no identity
+
+**[00:10:19–00:10:24]** and the client uses terms like me or consciousness
+
+**[00:10:24–00:10:26]** to name the state somehow,
+
+**[00:10:27–00:10:29]** even though there is no identification.
+
+**[00:10:32–00:10:33]** How do we know the difference?
+
+**[00:10:34–00:10:35]** It's simple.
+
+**[00:10:35–00:10:40]** if this state has a goal, it's an identification,
+
+**[00:10:41–00:10:45]** and if there is no goal, it's the end of the process.
+
+**[00:10:47–00:10:50]** For example, feel yourself.
+
+**[00:10:51–00:10:53]** What identity are you in now?
+
+**[00:10:55–00:10:57]** Emptiness. I am emptiness.
+
+**[00:10:59–00:11:00]** Feel emptiness.
+
+**[00:11:00–00:11:04]** From the point of view of emptiness, do you have a goal?
+
+**[00:11:04–00:11:07]** Or no?
+
+**[00:11:09–00:11:10]** To fulfill myself.
+
+**[00:11:11–00:11:15]** In this case, it is an identification.
+
+**[00:11:16–00:11:22]** The client has a goal, and you should continue the process by moving to the question 4.
+
+**[00:11:23–00:11:25]** Feel to fulfill myself.
+
+**[00:11:26–00:11:27]** What comes up now?
+
+**[00:11:30–00:11:32]** Here is the same example without a goal.
+
+**[00:11:34–00:11:35]** Feel yourself.
+
+**[00:11:36–00:11:38]** What identity are you in now?
+
+**[00:11:40–00:11:40]** Emptiness.
+
+**[00:11:41–00:11:41]** I am emptiness.
+
+**[00:11:43–00:11:44]** Feel emptiness.
+
+**[00:11:44–00:11:55]** From the point of view of emptiness, do you have a goal? Or no? No, there is no goal.
+
+**[00:11:55–00:12:01]** In this case, it's the end of the process.
+
+**[00:12:01–00:12:08]** Again, do not confuse an identification and the end of the process.
+
+**[00:12:08–00:12:17]** If there is a goal, that's an identification. If there is no goal, it's the end of the process.
+
+**[00:12:17–00:12:23]** However, notice another important detail here.
+
+**[00:12:23–00:12:28]** The previous only applies to high-level identifications.
+
+**[00:12:28–00:12:31]** It doesn't apply to identities.
+
+**[00:12:31–00:12:34]** Take this example.
+
+**[00:12:34–00:12:35]** Feel yourself.
+
+**[00:12:35–00:12:39]** What identity are you in now?
+
+**[00:12:39–00:12:41]** Angry person.
+
+**[00:12:41–00:12:43]** Feel angry person.
+
+**[00:12:43–00:12:49]** From the point of view of angry person, what is your goal?
+
+**[00:12:49–00:12:52]** There is no goal.
+
+**[00:12:52–00:12:57]** In this case, it's not the end of the process and we should continue.
+
+**[00:12:57–00:13:04]** Here is the same example including how to continue.
+
+**[00:13:04–00:13:06]** Feel yourself.
+
+**[00:13:06–00:13:09]** What identity are you in now?
+
+**[00:13:09–00:13:11]** Angry person.
+
+**[00:13:11–00:13:14]** Feel angry person.
+
+**[00:13:14–00:13:19]** From the point of view of angry person, what is your goal?
+
+**[00:13:19–00:13:28]** is no goal what comes up now I feel frustrated feel frustration and feel
+
+**[00:13:28–00:13:38]** yourself what identity are you in now powerless person advanced method finishes
+
+**[00:13:38–00:13:45]** in a state empty of emotional and mental charge and this state is usually
+
+**[00:13:45–00:13:52]** preceded by high-level identifications. Low-level identities, like angry person,
+
+**[00:13:52–00:14:00]** indicate that the client is still not close to the end, so we continue. Here is
+
+**[00:14:00–00:14:10]** another mistake practitioners often do when using question 4. Feel yourself. What
+
+**[00:14:10–00:14:17]** identity are you in now? Persistent person. Feel persistent person from the point of
+
+**[00:14:17–00:14:30]** view of persistent person. What is your goal? To have success. Feel success. This
+
+**[00:14:30–00:14:38]** is a mistake. The client should feel to have success, not success. There is a
+
+**[00:14:38–00:14:44]** difference between feeling to have success and feeling success. The
+
+**[00:14:44–00:14:51]** difference between wanting something and having something. To avoid this mistake
+
+**[00:14:51–00:14:57]** in question 4 in particular and in Integra protocol in general, never
+
+**[00:14:57–00:15:05]** rephrase client's words, always use them exactly as stated by the client, without
+
+**[00:15:05–00:15:11]** any changes. Even when it is grammatically incorrect or when you
+
+**[00:15:11–00:15:18]** don't understand what the client said, this is important. Verbalization problems.
+
+**[00:15:18–00:15:24]** There are two difficult aspects of Integra protocol.
+
+**[00:15:25–00:15:27]** Confrontation and verbalization.
+
+**[00:15:29–00:15:36]** Confrontation means that we have to face mind content that we would rather avoid.
+
+**[00:15:38–00:15:44]** Verbalization means that we have to find the correct words for that mind content.
+
+**[00:15:44–00:15:53]** Here is what we do when the client is unable to verbalize the identity, content or goal.
+
+**[00:15:53–00:15:58]** When the client is unable to verbalize the identity.
+
+**[00:15:58–00:16:04]** I feel an identity, but I cannot put it into words.
+
+**[00:16:04–00:16:11]** That's alright. Feel that identity, even though you cannot verbalize it.
+
+**[00:16:17–00:16:25]** eyes of that identity. What is your goal? When the client is unable to verbalize the
+
+**[00:16:25–00:16:36]** mind content. I feel something, but I cannot verbalize it. That's okay. Feel it the best
+
+**[00:16:36–00:16:48]** you can. Feel yourself. What identity are you in now? When the client is unable to verbalize
+
+**[00:16:48–00:17:00]** the goal. I have a goal but I cannot verbalize it. That's alright. Feel the goal and tell me anything
+
+**[00:17:00–00:17:11]** about it. It's like when you want other people to be happy. Feel when you want other people to be
+
+**[00:17:11–00:17:21]** happy. What comes up now? Advanced method has only three questions that we repeat in circles
+
+**[00:17:21–00:17:25]** and it is relatively easy to get lost.
+
+**[00:17:25–00:17:30]** If you get lost and you don't know what is the next question,
+
+**[00:17:31–00:17:34]** simply ask, what comes up now?
+
+**[00:17:35–00:17:38]** Take whatever they give you and continue.

@@ -11,7 +11,7 @@ parser = argparse.ArgumentParser()
 parser.add_argument('--port', type=int, default=4179)
 parser.add_argument('--open', action='store_true')
 args = parser.parse_args()
-root = Path(__file__).resolve().parents[1] / 'dist'
+root = Path(__file__).resolve().parents[1] / 'docs'
 handler = partial(SimpleHTTPRequestHandler, directory=str(root))
 try:
     server = ThreadingHTTPServer(('127.0.0.1', args.port), handler)
